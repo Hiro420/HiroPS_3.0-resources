@@ -1,60 +1,60 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "condID": 2012101,
-        "aJJBMOGOMPA": 2012121,
-        "cOECBOFNJGK": 1,
+        "AJJBMOGOMPA": 2012121,
+        "COECBOFNJGK": 1,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_GATHER",
-        "cAHFEEFGMDO": [
+        "CAHFEEFGMDO": [
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70520034,
                     70520030
                 ],
-                "aBAMAFBAGGH": 111
+                "ABAMAFBAGGH": 111
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70520028
                 ],
-                "aBAMAFBAGGH": 112
+                "ABAMAFBAGGH": 112
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70520035,
                     70520033
                 ],
-                "aBAMAFBAGGH": 113
+                "ABAMAFBAGGH": 113
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70520037,
                     70520025
                 ],
-                "aBAMAFBAGGH": 114
+                "ABAMAFBAGGH": 114
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70520027,
                     70520031
                 ],
-                "aBAMAFBAGGH": 115
+                "ABAMAFBAGGH": 115
             }
         ],
-        "oAFNCGMDFJF": 72691,
-        "dNGBDMEGOMI": 7269102,
-        "kJBGNFDHHHH": 7269104,
-        "hJJHPMLJKMC": [
+        "OAFNCGMDFJF": 72691,
+        "DNGBDMEGOMI": 7269102,
+        "KJBGNFDHHHH": 7269104,
+        "HJJHPMLJKMC": [
             600109,
             600110,
             600112
         ],
         "watcherID": 12012101,
-        "aAMDCICEAHG": 2916348678,
-        "aJPALJMGKJF": 3416993127,
-        "eEIACCGOGON": 3867564812,
-        "lGFAFDENFEG": 1869859583,
-        "eAFGLJPGJIM": [
+        "AAMDCICEAHG": 2916348678,
+        "AJPALJMGKJF": 3416993127,
+        "EEIACCGOGON": 3867564812,
+        "LGFAFDENFEG": 1869859583,
+        "EAFGLJPGJIM": [
             101,
             102,
             0,
@@ -62,40 +62,40 @@
         ]
     },
     {
-        "iD": 2,
+        "ID": 2,
         "condID": 2012102,
-        "aJJBMOGOMPA": 2012122,
-        "cOECBOFNJGK": 2,
+        "AJJBMOGOMPA": 2012122,
+        "COECBOFNJGK": 2,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_MONSTER",
-        "cAHFEEFGMDO": [
+        "CAHFEEFGMDO": [
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     28010104,
                     28010105,
                     28010207,
                     28010204,
                     28010206
                 ],
-                "aBAMAFBAGGH": 211
+                "ABAMAFBAGGH": 211
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     28020701,
                     28020801,
                     28020503
                 ],
-                "aBAMAFBAGGH": 212
+                "ABAMAFBAGGH": 212
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     28030306,
                     28030102,
                     28050104
                 ],
-                "aBAMAFBAGGH": 213
+                "ABAMAFBAGGH": 213
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     28010401,
                     28010403,
                     28040505,
@@ -103,26 +103,26 @@
                     28040202,
                     28040301
                 ],
-                "aBAMAFBAGGH": 214
+                "ABAMAFBAGGH": 214
             },
             {
-                "fPEBGDCMJIA": []
+                "FPEBGDCMJIA": []
             }
         ],
-        "oAFNCGMDFJF": 72692,
-        "dNGBDMEGOMI": 7269202,
-        "kJBGNFDHHHH": 7269204,
-        "hJJHPMLJKMC": [
+        "OAFNCGMDFJF": 72692,
+        "DNGBDMEGOMI": 7269202,
+        "KJBGNFDHHHH": 7269204,
+        "HJJHPMLJKMC": [
             600114,
             600115,
             600117
         ],
         "watcherID": 12012102,
-        "aAMDCICEAHG": 229165270,
-        "aJPALJMGKJF": 1594074863,
-        "eEIACCGOGON": 2820371500,
-        "lGFAFDENFEG": 925815207,
-        "eAFGLJPGJIM": [
+        "AAMDCICEAHG": 229165270,
+        "AJPALJMGKJF": 1594074863,
+        "EEIACCGOGON": 2820371500,
+        "LGFAFDENFEG": 925815207,
+        "EAFGLJPGJIM": [
             201,
             202,
             0,
@@ -131,58 +131,58 @@
         ]
     },
     {
-        "iD": 3,
+        "ID": 3,
         "condID": 2012103,
-        "aJJBMOGOMPA": 2012123,
-        "cOECBOFNJGK": 3,
+        "AJJBMOGOMPA": 2012123,
+        "COECBOFNJGK": 3,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_GATHER",
-        "cAHFEEFGMDO": [
+        "CAHFEEFGMDO": [
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70540013,
                     70540022
                 ],
-                "aBAMAFBAGGH": 311
+                "ABAMAFBAGGH": 311
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70510009,
                     70540020,
                     70540019
                 ],
-                "aBAMAFBAGGH": 312
+                "ABAMAFBAGGH": 312
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70510004,
                     70590013
                 ],
-                "aBAMAFBAGGH": 313
+                "ABAMAFBAGGH": 313
             },
             {
-                "fPEBGDCMJIA": [
+                "FPEBGDCMJIA": [
                     70540018
                 ],
-                "aBAMAFBAGGH": 314
+                "ABAMAFBAGGH": 314
             },
             {
-                "fPEBGDCMJIA": []
+                "FPEBGDCMJIA": []
             }
         ],
-        "oAFNCGMDFJF": 72693,
-        "dNGBDMEGOMI": 7269302,
-        "kJBGNFDHHHH": 7269304,
-        "hJJHPMLJKMC": [
+        "OAFNCGMDFJF": 72693,
+        "DNGBDMEGOMI": 7269302,
+        "KJBGNFDHHHH": 7269304,
+        "HJJHPMLJKMC": [
             600119,
             600120,
             600122
         ],
         "watcherID": 12012103,
-        "aAMDCICEAHG": 677012526,
-        "aJPALJMGKJF": 3973859279,
-        "eEIACCGOGON": 1309474836,
-        "lGFAFDENFEG": 460724287,
-        "eAFGLJPGJIM": [
+        "AAMDCICEAHG": 677012526,
+        "AJPALJMGKJF": 3973859279,
+        "EEIACCGOGON": 1309474836,
+        "LGFAFDENFEG": 460724287,
+        "EAFGLJPGJIM": [
             301,
             302,
             0,

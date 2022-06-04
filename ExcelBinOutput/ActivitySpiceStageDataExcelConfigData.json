@@ -1,29 +1,29 @@
 [
     {
         "id": 1,
-        "cMKJPKNFDNC": 1,
-        "kMDPCLDEMKI": 3,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 1,
+        "KMDPCLDEMKI": 3,
+        "GLJPIBAKODN": [
             100032,
             100016,
             100077
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             1,
             1,
             1
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100016,
             100077,
             100032
         ],
         "nameTextMapHash": 3525292987,
         "descTextMapHash": 1870420608,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 2,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 2,
+        "PNEDAJNFGMF": [
             110,
             130
         ],
@@ -31,19 +31,19 @@
     },
     {
         "id": 2,
-        "cMKJPKNFDNC": 2,
-        "kMDPCLDEMKI": 6,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 2,
+        "KMDPCLDEMKI": 6,
+        "GLJPIBAKODN": [
             100020,
             100026,
             100016
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             2,
             1,
             1
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100016,
             100020,
             100026,
@@ -51,10 +51,10 @@
         ],
         "nameTextMapHash": 3673086795,
         "descTextMapHash": 298304280,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 2,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 2,
+        "PNEDAJNFGMF": [
             110,
             130
         ],
@@ -62,19 +62,19 @@
     },
     {
         "id": 3,
-        "cMKJPKNFDNC": 3,
-        "kMDPCLDEMKI": 9,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 3,
+        "KMDPCLDEMKI": 9,
+        "GLJPIBAKODN": [
             100015,
             100016,
             100075
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             1,
             2,
             1
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100016,
             100075,
             100015,
@@ -82,10 +82,10 @@
         ],
         "nameTextMapHash": 545802003,
         "descTextMapHash": 467760952,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 3,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 3,
+        "PNEDAJNFGMF": [
             100,
             120
         ],
@@ -93,19 +93,19 @@
     },
     {
         "id": 4,
-        "cMKJPKNFDNC": 4,
-        "kMDPCLDEMKI": 12,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 4,
+        "KMDPCLDEMKI": 12,
+        "GLJPIBAKODN": [
             100034,
             100020,
             100016
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             1,
             2,
             2
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100016,
             100020,
             100020,
@@ -114,10 +114,10 @@
         ],
         "nameTextMapHash": 232739563,
         "descTextMapHash": 2310127776,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 3,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 3,
+        "PNEDAJNFGMF": [
             100,
             120
         ],
@@ -125,19 +125,19 @@
     },
     {
         "id": 5,
-        "cMKJPKNFDNC": 5,
-        "kMDPCLDEMKI": 15,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 5,
+        "KMDPCLDEMKI": 15,
+        "GLJPIBAKODN": [
             100026,
             100075,
             100077
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             2,
             1,
             2
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100077,
             100077,
             100026,
@@ -146,10 +146,10 @@
         ],
         "nameTextMapHash": 2382072091,
         "descTextMapHash": 3782867624,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 4,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 4,
+        "PNEDAJNFGMF": [
             90,
             110
         ],
@@ -157,19 +157,19 @@
     },
     {
         "id": 6,
-        "cMKJPKNFDNC": 6,
-        "kMDPCLDEMKI": 18,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 6,
+        "KMDPCLDEMKI": 18,
+        "GLJPIBAKODN": [
             100015,
             100020,
             100075
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             2,
             2,
             2
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100020,
             100015,
             100020,
@@ -179,10 +179,10 @@
         ],
         "nameTextMapHash": 2491925251,
         "descTextMapHash": 1800552600,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 4,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 4,
+        "PNEDAJNFGMF": [
             90,
             110
         ],
@@ -190,19 +190,19 @@
     },
     {
         "id": 7,
-        "cMKJPKNFDNC": 7,
-        "kMDPCLDEMKI": 21,
-        "gLJPIBAKODN": [
+        "CMKJPKNFDNC": 7,
+        "KMDPCLDEMKI": 21,
+        "GLJPIBAKODN": [
             100034,
             100032,
             100026
         ],
-        "fBBDJKJAMKJ": [
+        "FBBDJKJAMKJ": [
             1,
             1,
             4
         ],
-        "bNJHGMEHDEK": [
+        "BNJHGMEHDEK": [
             100026,
             100032,
             100026,
@@ -212,10 +212,10 @@
         ],
         "nameTextMapHash": 2380693731,
         "descTextMapHash": 3741042336,
-        "fMMJLOCHHLM": 400.0,
+        "FMMJLOCHHLM": 400.0,
         "times": 7,
-        "aDLDNGKKOHI": 4,
-        "pNEDAJNFGMF": [
+        "ADLDNGKKOHI": 4,
+        "PNEDAJNFGMF": [
             80,
             100
         ],

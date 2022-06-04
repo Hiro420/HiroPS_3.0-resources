@@ -1,54 +1,54 @@
 [
     {
-        "id": 1,
+        "Id": 1,
         "questId": 4001420,
         "openDay": 1,
         "chapterIcon": "UI_ChapterIcon_LunaRite",
-        "aGJEMNHKDOP": 3869441574,
+        "AGJEMNHKDOP": 3869441574,
         "nameTextMapHash": 4016906538,
         "descTextMapHash": 1255455048
     },
     {
-        "id": 2,
+        "Id": 2,
         "questId": 4001501,
         "openDay": 1,
         "preQuestId": 4001419,
-        "kCNDFPDIHOJ": 1000,
+        "KCNDFPDIHOJ": 1000,
         "chapterIcon": "UI_ChapterIcon_LunaRite",
-        "aGJEMNHKDOP": 2443964350,
+        "AGJEMNHKDOP": 2443964350,
         "nameTextMapHash": 1794122378,
         "descTextMapHash": 3787815256
     },
     {
-        "id": 3,
+        "Id": 3,
         "questId": 7150012,
-        "dENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
+        "DENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
         "openDay": 1,
         "preQuestId": 4001419,
         "chapterIcon": "UI_ChapterIcon_Liyue",
-        "aGJEMNHKDOP": 1854507054,
+        "AGJEMNHKDOP": 1854507054,
         "nameTextMapHash": 216427738,
         "descTextMapHash": 3493827216
     },
     {
-        "id": 4,
+        "Id": 4,
         "questId": 7050117,
-        "dENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
+        "DENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
         "openDay": 5,
         "preQuestId": 7150008,
         "chapterIcon": "UI_ChapterIcon_Mengde",
-        "aGJEMNHKDOP": 3600782926,
+        "AGJEMNHKDOP": 3600782926,
         "nameTextMapHash": 1419266586,
         "descTextMapHash": 2598845136
     },
     {
-        "id": 5,
+        "Id": 5,
         "questId": 7050011,
-        "dENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
+        "DENJEGMNOKN": "LUNA_RITE_QUEST_TYPE_BIGWORLD",
         "openDay": 9,
         "preQuestId": 7050110,
         "chapterIcon": "UI_ChapterIcon_Dragonspine",
-        "aGJEMNHKDOP": 3985323350,
+        "AGJEMNHKDOP": 3985323350,
         "nameTextMapHash": 693897906,
         "descTextMapHash": 3918859240
     }

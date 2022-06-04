@@ -1,187 +1,187 @@
 [
     {
         "costumeId": 200301,
-        "oBPKMNBNAPK": 2,
+        "OBPKMNBNAPK": 2,
         "nameTextMapHash": 1504245738,
         "descTextMapHash": 3529954098,
         "itemId": 340001,
         "avatarId": 10000003,
         "jsonName": "Avatar_Lady_Sword_QinCostumeSea",
-        "hFBCKGPNFOL": 2868096540,
-        "aBBDAEAKNDC": 150,
-        "dMGKMDJJFGC": 912980831,
-        "mNMLBKAPBDP": 81,
-        "pOIFBBGKKBB": 2368070865,
-        "oNJBFPPMCKO": 146,
-        "fBOKGHCAJIN": 264634188,
-        "lIKLAOOILNI": 26,
-        "mNBEAPLBHJE": 4,
-        "fOINIGFDKIP": "UI_AvatarIcon_QinCostumeSea",
+        "HFBCKGPNFOL": 2868096540,
+        "ABBDAEAKNDC": 150,
+        "DMGKMDJJFGC": 912980831,
+        "MNMLBKAPBDP": 81,
+        "POIFBBGKKBB": 2368070865,
+        "ONJBFPPMCKO": 146,
+        "FBOKGHCAJIN": 264634188,
+        "LIKLAOOILNI": 26,
+        "MNBEAPLBHJE": 4,
+        "FOINIGFDKIP": "UI_AvatarIcon_QinCostumeSea",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeSea",
-        "mEJFKOLJOGL": 2020408694,
-        "hFKIBEENGJG": 204
+        "MEJFKOLJOGL": 2020408694,
+        "HFKIBEENGJG": 204
     },
     {
         "costumeId": 201401,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 4121525482,
         "descTextMapHash": 2644173682,
         "itemId": 340000,
         "avatarId": 10000014,
         "jsonName": "Avatar_Girl_Catalyst_BarbaraCostumeSummertime",
-        "hFBCKGPNFOL": 2286172212,
-        "aBBDAEAKNDC": 120,
-        "dMGKMDJJFGC": 3575374808,
-        "mNMLBKAPBDP": 220,
-        "pOIFBBGKKBB": 1423683923,
-        "oNJBFPPMCKO": 91,
-        "fBOKGHCAJIN": 1985428340,
-        "lIKLAOOILNI": 176,
-        "mNBEAPLBHJE": 4,
-        "fOINIGFDKIP": "UI_AvatarIcon_BarbaraCostumeSummertime",
+        "HFBCKGPNFOL": 2286172212,
+        "ABBDAEAKNDC": 120,
+        "DMGKMDJJFGC": 3575374808,
+        "MNMLBKAPBDP": 220,
+        "POIFBBGKKBB": 1423683923,
+        "ONJBFPPMCKO": 91,
+        "FBOKGHCAJIN": 1985428340,
+        "LIKLAOOILNI": 176,
+        "MNBEAPLBHJE": 4,
+        "FOINIGFDKIP": "UI_AvatarIcon_BarbaraCostumeSummertime",
         "sideIconName": "UI_AvatarIcon_Side_BarbaraCostumeSummertime",
-        "mEJFKOLJOGL": 1711875321,
-        "hFKIBEENGJG": 254
+        "MEJFKOLJOGL": 1711875321,
+        "HFKIBEENGJG": 254
     },
     {
         "costumeId": 202701,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 2572106930,
         "descTextMapHash": 720597146,
         "itemId": 340002,
         "avatarId": 10000027,
         "jsonName": "Avatar_Lady_Catalyst_NingguangCostumeFloral",
-        "hFBCKGPNFOL": 3795161766,
-        "aBBDAEAKNDC": 81,
-        "dMGKMDJJFGC": 1937877301,
-        "mNMLBKAPBDP": 125,
-        "pOIFBBGKKBB": 2676801134,
-        "oNJBFPPMCKO": 53,
-        "fBOKGHCAJIN": 3118617660,
-        "lIKLAOOILNI": 182,
-        "mNBEAPLBHJE": 4,
-        "fOINIGFDKIP": "UI_AvatarIcon_NingguangCostumeFloral",
+        "HFBCKGPNFOL": 3795161766,
+        "ABBDAEAKNDC": 81,
+        "DMGKMDJJFGC": 1937877301,
+        "MNMLBKAPBDP": 125,
+        "POIFBBGKKBB": 2676801134,
+        "ONJBFPPMCKO": 53,
+        "FBOKGHCAJIN": 3118617660,
+        "LIKLAOOILNI": 182,
+        "MNBEAPLBHJE": 4,
+        "FOINIGFDKIP": "UI_AvatarIcon_NingguangCostumeFloral",
         "sideIconName": "UI_AvatarIcon_Side_NingguangCostumeFloral",
-        "mEJFKOLJOGL": 292976886,
-        "hFKIBEENGJG": 146
+        "MEJFKOLJOGL": 292976886,
+        "HFKIBEENGJG": 146
     },
     {
         "costumeId": 204201,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 1613857666,
         "descTextMapHash": 1532026282,
         "itemId": 340003,
         "avatarId": 10000042,
         "jsonName": "Avatar_Girl_Sword_KeqingCostumeFeather",
-        "hFBCKGPNFOL": 735819719,
-        "aBBDAEAKNDC": 244,
-        "dMGKMDJJFGC": 657937184,
-        "mNMLBKAPBDP": 207,
-        "pOIFBBGKKBB": 2768237782,
-        "oNJBFPPMCKO": 60,
-        "fBOKGHCAJIN": 3812942949,
-        "lIKLAOOILNI": 106,
-        "mNBEAPLBHJE": 4,
-        "fOINIGFDKIP": "UI_AvatarIcon_KeqingCostumeFeather",
+        "HFBCKGPNFOL": 735819719,
+        "ABBDAEAKNDC": 244,
+        "DMGKMDJJFGC": 657937184,
+        "MNMLBKAPBDP": 207,
+        "POIFBBGKKBB": 2768237782,
+        "ONJBFPPMCKO": 60,
+        "FBOKGHCAJIN": 3812942949,
+        "LIKLAOOILNI": 106,
+        "MNBEAPLBHJE": 4,
+        "FOINIGFDKIP": "UI_AvatarIcon_KeqingCostumeFeather",
         "sideIconName": "UI_AvatarIcon_Side_KeqingCostumeFeather",
-        "mEJFKOLJOGL": 3416023275,
-        "hFKIBEENGJG": 255
+        "MEJFKOLJOGL": 3416023275,
+        "HFKIBEENGJG": 255
     },
     {
         "costumeId": 200302,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 2691230306,
         "descTextMapHash": 1553444314,
         "itemId": 340006,
         "avatarId": 10000003,
         "jsonName": "Avatar_Lady_Sword_QinCostumeWic",
-        "hFBCKGPNFOL": 3169273936,
-        "aBBDAEAKNDC": 222,
-        "dMGKMDJJFGC": 1417307213,
-        "mNMLBKAPBDP": 88,
-        "pOIFBBGKKBB": 2645915336,
-        "oNJBFPPMCKO": 12,
-        "fBOKGHCAJIN": 3094819193,
-        "lIKLAOOILNI": 255,
-        "oAGIFKDPECM": true,
-        "mNBEAPLBHJE": 4,
-        "hide": true,
-        "fOINIGFDKIP": "UI_AvatarIcon_QinCostumeWic",
+        "HFBCKGPNFOL": 3169273936,
+        "ABBDAEAKNDC": 222,
+        "DMGKMDJJFGC": 1417307213,
+        "MNMLBKAPBDP": 88,
+        "POIFBBGKKBB": 2645915336,
+        "ONJBFPPMCKO": 12,
+        "FBOKGHCAJIN": 3094819193,
+        "LIKLAOOILNI": 255,
+        "OAGIFKDPECM": true,
+        "MNBEAPLBHJE": 4,
+        "Hide": true,
+        "FOINIGFDKIP": "UI_AvatarIcon_QinCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeWic",
-        "mEJFKOLJOGL": 1772128891,
-        "hFKIBEENGJG": 246
+        "MEJFKOLJOGL": 1772128891,
+        "HFKIBEENGJG": 246
     },
     {
         "costumeId": 202101,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 4237698530,
         "descTextMapHash": 2955174482,
         "itemId": 340007,
         "avatarId": 10000021,
         "jsonName": "Avatar_Girl_Bow_AmborCostumeWic",
-        "hFBCKGPNFOL": 2449922421,
-        "aBBDAEAKNDC": 49,
-        "dMGKMDJJFGC": 323828355,
-        "mNMLBKAPBDP": 115,
-        "pOIFBBGKKBB": 707337527,
-        "oNJBFPPMCKO": 158,
-        "fBOKGHCAJIN": 714701800,
-        "lIKLAOOILNI": 193,
-        "oAGIFKDPECM": true,
-        "mNBEAPLBHJE": 4,
-        "hide": true,
-        "fOINIGFDKIP": "UI_AvatarIcon_AmborCostumeWic",
+        "HFBCKGPNFOL": 2449922421,
+        "ABBDAEAKNDC": 49,
+        "DMGKMDJJFGC": 323828355,
+        "MNMLBKAPBDP": 115,
+        "POIFBBGKKBB": 707337527,
+        "ONJBFPPMCKO": 158,
+        "FBOKGHCAJIN": 714701800,
+        "LIKLAOOILNI": 193,
+        "OAGIFKDPECM": true,
+        "MNBEAPLBHJE": 4,
+        "Hide": true,
+        "FOINIGFDKIP": "UI_AvatarIcon_AmborCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_AmborCostumeWic",
-        "mEJFKOLJOGL": 2006431084,
-        "hFKIBEENGJG": 86
+        "MEJFKOLJOGL": 2006431084,
+        "HFKIBEENGJG": 86
     },
     {
         "costumeId": 204101,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 1860400666,
         "descTextMapHash": 2912743770,
         "itemId": 340008,
         "avatarId": 10000041,
         "jsonName": "Avatar_Girl_Catalyst_MonaCostumeWic",
-        "hFBCKGPNFOL": 3332241640,
-        "aBBDAEAKNDC": 108,
-        "dMGKMDJJFGC": 294820211,
-        "mNMLBKAPBDP": 187,
-        "pOIFBBGKKBB": 2078470134,
-        "oNJBFPPMCKO": 104,
-        "fBOKGHCAJIN": 2536317177,
-        "lIKLAOOILNI": 62,
-        "oAGIFKDPECM": true,
-        "mNBEAPLBHJE": 4,
-        "hide": true,
-        "fOINIGFDKIP": "UI_AvatarIcon_MonaCostumeWic",
+        "HFBCKGPNFOL": 3332241640,
+        "ABBDAEAKNDC": 108,
+        "DMGKMDJJFGC": 294820211,
+        "MNMLBKAPBDP": 187,
+        "POIFBBGKKBB": 2078470134,
+        "ONJBFPPMCKO": 104,
+        "FBOKGHCAJIN": 2536317177,
+        "LIKLAOOILNI": 62,
+        "OAGIFKDPECM": true,
+        "MNBEAPLBHJE": 4,
+        "Hide": true,
+        "FOINIGFDKIP": "UI_AvatarIcon_MonaCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_MonaCostumeWic",
-        "mEJFKOLJOGL": 107046532,
-        "hFKIBEENGJG": 229
+        "MEJFKOLJOGL": 107046532,
+        "HFKIBEENGJG": 229
     },
     {
         "costumeId": 204501,
-        "oBPKMNBNAPK": 1,
+        "OBPKMNBNAPK": 1,
         "nameTextMapHash": 2412226586,
         "descTextMapHash": 3143995322,
         "itemId": 340009,
         "avatarId": 10000045,
         "jsonName": "Avatar_Lady_Pole_RosariaCostumeWic",
-        "hFBCKGPNFOL": 3159971672,
-        "aBBDAEAKNDC": 219,
-        "dMGKMDJJFGC": 325664303,
-        "mNMLBKAPBDP": 252,
-        "pOIFBBGKKBB": 385199685,
-        "oNJBFPPMCKO": 71,
-        "fBOKGHCAJIN": 3078955739,
-        "lIKLAOOILNI": 231,
-        "oAGIFKDPECM": true,
-        "mNBEAPLBHJE": 4,
-        "hide": true,
-        "fOINIGFDKIP": "UI_AvatarIcon_RosariaCostumeWic",
+        "HFBCKGPNFOL": 3159971672,
+        "ABBDAEAKNDC": 219,
+        "DMGKMDJJFGC": 325664303,
+        "MNMLBKAPBDP": 252,
+        "POIFBBGKKBB": 385199685,
+        "ONJBFPPMCKO": 71,
+        "FBOKGHCAJIN": 3078955739,
+        "LIKLAOOILNI": 231,
+        "OAGIFKDPECM": true,
+        "MNBEAPLBHJE": 4,
+        "Hide": true,
+        "FOINIGFDKIP": "UI_AvatarIcon_RosariaCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_RosariaCostumeWic",
-        "mEJFKOLJOGL": 1612549781,
-        "hFKIBEENGJG": 175
+        "MEJFKOLJOGL": 1612549781,
+        "HFKIBEENGJG": 175
     },
     {
         "costumeId": 200200,
@@ -190,7 +190,7 @@
         "avatarId": 10000002,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -200,9 +200,9 @@
         "avatarId": 10000003,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": "",
-        "cIKLPKICJNC": true
+        "CIKLPKICJNC": true
     },
     {
         "costumeId": 200500,
@@ -211,7 +211,7 @@
         "avatarId": 10000005,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -221,7 +221,7 @@
         "avatarId": 10000006,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -231,7 +231,7 @@
         "avatarId": 10000007,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -241,7 +241,7 @@
         "avatarId": 10000014,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -251,7 +251,7 @@
         "avatarId": 10000015,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -261,7 +261,7 @@
         "avatarId": 10000016,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -271,7 +271,7 @@
         "avatarId": 10000020,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -281,9 +281,9 @@
         "avatarId": 10000021,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": "",
-        "cIKLPKICJNC": true
+        "CIKLPKICJNC": true
     },
     {
         "costumeId": 202200,
@@ -292,7 +292,7 @@
         "avatarId": 10000022,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -302,7 +302,7 @@
         "avatarId": 10000023,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -312,7 +312,7 @@
         "avatarId": 10000024,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -322,7 +322,7 @@
         "avatarId": 10000025,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -332,7 +332,7 @@
         "avatarId": 10000026,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -342,7 +342,7 @@
         "avatarId": 10000027,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -352,7 +352,7 @@
         "avatarId": 10000029,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -362,7 +362,7 @@
         "avatarId": 10000030,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -372,7 +372,7 @@
         "avatarId": 10000031,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -382,7 +382,7 @@
         "avatarId": 10000032,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -392,7 +392,7 @@
         "avatarId": 10000033,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -402,7 +402,7 @@
         "avatarId": 10000034,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -412,7 +412,7 @@
         "avatarId": 10000035,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -422,7 +422,7 @@
         "avatarId": 10000036,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -432,7 +432,7 @@
         "avatarId": 10000037,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -442,7 +442,7 @@
         "avatarId": 10000038,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -452,7 +452,7 @@
         "avatarId": 10000039,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -462,9 +462,9 @@
         "avatarId": 10000041,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": "",
-        "cIKLPKICJNC": true
+        "CIKLPKICJNC": true
     },
     {
         "costumeId": 204200,
@@ -473,7 +473,7 @@
         "avatarId": 10000042,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -483,7 +483,7 @@
         "avatarId": 10000043,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -493,7 +493,7 @@
         "avatarId": 10000044,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -503,9 +503,9 @@
         "avatarId": 10000045,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": "",
-        "cIKLPKICJNC": true
+        "CIKLPKICJNC": true
     },
     {
         "costumeId": 204600,
@@ -514,7 +514,7 @@
         "avatarId": 10000046,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -524,7 +524,7 @@
         "avatarId": 10000047,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -534,7 +534,7 @@
         "avatarId": 10000048,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -544,7 +544,7 @@
         "avatarId": 10000049,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -554,7 +554,7 @@
         "avatarId": 10000050,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -564,7 +564,7 @@
         "avatarId": 10000051,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -574,7 +574,7 @@
         "avatarId": 10000052,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -584,7 +584,7 @@
         "avatarId": 10000053,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -594,7 +594,7 @@
         "avatarId": 10000054,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -604,7 +604,7 @@
         "avatarId": 10000055,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -614,7 +614,7 @@
         "avatarId": 10000056,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -624,7 +624,7 @@
         "avatarId": 10000057,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -634,7 +634,7 @@
         "avatarId": 10000058,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -644,7 +644,7 @@
         "avatarId": 10000060,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -654,7 +654,7 @@
         "avatarId": 10000062,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -664,7 +664,7 @@
         "avatarId": 10000063,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -674,7 +674,7 @@
         "avatarId": 10000064,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -684,7 +684,7 @@
         "avatarId": 10000065,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     },
     {
@@ -694,7 +694,7 @@
         "avatarId": 10000066,
         "jsonName": "",
         "isDefault": true,
-        "fOINIGFDKIP": "",
+        "FOINIGFDKIP": "",
         "sideIconName": ""
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
-        "iD": 10011,
-        "hILBAACPDEL": 3160031319,
-        "eEEHKAOLABH": 1793916363,
+        "ID": 10011,
+        "HILBAACPDEL": 3160031319,
+        "EEEHKAOLABH": 1793916363,
         "abilityName": "Vehicle_Skiff_FireCannon_Small",
         "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Small",
-        "aJOMNJBCMBA": 1.0,
-        "iDNMBBKJGHC": 1,
+        "AJOMNJBCMBA": 1.0,
+        "IDNMBBKJGHC": 1,
         "lockShape": "CircleLockEnemyR50H30HC",
         "lockWeightParams": [
             1.0,
@@ -16,13 +16,13 @@
         ]
     },
     {
-        "iD": 10012,
-        "hILBAACPDEL": 2681213991,
-        "eEEHKAOLABH": 3413724019,
+        "ID": 10012,
+        "HILBAACPDEL": 2681213991,
+        "EEEHKAOLABH": 3413724019,
         "abilityName": "Vehicle_Skiff_FireCannon_Big",
         "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Big",
-        "aJOMNJBCMBA": 15.0,
-        "iDNMBBKJGHC": 1,
+        "AJOMNJBCMBA": 15.0,
+        "IDNMBBKJGHC": 1,
         "lockShape": "CircleLockEnemyR50H30HC",
         "lockWeightParams": [
             1.0,

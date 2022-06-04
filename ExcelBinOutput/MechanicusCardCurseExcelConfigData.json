@@ -1,6 +1,6 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "effectID": 89,
         "lastRound": 1,
         "descTextMapHash": 1607223502,
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "iD": 2,
+        "ID": 2,
         "effectID": 77,
         "lastRound": 1,
         "descTextMapHash": 2930052542,
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "iD": 3,
+        "ID": 3,
         "effectID": 78,
         "lastRound": 1,
         "descTextMapHash": 1035785030,
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "iD": 4,
+        "ID": 4,
         "effectID": 79,
         "lastRound": 1,
         "descTextMapHash": 3910620766,
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "iD": 5,
+        "ID": 5,
         "effectID": 80,
         "lastRound": 1,
         "descTextMapHash": 1520126862,
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "iD": 6,
+        "ID": 6,
         "effectID": 81,
         "lastRound": 1,
         "descTextMapHash": 545321086,
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "iD": 7,
+        "ID": 7,
         "effectID": 82,
         "lastRound": 1,
         "descTextMapHash": 732471478,
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "iD": 8,
+        "ID": 8,
         "effectID": 83,
         "descTextMapHash": 1753661654,
         "descParamList": [
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "iD": 9,
+        "ID": 9,
         "effectID": 84,
         "lastRound": 1,
         "descTextMapHash": 2192764094,
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "iD": 10,
+        "ID": 10,
         "effectID": 85,
         "lastRound": 1,
         "descTextMapHash": 956325286,
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "iD": 11,
+        "ID": 11,
         "effectID": 86,
         "lastRound": 1,
         "descTextMapHash": 822020334,
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "iD": 12,
+        "ID": 12,
         "effectID": 87,
         "lastRound": 1,
         "descTextMapHash": 2869798814,
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "iD": 13,
+        "ID": 13,
         "effectID": 88,
         "descTextMapHash": 2359096646,
         "descParamList": [

@@ -66,9 +66,9 @@
             133220221
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 1474124459,
-        "cHAHONNGIMM": 1
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 1474124459,
+        "CHAHONNGIMM": 1
     },
     {
         "id": 2,
@@ -131,9 +131,9 @@
             133212097
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 3219251115,
-        "cHAHONNGIMM": 1
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 3219251115,
+        "CHAHONNGIMM": 1
     },
     {
         "id": 3,
@@ -202,14 +202,14 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 1,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -2492.969970703125,
             225.15570068359375,
             -4155.72998046875
         ],
-        "eHHNKGFEHOD": 3333097611,
-        "eNKEAEHPKMO": 30502,
-        "cHAHONNGIMM": 1
+        "EHHNKGFEHOD": 3333097611,
+        "ENKEAEHPKMO": 30502,
+        "CHAHONNGIMM": 1
     },
     {
         "id": 4,
@@ -274,14 +274,14 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 1,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -3454.0,
             206.8000030517578,
             -2181.39990234375
         ],
-        "eHHNKGFEHOD": 972608707,
-        "eNKEAEHPKMO": 30502,
-        "cHAHONNGIMM": 1
+        "EHHNKGFEHOD": 972608707,
+        "ENKEAEHPKMO": 30502,
+        "CHAHONNGIMM": 1
     },
     {
         "id": 5,
@@ -343,9 +343,9 @@
             133220294
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 460642547,
-        "cHAHONNGIMM": 2
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 460642547,
+        "CHAHONNGIMM": 2
     },
     {
         "id": 6,
@@ -408,9 +408,9 @@
             133213368
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 1070350043,
-        "cHAHONNGIMM": 2
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 1070350043,
+        "CHAHONNGIMM": 2
     },
     {
         "id": 7,
@@ -476,14 +476,14 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 2,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -3565.800048828125,
             200.0,
             -3337.199951171875
         ],
-        "eHHNKGFEHOD": 1514278859,
-        "eNKEAEHPKMO": 30502,
-        "cHAHONNGIMM": 2
+        "EHHNKGFEHOD": 1514278859,
+        "ENKEAEHPKMO": 30502,
+        "CHAHONNGIMM": 2
     },
     {
         "id": 8,
@@ -549,14 +549,14 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 2,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -3527.0,
             200.5,
             -3040.0
         ],
-        "eHHNKGFEHOD": 2668697555,
-        "eNKEAEHPKMO": 30502,
-        "cHAHONNGIMM": 2
+        "EHHNKGFEHOD": 2668697555,
+        "ENKEAEHPKMO": 30502,
+        "CHAHONNGIMM": 2
     },
     {
         "id": 9,
@@ -621,8 +621,8 @@
             133213353
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 3401995019
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 3401995019
     },
     {
         "id": 10,
@@ -681,8 +681,8 @@
             133212457
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 911864083
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 911864083
     },
     {
         "id": 11,
@@ -747,13 +747,13 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 3,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -3772.699951171875,
             235.1999969482422,
             -2495.300048828125
         ],
-        "eHHNKGFEHOD": 3036230731,
-        "eNKEAEHPKMO": 30502
+        "EHHNKGFEHOD": 3036230731,
+        "ENKEAEHPKMO": 30502
     },
     {
         "id": 12,
@@ -818,13 +818,13 @@
         ],
         "mpTokenThreshold": 40,
         "mpTypeId": 3,
-        "iOKFMECOPLI": [
+        "IOKFMECOPLI": [
             -3926.0,
             228.10000610351562,
             -2107.800048828125
         ],
-        "eHHNKGFEHOD": 1140566979,
-        "eNKEAEHPKMO": 30502
+        "EHHNKGFEHOD": 1140566979,
+        "ENKEAEHPKMO": 30502
     },
     {
         "id": 13,
@@ -890,8 +890,8 @@
             133213315
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 3265871939
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 3265871939
     },
     {
         "id": 14,
@@ -955,7 +955,7 @@
             133220064
         ],
         "mpTokenThreshold": 40,
-        "iOKFMECOPLI": [],
-        "eHHNKGFEHOD": 4057571411
+        "IOKFMECOPLI": [],
+        "EHHNKGFEHOD": 4057571411
     }
 ]

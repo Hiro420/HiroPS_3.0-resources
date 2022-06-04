@@ -6,7 +6,7 @@
             2,
             4
         ],
-        "equipAffixId": 210001,
+        "EquipAffixId": 210001,
         "containsList": [
             51140,
             51120,
@@ -14,7 +14,7 @@
             51110,
             51130
         ],
-        "dCMGDNLFKEG": 4
+        "DCMGDNLFKEG": 4
     },
     {
         "setId": 10002,
@@ -23,7 +23,7 @@
             2,
             4
         ],
-        "equipAffixId": 210002,
+        "EquipAffixId": 210002,
         "containsList": [
             52140,
             52120,
@@ -31,7 +31,7 @@
             52110,
             52130
         ],
-        "dCMGDNLFKEG": 10
+        "DCMGDNLFKEG": 10
     },
     {
         "setId": 10003,
@@ -40,7 +40,7 @@
             2,
             4
         ],
-        "equipAffixId": 210003,
+        "EquipAffixId": 210003,
         "containsList": [
             53140,
             53120,
@@ -48,7 +48,7 @@
             53110,
             53130
         ],
-        "dCMGDNLFKEG": 9
+        "DCMGDNLFKEG": 9
     },
     {
         "setId": 10004,
@@ -57,7 +57,7 @@
             2,
             4
         ],
-        "equipAffixId": 210004,
+        "EquipAffixId": 210004,
         "containsList": [
             54140,
             54120,
@@ -65,7 +65,7 @@
             54110,
             54130
         ],
-        "dCMGDNLFKEG": 5
+        "DCMGDNLFKEG": 5
     },
     {
         "setId": 10005,
@@ -74,7 +74,7 @@
             2,
             4
         ],
-        "equipAffixId": 210005,
+        "EquipAffixId": 210005,
         "containsList": [
             55140,
             55120,
@@ -82,7 +82,7 @@
             55110,
             55130
         ],
-        "dCMGDNLFKEG": 6
+        "DCMGDNLFKEG": 6
     },
     {
         "setId": 10006,
@@ -91,7 +91,7 @@
             2,
             4
         ],
-        "equipAffixId": 210006,
+        "EquipAffixId": 210006,
         "containsList": [
             56140,
             56120,
@@ -99,7 +99,7 @@
             56110,
             56130
         ],
-        "dCMGDNLFKEG": 11
+        "DCMGDNLFKEG": 11
     },
     {
         "setId": 10007,
@@ -108,7 +108,7 @@
             2,
             4
         ],
-        "equipAffixId": 210007,
+        "EquipAffixId": 210007,
         "containsList": [
             57140,
             57120,
@@ -116,7 +116,7 @@
             57110,
             57130
         ],
-        "dCMGDNLFKEG": 7
+        "DCMGDNLFKEG": 7
     },
     {
         "setId": 10008,
@@ -125,7 +125,7 @@
             2,
             4
         ],
-        "equipAffixId": 210008,
+        "EquipAffixId": 210008,
         "containsList": [
             58240,
             58220,
@@ -133,7 +133,7 @@
             58210,
             58230
         ],
-        "dCMGDNLFKEG": 12
+        "DCMGDNLFKEG": 12
     },
     {
         "setId": 10009,
@@ -142,7 +142,7 @@
             2,
             4
         ],
-        "equipAffixId": 210009,
+        "EquipAffixId": 210009,
         "containsList": [
             59140,
             59120,
@@ -150,7 +150,7 @@
             59110,
             59130
         ],
-        "dCMGDNLFKEG": 8
+        "DCMGDNLFKEG": 8
     },
     {
         "setId": 10010,
@@ -159,7 +159,7 @@
             2,
             4
         ],
-        "equipAffixId": 210010,
+        "EquipAffixId": 210010,
         "containsList": [
             60140,
             60120,
@@ -167,7 +167,7 @@
             60110,
             60130
         ],
-        "dCMGDNLFKEG": 1
+        "DCMGDNLFKEG": 1
     },
     {
         "setId": 10011,
@@ -176,7 +176,7 @@
             2,
             4
         ],
-        "equipAffixId": 210011,
+        "EquipAffixId": 210011,
         "containsList": [
             61140,
             61120,
@@ -184,7 +184,7 @@
             61110,
             61130
         ],
-        "dCMGDNLFKEG": 2
+        "DCMGDNLFKEG": 2
     },
     {
         "setId": 10012,
@@ -193,7 +193,7 @@
             2,
             4
         ],
-        "equipAffixId": 210012,
+        "EquipAffixId": 210012,
         "containsList": [
             62140,
             62120,
@@ -201,7 +201,7 @@
             62110,
             62130
         ],
-        "dCMGDNLFKEG": 13
+        "DCMGDNLFKEG": 13
     },
     {
         "setId": 10013,
@@ -210,7 +210,7 @@
             2,
             4
         ],
-        "equipAffixId": 210013,
+        "EquipAffixId": 210013,
         "containsList": [
             63140,
             63120,
@@ -218,7 +218,7 @@
             63110,
             63130
         ],
-        "dCMGDNLFKEG": 3
+        "DCMGDNLFKEG": 3
     },
     {
         "setId": 14001,
@@ -227,7 +227,7 @@
             2,
             4
         ],
-        "equipAffixId": 214001,
+        "EquipAffixId": 214001,
         "containsList": [
             71340,
             71320,
@@ -235,7 +235,7 @@
             71310,
             71330
         ],
-        "dCMGDNLFKEG": 30
+        "DCMGDNLFKEG": 30
     },
     {
         "setId": 14002,
@@ -244,7 +244,7 @@
             2,
             4
         ],
-        "equipAffixId": 214002,
+        "EquipAffixId": 214002,
         "containsList": [
             72340,
             72320,
@@ -252,7 +252,7 @@
             72310,
             72330
         ],
-        "dCMGDNLFKEG": 26
+        "DCMGDNLFKEG": 26
     },
     {
         "setId": 14003,
@@ -261,7 +261,7 @@
             2,
             4
         ],
-        "equipAffixId": 214003,
+        "EquipAffixId": 214003,
         "containsList": [
             73340,
             73320,
@@ -269,7 +269,7 @@
             73310,
             73330
         ],
-        "dCMGDNLFKEG": 28
+        "DCMGDNLFKEG": 28
     },
     {
         "setId": 14004,
@@ -278,7 +278,7 @@
             2,
             4
         ],
-        "equipAffixId": 214004,
+        "EquipAffixId": 214004,
         "containsList": [
             74340,
             74320,
@@ -286,7 +286,7 @@
             74310,
             74330
         ],
-        "dCMGDNLFKEG": 22
+        "DCMGDNLFKEG": 22
     },
     {
         "setId": 15001,
@@ -295,7 +295,7 @@
             2,
             4
         ],
-        "equipAffixId": 215001,
+        "EquipAffixId": 215001,
         "containsList": [
             75340,
             75320,
@@ -303,7 +303,7 @@
             75310,
             75330
         ],
-        "dCMGDNLFKEG": 18
+        "DCMGDNLFKEG": 18
     },
     {
         "setId": 15002,
@@ -312,7 +312,7 @@
             2,
             4
         ],
-        "equipAffixId": 215002,
+        "EquipAffixId": 215002,
         "containsList": [
             76340,
             76320,
@@ -320,7 +320,7 @@
             76310,
             76330
         ],
-        "dCMGDNLFKEG": 23
+        "DCMGDNLFKEG": 23
     },
     {
         "setId": 15003,
@@ -329,7 +329,7 @@
             2,
             4
         ],
-        "equipAffixId": 215003,
+        "EquipAffixId": 215003,
         "containsList": [
             77340,
             77320,
@@ -337,7 +337,7 @@
             77310,
             77330
         ],
-        "dCMGDNLFKEG": 19
+        "DCMGDNLFKEG": 19
     },
     {
         "setId": 15004,
@@ -346,8 +346,8 @@
             2,
             4
         ],
-        "equipAffixId": 215004,
-        "disableFilter": 1,
+        "EquipAffixId": 215004,
+        "DisableFilter": 1,
         "containsList": [
             78340,
             78320,
@@ -363,7 +363,7 @@
             2,
             4
         ],
-        "equipAffixId": 215005,
+        "EquipAffixId": 215005,
         "containsList": [
             79340,
             79320,
@@ -371,7 +371,7 @@
             79310,
             79330
         ],
-        "dCMGDNLFKEG": 27
+        "DCMGDNLFKEG": 27
     },
     {
         "setId": 15006,
@@ -380,7 +380,7 @@
             2,
             4
         ],
-        "equipAffixId": 215006,
+        "EquipAffixId": 215006,
         "containsList": [
             80340,
             80320,
@@ -388,7 +388,7 @@
             80310,
             80330
         ],
-        "dCMGDNLFKEG": 29
+        "DCMGDNLFKEG": 29
     },
     {
         "setId": 15007,
@@ -397,7 +397,7 @@
             2,
             4
         ],
-        "equipAffixId": 215007,
+        "EquipAffixId": 215007,
         "containsList": [
             81340,
             81320,
@@ -405,7 +405,7 @@
             81310,
             81330
         ],
-        "dCMGDNLFKEG": 20
+        "DCMGDNLFKEG": 20
     },
     {
         "setId": 15008,
@@ -414,7 +414,7 @@
             2,
             4
         ],
-        "equipAffixId": 215008,
+        "EquipAffixId": 215008,
         "containsList": [
             82340,
             82320,
@@ -422,7 +422,7 @@
             82310,
             82330
         ],
-        "dCMGDNLFKEG": 21
+        "DCMGDNLFKEG": 21
     },
     {
         "setId": 15009,
@@ -430,11 +430,11 @@
         "setNeedNum": [
             1
         ],
-        "equipAffixId": 215009,
+        "EquipAffixId": 215009,
         "containsList": [
             83330
         ],
-        "dCMGDNLFKEG": 16
+        "DCMGDNLFKEG": 16
     },
     {
         "setId": 15010,
@@ -442,11 +442,11 @@
         "setNeedNum": [
             1
         ],
-        "equipAffixId": 215010,
+        "EquipAffixId": 215010,
         "containsList": [
             84330
         ],
-        "dCMGDNLFKEG": 15
+        "DCMGDNLFKEG": 15
     },
     {
         "setId": 15011,
@@ -454,11 +454,11 @@
         "setNeedNum": [
             1
         ],
-        "equipAffixId": 215011,
+        "EquipAffixId": 215011,
         "containsList": [
             85330
         ],
-        "dCMGDNLFKEG": 14
+        "DCMGDNLFKEG": 14
     },
     {
         "setId": 15012,
@@ -466,8 +466,8 @@
         "setNeedNum": [
             1
         ],
-        "equipAffixId": 215012,
-        "disableFilter": 1,
+        "EquipAffixId": 215012,
+        "DisableFilter": 1,
         "containsList": [
             86330
         ]
@@ -478,11 +478,11 @@
         "setNeedNum": [
             1
         ],
-        "equipAffixId": 215013,
+        "EquipAffixId": 215013,
         "containsList": [
             87330
         ],
-        "dCMGDNLFKEG": 17
+        "DCMGDNLFKEG": 17
     },
     {
         "setId": 15014,
@@ -491,7 +491,7 @@
             2,
             4
         ],
-        "equipAffixId": 215014,
+        "EquipAffixId": 215014,
         "containsList": [
             88340,
             88320,
@@ -499,7 +499,7 @@
             88310,
             88330
         ],
-        "dCMGDNLFKEG": 24
+        "DCMGDNLFKEG": 24
     },
     {
         "setId": 15015,
@@ -508,7 +508,7 @@
             2,
             4
         ],
-        "equipAffixId": 215015,
+        "EquipAffixId": 215015,
         "containsList": [
             89340,
             89320,
@@ -516,7 +516,7 @@
             89310,
             89330
         ],
-        "dCMGDNLFKEG": 25
+        "DCMGDNLFKEG": 25
     },
     {
         "setId": 15016,
@@ -525,7 +525,7 @@
             2,
             4
         ],
-        "equipAffixId": 215016,
+        "EquipAffixId": 215016,
         "containsList": [
             90340,
             90320,
@@ -533,7 +533,7 @@
             90310,
             90330
         ],
-        "dCMGDNLFKEG": 31
+        "DCMGDNLFKEG": 31
     },
     {
         "setId": 15017,
@@ -542,7 +542,7 @@
             2,
             4
         ],
-        "equipAffixId": 215017,
+        "EquipAffixId": 215017,
         "containsList": [
             91340,
             91320,
@@ -550,7 +550,7 @@
             91310,
             91330
         ],
-        "dCMGDNLFKEG": 32
+        "DCMGDNLFKEG": 32
     },
     {
         "setId": 15018,
@@ -559,7 +559,7 @@
             2,
             4
         ],
-        "equipAffixId": 215018,
+        "EquipAffixId": 215018,
         "containsList": [
             92340,
             92320,
@@ -567,7 +567,7 @@
             92310,
             92330
         ],
-        "dCMGDNLFKEG": 33
+        "DCMGDNLFKEG": 33
     },
     {
         "setId": 15019,
@@ -576,7 +576,7 @@
             2,
             4
         ],
-        "equipAffixId": 215019,
+        "EquipAffixId": 215019,
         "containsList": [
             93442,
             93422,
@@ -584,7 +584,7 @@
             93412,
             93432
         ],
-        "dCMGDNLFKEG": 34
+        "DCMGDNLFKEG": 34
     },
     {
         "setId": 15020,
@@ -593,7 +593,7 @@
             2,
             4
         ],
-        "equipAffixId": 215020,
+        "EquipAffixId": 215020,
         "containsList": [
             94442,
             94422,
@@ -601,7 +601,7 @@
             94412,
             94432
         ],
-        "dCMGDNLFKEG": 35
+        "DCMGDNLFKEG": 35
     },
     {
         "setId": 15021,
@@ -610,7 +610,7 @@
             2,
             4
         ],
-        "equipAffixId": 215021,
+        "EquipAffixId": 215021,
         "containsList": [
             95442,
             95422,
@@ -618,7 +618,7 @@
             95412,
             95432
         ],
-        "dCMGDNLFKEG": 36
+        "DCMGDNLFKEG": 36
     },
     {
         "setId": 15022,
@@ -627,7 +627,7 @@
             2,
             4
         ],
-        "equipAffixId": 215022,
+        "EquipAffixId": 215022,
         "containsList": [
             96442,
             96422,
@@ -635,7 +635,7 @@
             96412,
             96432
         ],
-        "dCMGDNLFKEG": 37
+        "DCMGDNLFKEG": 37
     },
     {
         "setId": 15023,
@@ -644,7 +644,7 @@
             2,
             4
         ],
-        "equipAffixId": 215023,
+        "EquipAffixId": 215023,
         "containsList": [
             97442,
             97422,
@@ -652,7 +652,7 @@
             97412,
             97432
         ],
-        "dCMGDNLFKEG": 38
+        "DCMGDNLFKEG": 38
     },
     {
         "setId": 15024,
@@ -661,7 +661,7 @@
             2,
             4
         ],
-        "equipAffixId": 215024,
+        "EquipAffixId": 215024,
         "containsList": [
             98442,
             98422,
@@ -669,7 +669,7 @@
             98412,
             98432
         ],
-        "dCMGDNLFKEG": 39
+        "DCMGDNLFKEG": 39
     },
     {
         "setId": 15000,
@@ -678,7 +678,7 @@
             3,
             5
         ],
-        "disableFilter": 1,
+        "DisableFilter": 1,
         "containsList": [
             99340,
             99320,

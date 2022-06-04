@@ -2,7 +2,7 @@
     {
         "activityId": 2009,
         "rewardID": 33000,
-        "pNICJAIDGIA": [
+        "PNICJAIDGIA": [
             11040,
             11041,
             11042,
@@ -10,23 +10,23 @@
             11044,
             11045
         ],
-        "pJAGHDNNAEJ": 7012301,
-        "kBGIICPIMJN": 40043,
-        "lGGMMFCFAGJ": [
+        "PJAGHDNNAEJ": 7012301,
+        "KBGIICPIMJN": 40043,
+        "LGGMMFCFAGJ": [
             40025,
             40026
         ],
-        "hJJLFLLKKPA": [
+        "HJJLFLLKKPA": [
             40029
         ],
-        "eHJEOCMPBNI": 2009003,
-        "pPIMPABNDAD": 2009004,
-        "jKLAFGFEKCC": [
+        "EHJEOCMPBNI": 2009003,
+        "PPIMPABNDAD": 2009004,
+        "JKLAFGFEKCC": [
             40027,
             40028
         ],
-        "fCEOIKPNALN": 2009007,
-        "pBFAMMOKKHG": [
+        "FCEOIKPNALN": 2009007,
+        "PBFAMMOKKHG": [
             12009201,
             12009202,
             12009205,
@@ -34,9 +34,9 @@
             12009207,
             12009208
         ],
-        "lAJKKCCKNKG": 6037,
-        "cFAAEKGHLCB": 6036,
-        "dPJNHBKPJGD": 6035,
-        "eBGOFHKLDBH": 6034
+        "LAJKKCCKNKG": 6037,
+        "CFAAEKGHLCB": 6036,
+        "DPJNHBKPJGD": 6035,
+        "EBGOFHKLDBH": 6034
     }
 ]

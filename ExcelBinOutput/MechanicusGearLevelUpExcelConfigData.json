@@ -1,6 +1,6 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "gearID": 1,
         "gearLevel": 1,
         "gearNameTextMapHash": 3308073570,
@@ -24,7 +24,7 @@
         "effectList": []
     },
     {
-        "iD": 2,
+        "ID": 2,
         "gearID": 1,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -49,7 +49,7 @@
         "effectList": []
     },
     {
-        "iD": 3,
+        "ID": 3,
         "gearID": 1,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -74,7 +74,7 @@
         "effectList": []
     },
     {
-        "iD": 4,
+        "ID": 4,
         "gearID": 1,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -99,7 +99,7 @@
         "effectList": []
     },
     {
-        "iD": 5,
+        "ID": 5,
         "gearID": 1,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -124,7 +124,7 @@
         "effectList": []
     },
     {
-        "iD": 6,
+        "ID": 6,
         "gearID": 1,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -149,7 +149,7 @@
         "effectList": []
     },
     {
-        "iD": 7,
+        "ID": 7,
         "gearID": 1,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -174,7 +174,7 @@
         "effectList": []
     },
     {
-        "iD": 8,
+        "ID": 8,
         "gearID": 1,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -199,7 +199,7 @@
         "effectList": []
     },
     {
-        "iD": 9,
+        "ID": 9,
         "gearID": 1,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -224,7 +224,7 @@
         "effectList": []
     },
     {
-        "iD": 10,
+        "ID": 10,
         "gearID": 1,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -249,7 +249,7 @@
         "effectList": []
     },
     {
-        "iD": 11,
+        "ID": 11,
         "gearID": 2,
         "gearLevel": 1,
         "gearNameTextMapHash": 429693978,
@@ -273,7 +273,7 @@
         "effectList": []
     },
     {
-        "iD": 12,
+        "ID": 12,
         "gearID": 2,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -298,7 +298,7 @@
         "effectList": []
     },
     {
-        "iD": 13,
+        "ID": 13,
         "gearID": 2,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -323,7 +323,7 @@
         "effectList": []
     },
     {
-        "iD": 14,
+        "ID": 14,
         "gearID": 2,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -348,7 +348,7 @@
         "effectList": []
     },
     {
-        "iD": 15,
+        "ID": 15,
         "gearID": 2,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -373,7 +373,7 @@
         "effectList": []
     },
     {
-        "iD": 16,
+        "ID": 16,
         "gearID": 2,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -398,7 +398,7 @@
         "effectList": []
     },
     {
-        "iD": 17,
+        "ID": 17,
         "gearID": 2,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -423,7 +423,7 @@
         "effectList": []
     },
     {
-        "iD": 18,
+        "ID": 18,
         "gearID": 2,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -448,7 +448,7 @@
         "effectList": []
     },
     {
-        "iD": 19,
+        "ID": 19,
         "gearID": 2,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -473,7 +473,7 @@
         "effectList": []
     },
     {
-        "iD": 20,
+        "ID": 20,
         "gearID": 2,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -498,7 +498,7 @@
         "effectList": []
     },
     {
-        "iD": 21,
+        "ID": 21,
         "gearID": 3,
         "gearLevel": 1,
         "gearNameTextMapHash": 2392761626,
@@ -522,7 +522,7 @@
         "effectList": []
     },
     {
-        "iD": 22,
+        "ID": 22,
         "gearID": 3,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -547,7 +547,7 @@
         "effectList": []
     },
     {
-        "iD": 23,
+        "ID": 23,
         "gearID": 3,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -572,7 +572,7 @@
         "effectList": []
     },
     {
-        "iD": 24,
+        "ID": 24,
         "gearID": 3,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -597,7 +597,7 @@
         "effectList": []
     },
     {
-        "iD": 25,
+        "ID": 25,
         "gearID": 3,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -622,7 +622,7 @@
         "effectList": []
     },
     {
-        "iD": 26,
+        "ID": 26,
         "gearID": 3,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -647,7 +647,7 @@
         "effectList": []
     },
     {
-        "iD": 27,
+        "ID": 27,
         "gearID": 3,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -672,7 +672,7 @@
         "effectList": []
     },
     {
-        "iD": 28,
+        "ID": 28,
         "gearID": 3,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -697,7 +697,7 @@
         "effectList": []
     },
     {
-        "iD": 29,
+        "ID": 29,
         "gearID": 3,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -722,7 +722,7 @@
         "effectList": []
     },
     {
-        "iD": 30,
+        "ID": 30,
         "gearID": 3,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -747,7 +747,7 @@
         "effectList": []
     },
     {
-        "iD": 31,
+        "ID": 31,
         "gearID": 4,
         "gearLevel": 1,
         "gearLevelUpMoney": 50,
@@ -772,7 +772,7 @@
         "effectList": []
     },
     {
-        "iD": 32,
+        "ID": 32,
         "gearID": 4,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -797,7 +797,7 @@
         "effectList": []
     },
     {
-        "iD": 33,
+        "ID": 33,
         "gearID": 4,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -822,7 +822,7 @@
         "effectList": []
     },
     {
-        "iD": 34,
+        "ID": 34,
         "gearID": 4,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -847,7 +847,7 @@
         "effectList": []
     },
     {
-        "iD": 35,
+        "ID": 35,
         "gearID": 4,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -872,7 +872,7 @@
         "effectList": []
     },
     {
-        "iD": 36,
+        "ID": 36,
         "gearID": 4,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -897,7 +897,7 @@
         "effectList": []
     },
     {
-        "iD": 37,
+        "ID": 37,
         "gearID": 4,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -922,7 +922,7 @@
         "effectList": []
     },
     {
-        "iD": 38,
+        "ID": 38,
         "gearID": 4,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -947,7 +947,7 @@
         "effectList": []
     },
     {
-        "iD": 39,
+        "ID": 39,
         "gearID": 4,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -972,7 +972,7 @@
         "effectList": []
     },
     {
-        "iD": 40,
+        "ID": 40,
         "gearID": 4,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -997,7 +997,7 @@
         "effectList": []
     },
     {
-        "iD": 41,
+        "ID": 41,
         "gearID": 5,
         "gearLevel": 1,
         "gearNameTextMapHash": 3510156586,
@@ -1021,7 +1021,7 @@
         "effectList": []
     },
     {
-        "iD": 42,
+        "ID": 42,
         "gearID": 5,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -1046,7 +1046,7 @@
         "effectList": []
     },
     {
-        "iD": 43,
+        "ID": 43,
         "gearID": 5,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -1071,7 +1071,7 @@
         "effectList": []
     },
     {
-        "iD": 44,
+        "ID": 44,
         "gearID": 5,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -1096,7 +1096,7 @@
         "effectList": []
     },
     {
-        "iD": 45,
+        "ID": 45,
         "gearID": 5,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -1121,7 +1121,7 @@
         "effectList": []
     },
     {
-        "iD": 46,
+        "ID": 46,
         "gearID": 5,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -1146,7 +1146,7 @@
         "effectList": []
     },
     {
-        "iD": 47,
+        "ID": 47,
         "gearID": 5,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -1171,7 +1171,7 @@
         "effectList": []
     },
     {
-        "iD": 48,
+        "ID": 48,
         "gearID": 5,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -1196,7 +1196,7 @@
         "effectList": []
     },
     {
-        "iD": 49,
+        "ID": 49,
         "gearID": 5,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -1221,7 +1221,7 @@
         "effectList": []
     },
     {
-        "iD": 50,
+        "ID": 50,
         "gearID": 5,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -1246,7 +1246,7 @@
         "effectList": []
     },
     {
-        "iD": 51,
+        "ID": 51,
         "gearID": 6,
         "gearLevel": 1,
         "gearLevelUpMoney": 50,
@@ -1271,7 +1271,7 @@
         "effectList": []
     },
     {
-        "iD": 52,
+        "ID": 52,
         "gearID": 6,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -1296,7 +1296,7 @@
         "effectList": []
     },
     {
-        "iD": 53,
+        "ID": 53,
         "gearID": 6,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -1321,7 +1321,7 @@
         "effectList": []
     },
     {
-        "iD": 54,
+        "ID": 54,
         "gearID": 6,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -1346,7 +1346,7 @@
         "effectList": []
     },
     {
-        "iD": 55,
+        "ID": 55,
         "gearID": 6,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -1371,7 +1371,7 @@
         "effectList": []
     },
     {
-        "iD": 56,
+        "ID": 56,
         "gearID": 6,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -1396,7 +1396,7 @@
         "effectList": []
     },
     {
-        "iD": 57,
+        "ID": 57,
         "gearID": 6,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -1421,7 +1421,7 @@
         "effectList": []
     },
     {
-        "iD": 58,
+        "ID": 58,
         "gearID": 6,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -1446,7 +1446,7 @@
         "effectList": []
     },
     {
-        "iD": 59,
+        "ID": 59,
         "gearID": 6,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -1471,7 +1471,7 @@
         "effectList": []
     },
     {
-        "iD": 60,
+        "ID": 60,
         "gearID": 6,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -1496,7 +1496,7 @@
         "effectList": []
     },
     {
-        "iD": 61,
+        "ID": 61,
         "gearID": 7,
         "gearLevel": 1,
         "gearLevelUpMoney": 200,
@@ -1519,7 +1519,7 @@
         "effectList": []
     },
     {
-        "iD": 62,
+        "ID": 62,
         "gearID": 7,
         "gearLevel": 2,
         "gearLevelUpMoney": 300,
@@ -1542,7 +1542,7 @@
         "effectList": []
     },
     {
-        "iD": 63,
+        "ID": 63,
         "gearID": 7,
         "gearLevel": 3,
         "gearLevelUpMoney": 400,
@@ -1565,7 +1565,7 @@
         "effectList": []
     },
     {
-        "iD": 71,
+        "ID": 71,
         "gearID": 8,
         "gearLevel": 1,
         "gearNameTextMapHash": 1950315898,
@@ -1589,7 +1589,7 @@
         ]
     },
     {
-        "iD": 72,
+        "ID": 72,
         "gearID": 8,
         "gearLevel": 2,
         "gearLevelUpMoney": 300,
@@ -1614,7 +1614,7 @@
         ]
     },
     {
-        "iD": 73,
+        "ID": 73,
         "gearID": 8,
         "gearLevel": 3,
         "gearLevelUpMoney": 400,
@@ -1639,7 +1639,7 @@
         ]
     },
     {
-        "iD": 81,
+        "ID": 81,
         "gearID": 9,
         "gearLevel": 1,
         "gearLevelUpMoney": 50,
@@ -1663,7 +1663,7 @@
         "effectList": []
     },
     {
-        "iD": 82,
+        "ID": 82,
         "gearID": 9,
         "gearLevel": 2,
         "gearLevelUpMoney": 75,
@@ -1687,7 +1687,7 @@
         "effectList": []
     },
     {
-        "iD": 83,
+        "ID": 83,
         "gearID": 9,
         "gearLevel": 3,
         "gearLevelUpMoney": 100,
@@ -1711,7 +1711,7 @@
         "effectList": []
     },
     {
-        "iD": 84,
+        "ID": 84,
         "gearID": 9,
         "gearLevel": 4,
         "gearLevelUpMoney": 150,
@@ -1735,7 +1735,7 @@
         "effectList": []
     },
     {
-        "iD": 85,
+        "ID": 85,
         "gearID": 9,
         "gearLevel": 5,
         "gearLevelUpMoney": 200,
@@ -1759,7 +1759,7 @@
         "effectList": []
     },
     {
-        "iD": 86,
+        "ID": 86,
         "gearID": 9,
         "gearLevel": 6,
         "gearLevelUpMoney": 250,
@@ -1783,7 +1783,7 @@
         "effectList": []
     },
     {
-        "iD": 87,
+        "ID": 87,
         "gearID": 9,
         "gearLevel": 7,
         "gearLevelUpMoney": 300,
@@ -1807,7 +1807,7 @@
         "effectList": []
     },
     {
-        "iD": 88,
+        "ID": 88,
         "gearID": 9,
         "gearLevel": 8,
         "gearLevelUpMoney": 350,
@@ -1831,7 +1831,7 @@
         "effectList": []
     },
     {
-        "iD": 89,
+        "ID": 89,
         "gearID": 9,
         "gearLevel": 9,
         "gearLevelUpMoney": 400,
@@ -1855,7 +1855,7 @@
         "effectList": []
     },
     {
-        "iD": 90,
+        "ID": 90,
         "gearID": 9,
         "gearLevel": 10,
         "gearLevelUpMoney": 450,
@@ -1879,7 +1879,7 @@
         "effectList": []
     },
     {
-        "iD": 91,
+        "ID": 91,
         "gearID": 10,
         "gearLevel": 1,
         "gearLevelUpMoney": 400,

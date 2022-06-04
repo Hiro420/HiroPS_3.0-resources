@@ -1,68 +1,68 @@
 [
     {
         "id": 5072,
-        "hKMLJLKGHEB": [
+        "HKMLJLKGHEB": [
             -400.0,
             400.0,
             10.0
         ],
-        "dMFKBICOJAL": [
+        "DMFKBICOJAL": [
             0.75,
             2.0,
             0.25
         ],
-        "iABNNODADHN": [
+        "IABNNODADHN": [
             0.0,
             100.0,
             0.0
         ],
-        "mLBOOEOBHOM": [
+        "MLBOOEOBHOM": [
             -100.0,
             100.0
         ],
-        "hCACEIKELLN": [
+        "HCACEIKELLN": [
             -200.0,
             200.0
         ],
-        "nMPEBJNCBEP": 100,
-        "dAMPBCAFNKO": 400,
-        "cBMAOKNEKAJ": 4,
-        "mDNGEJBIGAP": 2,
-        "mAHDAFGFPIK": 15,
-        "pMFHLICOLKI": 50,
-        "oMMPCDONOAO": 500,
-        "dKDDIMKADJP": [
+        "NMPEBJNCBEP": 100,
+        "DAMPBCAFNKO": 400,
+        "CBMAOKNEKAJ": 4,
+        "MDNGEJBIGAP": 2,
+        "MAHDAFGFPIK": 15,
+        "PMFHLICOLKI": 50,
+        "OMMPCDONOAO": 500,
+        "DKDDIMKADJP": [
             2.0,
             50.0
         ],
-        "dEPKIJAJNCF": 1.0,
-        "nLFBABHGBKB": [
+        "DEPKIJAJNCF": 1.0,
+        "NLFBABHGBKB": [
             60.0,
             90.0,
             100.0
         ],
-        "dCKELIAKOCD": 90,
-        "hKNGMEKAJON": 3.0,
-        "nPMGGJCEGFB": 1.0,
-        "bIAKBDAMDDB": 50,
-        "jBOIOKDLOLN": [
+        "DCKELIAKOCD": 90,
+        "HKNGMEKAJON": 3.0,
+        "NPMGGJCEGFB": 1.0,
+        "BIAKBDAMDDB": 50,
+        "JBOIOKDLOLN": [
             1500.0,
             500.0
         ],
-        "dFBOFHDCLPC": [
+        "DFBOFHDCLPC": [
             1000.0,
             250.0
         ],
-        "mIFJGGGEJOM": [
+        "MIFJGGGEJOM": [
             1800.0,
             2400.0
         ],
-        "dBNFDGDMAPC": [
+        "DBNFDGDMAPC": [
             900.0,
             450.0
         ],
-        "jIMGIAIJEKB": 4,
-        "eACDAGPLGPL": [
+        "JIMGIAIJEKB": 4,
+        "EACDAGPLGPL": [
             11032,
             11033,
             11034,
@@ -71,26 +71,26 @@
             11041,
             11042
         ],
-        "jDPGFJLAMJG": [
+        "JDPGFJLAMJG": [
             50,
             100
         ],
-        "gKNCFDOABNJ": [
+        "GKNCFDOABNJ": [
             11037,
             11038,
             11039
         ],
-        "kFEEHGEEGPF": [
+        "KFEEHGEEGPF": [
             0.5,
             1.0,
             15.0
         ],
-        "iIIGFEIHGII": [
+        "IIIGFEIHGII": [
             1.0,
             0.75,
             0.5
         ],
-        "dBKFMAKNFCJ": [
+        "DBKFMAKNFCJ": [
             11042
         ]
     }

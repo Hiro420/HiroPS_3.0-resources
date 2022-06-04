@@ -1,64 +1,64 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "dungeonId": 68,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 2,
+        "ID": 2,
         "dungeonId": 7602,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 3,
+        "ID": 3,
         "dungeonId": 7605,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 4,
+        "ID": 4,
         "dungeonId": 7617,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 5,
+        "ID": 5,
         "dungeonId": 7608,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 6,
+        "ID": 6,
         "dungeonId": 7611,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 7,
+        "ID": 7,
         "dungeonId": 7614,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]
     },
     {
-        "iD": 8,
+        "ID": 8,
         "dungeonId": 1131,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             13,
             14,
             15,
@@ -66,9 +66,9 @@
         ]
     },
     {
-        "iD": 9,
+        "ID": 9,
         "dungeonId": 1132,
-        "mNKCGHNMHHO": [
+        "MNKCGHNMHHO": [
             8,
             9
         ]

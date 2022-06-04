@@ -2,14 +2,14 @@
     {
         "stageId": 1,
         "firstPassRewardId": 3025101,
-        "dNKEFDICJFO": 32802,
-        "pIHIEACMNBN": 1,
-        "gOHFEEAGHMF": 1800,
+        "DNKEFDICJFO": 32802,
+        "PIHIEACMNBN": 1,
+        "GOHFEEAGHMF": 1800,
         "maxLevel": 2,
         "reviseLevelId": 2003,
         "stageNameTextMapHash": 70793319,
-        "aJLGHPHIIME": 1207062953,
-        "bIJMILJKBJP": [
+        "AJLGHPHIIME": 1207062953,
+        "BIJMILJKBJP": [
             24010301
         ],
         "monsterIdList": [
@@ -79,7 +79,7 @@
             [],
             []
         ],
-        "gOEOLNBNHPE": [
+        "GOEOLNBNHPE": [
             [
                 24010301
             ],
@@ -91,21 +91,21 @@
             []
         ],
         "preQuestId": 202102,
-        "oMLEDIHLNLC": 4002010,
-        "aFFBNIILBEA": [],
-        "jIICCKMNNJD": true
+        "OMLEDIHLNLC": 4002010,
+        "AFFBNIILBEA": [],
+        "JIICCKMNNJD": true
     },
     {
         "stageId": 2,
         "firstPassRewardId": 3025102,
-        "dNKEFDICJFO": 32802,
-        "pIHIEACMNBN": 4,
-        "gOHFEEAGHMF": 1800,
+        "DNKEFDICJFO": 32802,
+        "PIHIEACMNBN": 4,
+        "GOHFEEAGHMF": 1800,
         "maxLevel": 2,
         "reviseLevelId": 2004,
         "stageNameTextMapHash": 4120989615,
-        "aJLGHPHIIME": 1229094545,
-        "bIJMILJKBJP": [
+        "AJLGHPHIIME": 1229094545,
+        "BIJMILJKBJP": [
             20040501,
             21020401
         ],
@@ -162,7 +162,7 @@
             [],
             []
         ],
-        "gOEOLNBNHPE": [
+        "GOEOLNBNHPE": [
             [
                 20040501
             ],
@@ -174,21 +174,21 @@
             []
         ],
         "preQuestId": 4002017,
-        "oMLEDIHLNLC": 4002113,
-        "aFFBNIILBEA": [],
-        "jIICCKMNNJD": true
+        "OMLEDIHLNLC": 4002113,
+        "AFFBNIILBEA": [],
+        "JIICCKMNNJD": true
     },
     {
         "stageId": 3,
         "firstPassRewardId": 3025103,
-        "dNKEFDICJFO": 32802,
-        "pIHIEACMNBN": 7,
-        "gOHFEEAGHMF": 1800,
+        "DNKEFDICJFO": 32802,
+        "PIHIEACMNBN": 7,
+        "GOHFEEAGHMF": 1800,
         "maxLevel": 2,
         "reviseLevelId": 2004,
         "stageNameTextMapHash": 2710183151,
-        "aJLGHPHIIME": 1725704377,
-        "bIJMILJKBJP": [
+        "AJLGHPHIIME": 1725704377,
+        "BIJMILJKBJP": [
             22020101,
             22030101
         ],
@@ -251,7 +251,7 @@
             [],
             []
         ],
-        "gOEOLNBNHPE": [
+        "GOEOLNBNHPE": [
             [
                 22020101
             ],
@@ -263,21 +263,21 @@
             []
         ],
         "preQuestId": 4002109,
-        "oMLEDIHLNLC": 4002201,
-        "aFFBNIILBEA": [],
-        "jIICCKMNNJD": true
+        "OMLEDIHLNLC": 4002201,
+        "AFFBNIILBEA": [],
+        "JIICCKMNNJD": true
     },
     {
         "stageId": 4,
         "firstPassRewardId": 3025104,
-        "dNKEFDICJFO": 32802,
-        "pIHIEACMNBN": 10,
-        "gOHFEEAGHMF": 1800,
+        "DNKEFDICJFO": 32802,
+        "PIHIEACMNBN": 10,
+        "GOHFEEAGHMF": 1800,
         "maxLevel": 2,
         "reviseLevelId": 2005,
         "stageNameTextMapHash": 3451725815,
-        "aJLGHPHIIME": 718688937,
-        "bIJMILJKBJP": [
+        "AJLGHPHIIME": 718688937,
+        "BIJMILJKBJP": [
             25090101,
             25100101,
             25100201
@@ -377,7 +377,7 @@
             [],
             []
         ],
-        "gOEOLNBNHPE": [
+        "GOEOLNBNHPE": [
             [
                 25100101,
                 25100201
@@ -390,17 +390,17 @@
             []
         ],
         "preQuestId": 4002208,
-        "oMLEDIHLNLC": 4002301,
-        "aFFBNIILBEA": []
+        "OMLEDIHLNLC": 4002301,
+        "AFFBNIILBEA": []
     },
     {
         "stageId": 5,
-        "pIHIEACMNBN": 10,
+        "PIHIEACMNBN": 10,
         "maxLevel": 2,
         "reviseLevelId": 2006,
         "stageNameTextMapHash": 896361495,
-        "aJLGHPHIIME": 4290712881,
-        "bIJMILJKBJP": [
+        "AJLGHPHIIME": 4290712881,
+        "BIJMILJKBJP": [
             20040601,
             22010101,
             21020201
@@ -499,7 +499,7 @@
             [],
             []
         ],
-        "gOEOLNBNHPE": [
+        "GOEOLNBNHPE": [
             [
                 22010101,
                 21020201
@@ -512,7 +512,7 @@
             []
         ],
         "preQuestId": 4002208,
-        "oMLEDIHLNLC": 4002301,
-        "aFFBNIILBEA": []
+        "OMLEDIHLNLC": 4002301,
+        "AFFBNIILBEA": []
     }
 ]

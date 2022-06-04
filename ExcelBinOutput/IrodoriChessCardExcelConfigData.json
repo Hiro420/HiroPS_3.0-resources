@@ -1,8 +1,8 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -11,7 +11,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -23,31 +23,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 1435939934,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 1435939934,
         "descTextMapHash": 822483241,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 2,
+        "ID": 2,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -56,31 +56,31 @@
             "effectStrParam": "SGV_WaterImpulse",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 2201362086,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 2201362086,
         "descTextMapHash": 1860583793,
         "descParam": [
             8.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 3,
+        "ID": 3,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -89,31 +89,31 @@
             "effectStrParam": "SGV_TargetAOE",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 1179226686,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 1179226686,
         "descTextMapHash": 1180439801,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 4,
+        "ID": 4,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -122,7 +122,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": -1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -134,32 +134,32 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 134083238,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 134083238,
         "descTextMapHash": 2115922001,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": -2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": -2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 6.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 6.0
             }
         ]
     },
     {
-        "iD": 5,
+        "ID": 5,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -168,7 +168,7 @@
             "effectStrParam": "SGV_ElementMasteryLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -180,32 +180,32 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 3783534534,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 3783534534,
         "descTextMapHash": 2501651289,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_MASTERY",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 75.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_MASTERY",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 75.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 6,
+        "ID": 6,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -214,34 +214,34 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
-        "jBHBGJHFEED": 3288264398,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WATER",
+        "JBHBGJHFEED": 3288264398,
         "descTextMapHash": 842515657,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 4000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 4000.0
             },
             {}
         ]
     },
     {
-        "iD": 7,
+        "ID": 7,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350416
@@ -250,7 +250,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -262,31 +262,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
-        "jBHBGJHFEED": 2927144454,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
+        "JBHBGJHFEED": 2927144454,
         "descTextMapHash": 2247920769,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 8,
+        "ID": 8,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350416
@@ -295,35 +295,35 @@
             "effectStrParam": "SGV_ShootBullet",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
-        "jBHBGJHFEED": 234182422,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
+        "JBHBGJHFEED": 234182422,
         "descTextMapHash": 1747520889,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": 2.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": 2.0
             },
             {}
         ]
     },
     {
-        "iD": 9,
+        "ID": 9,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350416
@@ -332,31 +332,31 @@
             "effectStrParam": "SGV_TowUnits",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
-        "jBHBGJHFEED": 4189837230,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_WIND",
+        "JBHBGJHFEED": 4189837230,
         "descTextMapHash": 3314507897,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 10,
+        "ID": 10,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -365,7 +365,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -377,62 +377,62 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 4060971878,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 4060971878,
         "descTextMapHash": 3413131689,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 8.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 8.0
             }
         ]
     },
     {
-        "iD": 11,
+        "ID": 11,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_ALL",
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
             "effectStrParam": "SGV_UpgradeElectricRecation",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 1526692086,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 1526692086,
         "descTextMapHash": 2002158305,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 12,
+        "ID": 12,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -441,35 +441,35 @@
             "effectStrParam": "SGV_UpgradeNormalAttack",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 2942749918,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 2942749918,
         "descTextMapHash": 3965891137,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": 1.5
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": 1.5
             },
             {}
         ]
     },
     {
-        "iD": 13,
+        "ID": 13,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -478,31 +478,31 @@
             "effectStrParam": "SGV_ExtraThunder",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 4139391094,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 4139391094,
         "descTextMapHash": 1046716521,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 14,
+        "ID": 14,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -511,31 +511,31 @@
             "effectStrParam": "SGV_Confine",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 3447746710,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 3447746710,
         "descTextMapHash": 2408406937,
         "descParam": [
             10.0,
             1.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 15,
+        "ID": 15,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -544,31 +544,31 @@
             "effectStrParam": "SGV_ExtraTargets",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 2668495142,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 2668495142,
         "descTextMapHash": 571903425,
         "descParam": [
             1.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 16,
+        "ID": 16,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -577,7 +577,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -589,31 +589,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
-        "jBHBGJHFEED": 560020302,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ELECTRIC",
+        "JBHBGJHFEED": 560020302,
         "descTextMapHash": 2398546089,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 17,
+        "ID": 17,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -622,7 +622,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -634,31 +634,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 2207796038,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 2207796038,
         "descTextMapHash": 3529145473,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 8.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 8.0
             }
         ]
     },
     {
-        "iD": 18,
+        "ID": 18,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -667,31 +667,31 @@
             "effectStrParam": "SGV_Enbreak",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 2968350262,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 2968350262,
         "descTextMapHash": 971401681,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 19,
+        "ID": 19,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -700,31 +700,31 @@
             "effectStrParam": "SGV_Missile",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 678128262,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 678128262,
         "descTextMapHash": 4058535809,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 20,
+        "ID": 20,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -733,35 +733,35 @@
             "effectStrParam": "SGV_RangeLevel",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 3540864942,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 3540864942,
         "descTextMapHash": 1579853905,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 8.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 8.0
             },
             {}
         ]
     },
     {
-        "iD": 21,
+        "ID": 21,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -770,7 +770,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -782,31 +782,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 3189710246,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 3189710246,
         "descTextMapHash": 3265489609,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 22,
+        "ID": 22,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414
@@ -815,34 +815,34 @@
             "effectStrParam": "SGV_ElementMasteryLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
-        "jBHBGJHFEED": 579377054,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_FIRE",
+        "JBHBGJHFEED": 579377054,
         "descTextMapHash": 4262655265,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_MASTERY",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 75.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_MASTERY",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 75.0
             },
             {}
         ]
     },
     {
-        "iD": 23,
+        "ID": 23,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350415
@@ -851,7 +851,7 @@
             "effectStrParam": "SGV_RangeLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -863,31 +863,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
-        "jBHBGJHFEED": 325510510,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
+        "JBHBGJHFEED": 325510510,
         "descTextMapHash": 1231354681,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 8.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 8.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 24,
+        "ID": 24,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350415
@@ -896,30 +896,30 @@
             "effectStrParam": "SGV_Resistancedown",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
-        "jBHBGJHFEED": 1864257462,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
+        "JBHBGJHFEED": 1864257462,
         "descTextMapHash": 3978375673,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 25,
+        "ID": 25,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350415
@@ -928,31 +928,31 @@
             "effectStrParam": "SGV_TDSpecialGrade_Ice",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
-        "jBHBGJHFEED": 3034090182,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
+        "JBHBGJHFEED": 3034090182,
         "descTextMapHash": 1670603649,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 26,
+        "ID": 26,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350415
@@ -961,31 +961,31 @@
             "effectStrParam": "SGV_Ice_Fog",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
-        "jBHBGJHFEED": 2975664950,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_ICE",
+        "JBHBGJHFEED": 2975664950,
         "descTextMapHash": 2178765889,
         "descParam": [
             25.0,
             10.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 27,
+        "ID": 27,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -994,7 +994,7 @@
             "effectStrParam": "SGV_RangeLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -1006,31 +1006,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 2714661502,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 2714661502,
         "descTextMapHash": 4212671241,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 8.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 8.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 28,
+        "ID": 28,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1039,62 +1039,62 @@
             "effectStrParam": "SGV_EnergyBallAttack",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 2454508198,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 2454508198,
         "descTextMapHash": 1005832577,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 29,
+        "ID": 29,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_ALL",
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
             "effectStrParam": "SGV_ReducePhysicalResistance",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 3499922230,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 3499922230,
         "descTextMapHash": 3854375929,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 30,
+        "ID": 30,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1103,31 +1103,31 @@
             "effectStrParam": "SGV_DamageShieldExplosion",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 3689191526,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 3689191526,
         "descTextMapHash": 602233617,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 31,
+        "ID": 31,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1136,31 +1136,31 @@
             "effectStrParam": "SGV_DamageByTime",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 2005419878,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 2005419878,
         "descTextMapHash": 142804161,
         "descParam": [
             0.10000000149011612,
             10.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 32,
+        "ID": 32,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1169,35 +1169,35 @@
             "effectStrParam": "SGV_RangeLevel",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 3353992798,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 3353992798,
         "descTextMapHash": 2956124889,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 16.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 16.0
             },
             {}
         ]
     },
     {
-        "iD": 33,
+        "ID": 33,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1206,7 +1206,7 @@
             "effectStrParam": "SGV_AttackDamageLevel",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
                 "targetParamList": [
@@ -1218,31 +1218,31 @@
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
-        "jBHBGJHFEED": 2206194902,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_PHYSICS",
+        "JBHBGJHFEED": 2206194902,
         "descTextMapHash": 399321841,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
-                "cIGPHPJIBII": 2000.0
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_BASE",
+                "CIGPHPJIBII": 2000.0
             },
             {
-                "aBIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
-                "eKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
-                "cIGPHPJIBII": -0.20000000298023224
+                "ABIGKGEKAED": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+                "EKHIBFOFFEM": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+                "CIGPHPJIBII": -0.20000000298023224
             }
         ]
     },
     {
-        "iD": 34,
+        "ID": 34,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350419
@@ -1251,31 +1251,31 @@
             "effectStrParam": "SGV_SpeedDown",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_REPEL",
-        "jBHBGJHFEED": 1171389542,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_REPEL",
+        "JBHBGJHFEED": 1171389542,
         "descTextMapHash": 2486380801,
         "descParam": [
             4.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 35,
+        "ID": 35,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350419
@@ -1284,31 +1284,31 @@
             "effectStrParam": "SGV_Durability",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_REPEL",
-        "jBHBGJHFEED": 448141934,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_REPEL",
+        "JBHBGJHFEED": 448141934,
         "descTextMapHash": 2137669289,
         "descParam": [
             4.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 36,
+        "ID": 36,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350418
@@ -1317,31 +1317,31 @@
             "effectStrParam": "SGV_Trap_Extradamage",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
-        "jBHBGJHFEED": 81209510,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
+        "JBHBGJHFEED": 81209510,
         "descTextMapHash": 2364865313,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 37,
+        "ID": 37,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350418
@@ -1350,31 +1350,31 @@
             "effectStrParam": "SGV_Trap_Reset",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
-        "jBHBGJHFEED": 2911948830,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
+        "JBHBGJHFEED": 2911948830,
         "descTextMapHash": 3083159673,
         "descParam": [
             7.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 38,
+        "ID": 38,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350418
@@ -1383,31 +1383,31 @@
             "effectStrParam": "SGV_Trap_Multiple",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
-        "jBHBGJHFEED": 4061514910,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
+        "JBHBGJHFEED": 4061514910,
         "descTextMapHash": 2639234681,
         "descParam": [
             0.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 39,
+        "ID": 39,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350418
@@ -1416,31 +1416,31 @@
             "effectStrParam": "SGV_Trap_Extratime",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
-        "jBHBGJHFEED": 1574170814,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
+        "JBHBGJHFEED": 1574170814,
         "descTextMapHash": 909594697,
         "descParam": [
             2.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 40,
+        "ID": 40,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350418
@@ -1449,30 +1449,30 @@
             "effectStrParam": "SGV_Trap_Extradamage",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
-        "jBHBGJHFEED": 542180726,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_TRAP",
+        "JBHBGJHFEED": 542180726,
         "descTextMapHash": 977125785,
         "descParam": [
             50.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 41,
+        "ID": 41,
         "costPoints": 40,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350412
@@ -1481,31 +1481,31 @@
             "effectStrParam": "SGV_Mine_Reset",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
-        "jBHBGJHFEED": 786500982,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_PERCECT",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
+        "JBHBGJHFEED": 786500982,
         "descTextMapHash": 157259969,
         "descParam": [
             7.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 42,
+        "ID": 42,
         "costPoints": 20,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350412
@@ -1514,31 +1514,31 @@
             "effectStrParam": "SGV_ExplosionReturnPoint",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
-        "jBHBGJHFEED": 920823542,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
+        "JBHBGJHFEED": 920823542,
         "descTextMapHash": 3167909705,
         "descParam": [
             20.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 43,
+        "ID": 43,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350412
@@ -1547,30 +1547,30 @@
             "effectStrParam": "SGV_Mine_Extradamage",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
         "cardType": "IRODORI_CHESS_CARD_STRENGTHEN",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
-        "jBHBGJHFEED": 3137233790,
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_BOMB",
+        "JBHBGJHFEED": 3137233790,
         "descTextMapHash": 1992285033,
         "descParam": [
             50.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 44,
+        "ID": 44,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350414,
@@ -1582,30 +1582,30 @@
             "effectStrParam": "",
             "effectParam1": 1
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 3179741622,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 3179741622,
         "descTextMapHash": 748754481,
         "descParam": [
             1.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 45,
+        "ID": 45,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350397
@@ -1614,30 +1614,30 @@
             "effectStrParam": "",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 1620511198,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 1620511198,
         "descTextMapHash": 1236721729,
         "descParam": [
             2.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 46,
+        "ID": 46,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350413
@@ -1646,30 +1646,30 @@
             "effectStrParam": "",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 617194334,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 617194334,
         "descTextMapHash": 3211399089,
         "descParam": [
             2.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 47,
+        "ID": 47,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
             "targetParamList": [
                 70350417
@@ -1678,191 +1678,191 @@
             "effectStrParam": "",
             "effectParam1": 2
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 288277654,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 288277654,
         "descTextMapHash": 2996872985,
         "descParam": [
             2.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 48,
+        "ID": 48,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_MOD_REFUND_BY_COST",
             "effectStrParam": "",
             "effectParam1": 8000
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 3252430342,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 3252430342,
         "descTextMapHash": 1932172841,
         "descParam": [
             80.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 49,
+        "ID": 49,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
             "effectStrParam": "Ability_TowerDefence_V3_Avatar_SkillCDMinus"
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
-        "jBHBGJHFEED": 3722629014,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
+        "JBHBGJHFEED": 3722629014,
         "descTextMapHash": 2528109953,
         "descParam": [
             35.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 50,
+        "ID": 50,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
             "effectStrParam": "Ability_TowerDefence_V3_Avatar_Strengthen"
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
-        "jBHBGJHFEED": 189052390,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
+        "JBHBGJHFEED": 189052390,
         "descTextMapHash": 658865321,
         "descParam": [
             25.0,
             25.0,
             25.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 51,
+        "ID": 51,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
             "effectStrParam": "Ability_TowerDefence_V3_Avatar_Weaken_Monster_Health_Recover"
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
-        "jBHBGJHFEED": 1105389678,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_CHARACTER",
+        "JBHBGJHFEED": 1105389678,
         "descTextMapHash": 1722530457,
         "descParam": [
             100.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 52,
+        "ID": 52,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_LUA_CUSTOM",
             "effectStrParam": ""
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 3014882846,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 3014882846,
         "descTextMapHash": 1183356857,
         "descParam": [
             100.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]
     },
     {
-        "iD": 53,
+        "ID": 53,
         "costPoints": 10,
-        "gPONEPLEIJP": {
+        "GPONEPLEIJP": {
             "targetParamList": [],
             "effectType": "IRODORI_CHESS_CARD_EFFECT_LUA_CUSTOM",
             "effectStrParam": ""
         },
-        "hDKCJMEKMHC": [
+        "HDKCJMEKMHC": [
             {
                 "targetParamList": [],
                 "effectStrParam": ""
             }
         ],
-        "nIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
-        "hNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
-        "jBHBGJHFEED": 390124462,
+        "NIIOONLMBJJ": "IRODORI_CARD_QUALITY_GOOD",
+        "HNDACJFGLBM": "IRODORI_CARD_TAG_OTHER",
+        "JBHBGJHFEED": 390124462,
         "descTextMapHash": 1629645129,
         "descParam": [
             12.0,
             0.0,
             0.0
         ],
-        "hAMNEFIHCKP": [
+        "HAMNEFIHCKP": [
             {},
             {}
         ]

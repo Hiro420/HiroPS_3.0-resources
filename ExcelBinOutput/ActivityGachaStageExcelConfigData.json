@@ -1,124 +1,124 @@
 [
     {
         "stageId": 1,
-        "eGCAEBHICFJ": 2,
-        "eJOBCDPMEDI": true,
+        "EGCAEBHICFJ": 2,
+        "EJOBCDPMEDI": true,
         "type": "TARGET_TYPE_GATHER",
         "groupIdList": [
             101,
             102,
             103
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             3,
             3,
             6
         ],
-        "aLPNMOLCMLA": [],
-        "nOKFKEKMCHP": [
+        "ALPNMOLCMLA": [],
+        "NOKFKEKMCHP": [
             101,
             102,
             103
         ],
         "condID": 5080001,
         "watcherID": 1508001,
-        "nNAFNJNIOCI": 7269401
+        "NNAFNJNIOCI": 7269401
     },
     {
         "stageId": 2,
-        "eGCAEBHICFJ": 3,
-        "eJOBCDPMEDI": true,
+        "EGCAEBHICFJ": 3,
+        "EJOBCDPMEDI": true,
         "type": "TARGET_TYPE_ELEM",
         "groupIdList": [
             201,
             202,
             203
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             15,
             15,
             15
         ],
-        "aLPNMOLCMLA": [
+        "ALPNMOLCMLA": [
             133001079,
             133105077,
             133213557
         ],
-        "nOKFKEKMCHP": [
+        "NOKFKEKMCHP": [
             201,
             202,
             203
         ],
         "condID": 5080002,
         "watcherID": 1508002,
-        "nNAFNJNIOCI": 7269501
+        "NNAFNJNIOCI": 7269501
     },
     {
         "stageId": 3,
-        "eGCAEBHICFJ": 4,
-        "eJOBCDPMEDI": true,
+        "EGCAEBHICFJ": 4,
+        "EJOBCDPMEDI": true,
         "type": "TARGET_TYPE_MONSTER",
         "groupIdList": [
             301,
             302,
             303
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             3,
             4,
             4
         ],
-        "aLPNMOLCMLA": [],
-        "nOKFKEKMCHP": [
+        "ALPNMOLCMLA": [],
+        "NOKFKEKMCHP": [
             301,
             302,
             303
         ],
         "condID": 5080003,
-        "aBKBJAMIFDG": true,
+        "ABKBJAMIFDG": true,
         "watcherID": 1508003,
-        "nNAFNJNIOCI": 7269601
+        "NNAFNJNIOCI": 7269601
     },
     {
         "stageId": 4,
-        "eGCAEBHICFJ": 5,
+        "EGCAEBHICFJ": 5,
         "type": "TARGET_TYPE_GATHER",
         "groupIdList": [
             110
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             5
         ],
-        "aLPNMOLCMLA": [],
-        "nOKFKEKMCHP": [],
+        "ALPNMOLCMLA": [],
+        "NOKFKEKMCHP": [],
         "condID": 5080004,
-        "nNAFNJNIOCI": 7269701
+        "NNAFNJNIOCI": 7269701
     },
     {
         "stageId": 5,
-        "eGCAEBHICFJ": 6,
+        "EGCAEBHICFJ": 6,
         "type": "TARGET_TYPE_ELEM",
         "groupIdList": [
             210
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             15
         ],
-        "aLPNMOLCMLA": [],
-        "nOKFKEKMCHP": []
+        "ALPNMOLCMLA": [],
+        "NOKFKEKMCHP": []
     },
     {
         "stageId": 6,
-        "eGCAEBHICFJ": 4,
+        "EGCAEBHICFJ": 4,
         "type": "TARGET_TYPE_MONSTER",
         "groupIdList": [
             310
         ],
-        "jMIIKKNAPGL": [
+        "JMIIKKNAPGL": [
             4
         ],
-        "aLPNMOLCMLA": [],
-        "nOKFKEKMCHP": [],
-        "aBKBJAMIFDG": true
+        "ALPNMOLCMLA": [],
+        "NOKFKEKMCHP": [],
+        "ABKBJAMIFDG": true
     }
 ]

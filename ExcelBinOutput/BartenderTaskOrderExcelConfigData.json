@@ -1,7 +1,7 @@
 [
     {
         "questId": 7050402,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10101,
             10102,
             10103,
@@ -21,42 +21,42 @@
             10117,
             10118
         ],
-        "pICHJNKBCDL": 7050402,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050402,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050403,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10201
         ],
-        "pICHJNKBCDL": 7050403,
-        "pPDFEJLCNGE": 705109903,
-        "jHKHNMPODEG": 705109901,
-        "fAEMFNBDDEA": 7050402
+        "PICHJNKBCDL": 7050403,
+        "PPDFEJLCNGE": 705109903,
+        "JHKHNMPODEG": 705109901,
+        "FAEMFNBDDEA": 7050402
     },
     {
         "questId": 7050502,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10301
         ],
-        "pICHJNKBCDL": 7050502,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050502,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050602,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10401
         ],
-        "pICHJNKBCDL": 7050602,
-        "pPDFEJLCNGE": 705109903,
-        "jHKHNMPODEG": 705109901,
-        "fAEMFNBDDEA": 7050603
+        "PICHJNKBCDL": 7050602,
+        "PPDFEJLCNGE": 705109903,
+        "JHKHNMPODEG": 705109901,
+        "FAEMFNBDDEA": 7050603
     },
     {
         "questId": 7050603,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10501,
             10502,
             10503,
@@ -64,65 +64,65 @@
             10505,
             10506
         ],
-        "pICHJNKBCDL": 7050603,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050603,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050702,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10601
         ],
-        "pICHJNKBCDL": 7050702,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050702,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050302,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10701,
             10702
         ],
-        "pICHJNKBCDL": 7050302,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050302,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050802,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10801
         ],
-        "pICHJNKBCDL": 7050802,
-        "pPDFEJLCNGE": 705109903,
-        "jHKHNMPODEG": 705109901,
-        "fAEMFNBDDEA": 7050803
+        "PICHJNKBCDL": 7050802,
+        "PPDFEJLCNGE": 705109903,
+        "JHKHNMPODEG": 705109901,
+        "FAEMFNBDDEA": 7050803
     },
     {
         "questId": 7050803,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10901
         ],
-        "pICHJNKBCDL": 7050803,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901
+        "PICHJNKBCDL": 7050803,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901
     },
     {
         "questId": 7050902,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             11001
         ],
-        "pICHJNKBCDL": 7050902,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109904
+        "PICHJNKBCDL": 7050902,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109904
     },
     {
         "questId": 7050204,
-        "mBABBBDFIKB": [
+        "MBABBBDFIKB": [
             10001
         ],
-        "pICHJNKBCDL": 7050204,
-        "pPDFEJLCNGE": 705109902,
-        "jHKHNMPODEG": 705109901,
-        "lGGPKCBJKBN": true
+        "PICHJNKBCDL": 7050204,
+        "PPDFEJLCNGE": 705109902,
+        "JHKHNMPODEG": 705109901,
+        "LGGPKCBJKBN": true
     }
 ]

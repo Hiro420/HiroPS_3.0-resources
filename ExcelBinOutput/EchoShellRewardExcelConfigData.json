@@ -2,47 +2,47 @@
     {
         "id": 1,
         "rewardId": 301701,
-        "cNOEBANAKKG": 4
+        "CNOEBANAKKG": 4
     },
     {
         "id": 2,
         "rewardId": 301702,
-        "cNOEBANAKKG": 8
+        "CNOEBANAKKG": 8
     },
     {
         "id": 3,
         "rewardId": 301703,
-        "cNOEBANAKKG": 12
+        "CNOEBANAKKG": 12
     },
     {
         "id": 4,
         "rewardId": 301704,
-        "cNOEBANAKKG": 16
+        "CNOEBANAKKG": 16
     },
     {
         "id": 5,
         "rewardId": 301705,
-        "cNOEBANAKKG": 20
+        "CNOEBANAKKG": 20
     },
     {
         "id": 6,
         "rewardId": 301706,
-        "cNOEBANAKKG": 24
+        "CNOEBANAKKG": 24
     },
     {
         "id": 7,
         "rewardId": 301707,
-        "cNOEBANAKKG": 28
+        "CNOEBANAKKG": 28
     },
     {
         "id": 8,
         "rewardId": 301708,
-        "cNOEBANAKKG": 32
+        "CNOEBANAKKG": 32
     },
     {
         "id": 9,
         "rewardId": 301709,
-        "cNOEBANAKKG": 24,
-        "dJMPDAPEBOM": true
+        "CNOEBANAKKG": 24,
+        "DJMPDAPEBOM": true
     }
 ]

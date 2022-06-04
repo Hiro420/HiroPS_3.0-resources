@@ -1,20 +1,20 @@
 [
     {
-        "gFLABGDHPJA": "DUNGEON_SUB_BOSS",
+        "GFLABGDHPJA": "DUNGEON_SUB_BOSS",
         "minLevel": 50,
-        "nPJCMFANPCE": 55,
-        "nLGMNFCCFDJ": 5
+        "NPJCMFANPCE": 55,
+        "NLGMNFCCFDJ": 5
     },
     {
-        "gFLABGDHPJA": "DUNGEON_SUB_TALENT",
+        "GFLABGDHPJA": "DUNGEON_SUB_TALENT",
         "minLevel": 45,
-        "nPJCMFANPCE": 50,
-        "nLGMNFCCFDJ": 5
+        "NPJCMFANPCE": 50,
+        "NLGMNFCCFDJ": 5
     },
     {
-        "gFLABGDHPJA": "DUNGEON_SUB_RELIQUARY",
+        "GFLABGDHPJA": "DUNGEON_SUB_RELIQUARY",
         "minLevel": 45,
-        "nPJCMFANPCE": 50,
-        "nLGMNFCCFDJ": 5
+        "NPJCMFANPCE": 50,
+        "NLGMNFCCFDJ": 5
     }
 ]

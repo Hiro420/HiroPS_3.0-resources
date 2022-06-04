@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "Id": 1,
         "scheduleId": 5022001,
         "levelId": 1,
         "levelTitleTextMapHash": 2984850657,
@@ -43,7 +43,7 @@
             112,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 1,
         "challengeMissionWatcherList": [
             1,
@@ -68,13 +68,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_01"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 2,
+        "Id": 2,
         "scheduleId": 5022001,
         "levelId": 2,
         "levelTitleTextMapHash": 2217002449,
@@ -97,7 +97,7 @@
             10202,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 1,
         "challengeMissionWatcherList": [
             6,
@@ -122,13 +122,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_02"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 3,
+        "Id": 3,
         "scheduleId": 5022001,
         "levelId": 3,
         "levelTitleTextMapHash": 601190569,
@@ -153,7 +153,7 @@
             10201,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 3,
         "challengeMissionWatcherList": [
             11,
@@ -178,13 +178,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_03"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 4,
+        "Id": 4,
         "scheduleId": 5022001,
         "levelId": 4,
         "levelTitleTextMapHash": 639670097,
@@ -205,7 +205,7 @@
             50302,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 3,
         "challengeMissionWatcherList": [
             16,
@@ -229,13 +229,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_04"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 5,
+        "Id": 5,
         "scheduleId": 5022001,
         "levelId": 5,
         "levelTitleTextMapHash": 4004505345,
@@ -254,7 +254,7 @@
             10202,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 5,
         "challengeMissionWatcherList": [
             21,
@@ -279,13 +279,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_05"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 6,
+        "Id": 6,
         "scheduleId": 5022001,
         "levelId": 6,
         "levelTitleTextMapHash": 3386646953,
@@ -304,7 +304,7 @@
             30106,
             80
         ],
-        "gMJCKMEAEGK": [],
+        "GMJCKMEAEGK": [],
         "openDay": 5,
         "challengeMissionWatcherList": [
             26,
@@ -329,13 +329,13 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_06"
         ],
-        "oODDEFDIGFG": [],
-        "dOGMEEIALOB": "",
-        "fGILFFHHFIM": [],
-        "nCDHFCHGFKD": []
+        "OODDEFDIGFG": [],
+        "DOGMEEIALOB": "",
+        "FGILFFHHFIM": [],
+        "NCDHFCHGFKD": []
     },
     {
-        "id": 7,
+        "Id": 7,
         "scheduleId": 5054001,
         "levelId": 1,
         "levelTitleTextMapHash": 2883131465,
@@ -346,7 +346,7 @@
             10202,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             60401,
             80,
             40201,
@@ -380,7 +380,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_08"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             17,
             18,
             24,
@@ -389,12 +389,12 @@
             20,
             21
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             2,
             3
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701005,
             10701006,
             10701007,
@@ -402,7 +402,7 @@
         ]
     },
     {
-        "id": 8,
+        "Id": 8,
         "scheduleId": 5054001,
         "levelId": 2,
         "levelTitleTextMapHash": 2946964385,
@@ -413,7 +413,7 @@
             20103,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             110,
             80,
             111,
@@ -459,7 +459,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_07"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             11,
             12,
             13,
@@ -467,11 +467,11 @@
             15,
             16
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             1
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701001,
             10701002,
             10701003,
@@ -479,7 +479,7 @@
         ]
     },
     {
-        "id": 9,
+        "Id": 9,
         "scheduleId": 5054001,
         "levelId": 3,
         "levelTitleTextMapHash": 2065458249,
@@ -492,7 +492,7 @@
             20101,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             502,
             80,
             503,
@@ -536,7 +536,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_12"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             32,
             33,
             15,
@@ -544,11 +544,11 @@
             21,
             19
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             8
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701021,
             10701022,
             10701023,
@@ -556,7 +556,7 @@
         ]
     },
     {
-        "id": 10,
+        "Id": 10,
         "scheduleId": 5054001,
         "levelId": 4,
         "levelTitleTextMapHash": 1323773489,
@@ -567,7 +567,7 @@
             51002,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             20102,
             80,
             10202,
@@ -605,7 +605,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_11"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             17,
             30,
             21,
@@ -613,12 +613,12 @@
             20,
             29
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             6,
             7
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701017,
             10701018,
             10701019,
@@ -626,7 +626,7 @@
         ]
     },
     {
-        "id": 11,
+        "Id": 11,
         "scheduleId": 5054001,
         "levelId": 5,
         "levelTitleTextMapHash": 3106329505,
@@ -641,7 +641,7 @@
             40204,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             20103,
             80,
             10114,
@@ -687,7 +687,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_09"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             11,
             22,
             23,
@@ -696,11 +696,11 @@
             25,
             26
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             4
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701009,
             10701010,
             10701011,
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "id": 12,
+        "Id": 12,
         "scheduleId": 5054001,
         "levelId": 6,
         "levelTitleTextMapHash": 1644123921,
@@ -721,7 +721,7 @@
             10109,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             20104,
             80,
             10306,
@@ -755,7 +755,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_10"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             27,
             28,
             19,
@@ -764,11 +764,11 @@
             20,
             29
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             5
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701013,
             10701014,
             10701015,
@@ -776,7 +776,7 @@
         ]
     },
     {
-        "id": 13,
+        "Id": 13,
         "scheduleId": 5054001,
         "levelId": 7,
         "levelTitleTextMapHash": 2687835825,
@@ -811,7 +811,7 @@
             10103,
             90
         ],
-        "gMJCKMEAEGK": [
+        "GMJCKMEAEGK": [
             20501,
             80,
             20401,
@@ -841,7 +841,7 @@
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
             "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_13"
         ],
-        "oODDEFDIGFG": [
+        "OODDEFDIGFG": [
             11,
             12,
             17,
@@ -866,11 +866,11 @@
             29,
             31
         ],
-        "dOGMEEIALOB": "SGV_ABILITY_Mist_Level",
-        "fGILFFHHFIM": [
+        "DOGMEEIALOB": "SGV_ABILITY_Mist_Level",
+        "FGILFFHHFIM": [
             9
         ],
-        "nCDHFCHGFKD": [
+        "NCDHFCHGFKD": [
             10701025,
             10701026,
             10701027,

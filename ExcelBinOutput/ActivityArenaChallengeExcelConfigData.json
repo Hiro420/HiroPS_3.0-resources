@@ -1,6 +1,6 @@
 [
     {
-        "iD": 1,
+        "ID": 1,
         "scheduleId": 5019001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 1,
@@ -10,7 +10,7 @@
         "challengeTarget2TextMapHash": 1828722248
     },
     {
-        "iD": 2,
+        "ID": 2,
         "scheduleId": 5019001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 2,
@@ -20,7 +20,7 @@
         "challengeTarget2TextMapHash": 2519371560
     },
     {
-        "iD": 3,
+        "ID": 3,
         "scheduleId": 5019001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 3,
@@ -30,7 +30,7 @@
         "challengeTarget2TextMapHash": 3440113512
     },
     {
-        "iD": 4,
+        "ID": 4,
         "scheduleId": 5019001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 1,
@@ -40,7 +40,7 @@
         "challengeTarget2TextMapHash": 1000909896
     },
     {
-        "iD": 5,
+        "ID": 5,
         "scheduleId": 5019001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 2,
@@ -50,7 +50,7 @@
         "challengeTarget2TextMapHash": 1956659648
     },
     {
-        "iD": 6,
+        "ID": 6,
         "scheduleId": 5019001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 3,
@@ -60,7 +60,7 @@
         "challengeTarget2TextMapHash": 871693176
     },
     {
-        "iD": 7,
+        "ID": 7,
         "scheduleId": 5019001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 1,
@@ -70,7 +70,7 @@
         "challengeTarget2TextMapHash": 3739369496
     },
     {
-        "iD": 8,
+        "ID": 8,
         "scheduleId": 5019001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 2,
@@ -80,7 +80,7 @@
         "challengeTarget2TextMapHash": 4086292328
     },
     {
-        "iD": 9,
+        "ID": 9,
         "scheduleId": 5019001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 3,
@@ -90,7 +90,7 @@
         "challengeTarget2TextMapHash": 3286969896
     },
     {
-        "iD": 10,
+        "ID": 10,
         "scheduleId": 5019001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 1,
@@ -100,7 +100,7 @@
         "challengeTarget2TextMapHash": 4089395128
     },
     {
-        "iD": 11,
+        "ID": 11,
         "scheduleId": 5019001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 2,
@@ -110,7 +110,7 @@
         "challengeTarget2TextMapHash": 1935186176
     },
     {
-        "iD": 12,
+        "ID": 12,
         "scheduleId": 5019001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 3,
@@ -120,7 +120,7 @@
         "challengeTarget2TextMapHash": 2149355600
     },
     {
-        "iD": 13,
+        "ID": 13,
         "scheduleId": 5019001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 1,
@@ -130,7 +130,7 @@
         "challengeTarget2TextMapHash": 1985045488
     },
     {
-        "iD": 14,
+        "ID": 14,
         "scheduleId": 5019001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 2,
@@ -140,7 +140,7 @@
         "challengeTarget2TextMapHash": 2100098008
     },
     {
-        "iD": 15,
+        "ID": 15,
         "scheduleId": 5019001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 3,
@@ -150,7 +150,7 @@
         "challengeTarget2TextMapHash": 4090850984
     },
     {
-        "iD": 16,
+        "ID": 16,
         "scheduleId": 5019001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 1,
@@ -160,7 +160,7 @@
         "challengeTarget2TextMapHash": 3538276272
     },
     {
-        "iD": 17,
+        "ID": 17,
         "scheduleId": 5019001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 2,
@@ -170,7 +170,7 @@
         "challengeTarget2TextMapHash": 3798532152
     },
     {
-        "iD": 18,
+        "ID": 18,
         "scheduleId": 5019001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 3,
@@ -180,7 +180,7 @@
         "challengeTarget2TextMapHash": 3476186216
     },
     {
-        "iD": 19,
+        "ID": 19,
         "scheduleId": 5019001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 1,
@@ -190,7 +190,7 @@
         "challengeTarget2TextMapHash": 508996808
     },
     {
-        "iD": 20,
+        "ID": 20,
         "scheduleId": 5019001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 2,
@@ -200,7 +200,7 @@
         "challengeTarget2TextMapHash": 3946629728
     },
     {
-        "iD": 21,
+        "ID": 21,
         "scheduleId": 5019001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 3,
@@ -210,7 +210,7 @@
         "challengeTarget2TextMapHash": 448218952
     },
     {
-        "iD": 22,
+        "ID": 22,
         "scheduleId": 5034001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 1,
@@ -220,7 +220,7 @@
         "challengeTarget2TextMapHash": 887237096
     },
     {
-        "iD": 23,
+        "ID": 23,
         "scheduleId": 5034001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 2,
@@ -230,7 +230,7 @@
         "challengeTarget2TextMapHash": 3682055416
     },
     {
-        "iD": 24,
+        "ID": 24,
         "scheduleId": 5034001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 3,
@@ -240,18 +240,18 @@
         "challengeTarget2TextMapHash": 1725945432
     },
     {
-        "iD": 25,
+        "ID": 25,
         "scheduleId": 5034001,
         "arenaChallengeId": 1,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503404,
         "challengeTargetTextMapHash": 668938129,
         "challengeTarget1TextMapHash": 1533550973,
         "challengeTarget2TextMapHash": 1768061928
     },
     {
-        "iD": 26,
+        "ID": 26,
         "scheduleId": 5034001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 1,
@@ -261,7 +261,7 @@
         "challengeTarget2TextMapHash": 4071291632
     },
     {
-        "iD": 27,
+        "ID": 27,
         "scheduleId": 5034001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 2,
@@ -271,7 +271,7 @@
         "challengeTarget2TextMapHash": 4285341192
     },
     {
-        "iD": 28,
+        "ID": 28,
         "scheduleId": 5034001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 3,
@@ -281,18 +281,18 @@
         "challengeTarget2TextMapHash": 579013216
     },
     {
-        "iD": 29,
+        "ID": 29,
         "scheduleId": 5034001,
         "arenaChallengeId": 2,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503408,
         "challengeTargetTextMapHash": 2621252209,
         "challengeTarget1TextMapHash": 1316858709,
         "challengeTarget2TextMapHash": 1262682440
     },
     {
-        "iD": 30,
+        "ID": 30,
         "scheduleId": 5034001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 1,
@@ -302,7 +302,7 @@
         "challengeTarget2TextMapHash": 170323872
     },
     {
-        "iD": 31,
+        "ID": 31,
         "scheduleId": 5034001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 2,
@@ -312,7 +312,7 @@
         "challengeTarget2TextMapHash": 3071635344
     },
     {
-        "iD": 32,
+        "ID": 32,
         "scheduleId": 5034001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 3,
@@ -322,18 +322,18 @@
         "challengeTarget2TextMapHash": 2325783072
     },
     {
-        "iD": 33,
+        "ID": 33,
         "scheduleId": 5034001,
         "arenaChallengeId": 3,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503412,
         "challengeTargetTextMapHash": 3147223457,
         "challengeTarget1TextMapHash": 2554938229,
         "challengeTarget2TextMapHash": 2460556128
     },
     {
-        "iD": 34,
+        "ID": 34,
         "scheduleId": 5034001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 1,
@@ -343,7 +343,7 @@
         "challengeTarget2TextMapHash": 3664621104
     },
     {
-        "iD": 35,
+        "ID": 35,
         "scheduleId": 5034001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 2,
@@ -353,7 +353,7 @@
         "challengeTarget2TextMapHash": 3981326184
     },
     {
-        "iD": 36,
+        "ID": 36,
         "scheduleId": 5034001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 3,
@@ -363,18 +363,18 @@
         "challengeTarget2TextMapHash": 1999606128
     },
     {
-        "iD": 37,
+        "ID": 37,
         "scheduleId": 5034001,
         "arenaChallengeId": 4,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503416,
         "challengeTargetTextMapHash": 1299185729,
         "challengeTarget1TextMapHash": 2221684861,
         "challengeTarget2TextMapHash": 3214405656
     },
     {
-        "iD": 38,
+        "ID": 38,
         "scheduleId": 5034001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 1,
@@ -384,7 +384,7 @@
         "challengeTarget2TextMapHash": 2332313328
     },
     {
-        "iD": 39,
+        "ID": 39,
         "scheduleId": 5034001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 2,
@@ -394,7 +394,7 @@
         "challengeTarget2TextMapHash": 1251046544
     },
     {
-        "iD": 40,
+        "ID": 40,
         "scheduleId": 5034001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 3,
@@ -404,18 +404,18 @@
         "challengeTarget2TextMapHash": 4109555192
     },
     {
-        "iD": 41,
+        "ID": 41,
         "scheduleId": 5034001,
         "arenaChallengeId": 5,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503420,
         "challengeTargetTextMapHash": 3831985729,
         "challengeTarget1TextMapHash": 237628085,
         "challengeTarget2TextMapHash": 2853398856
     },
     {
-        "iD": 42,
+        "ID": 42,
         "scheduleId": 5034001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 1,
@@ -425,7 +425,7 @@
         "challengeTarget2TextMapHash": 919562912
     },
     {
-        "iD": 43,
+        "ID": 43,
         "scheduleId": 5034001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 2,
@@ -435,7 +435,7 @@
         "challengeTarget2TextMapHash": 1042722080
     },
     {
-        "iD": 44,
+        "ID": 44,
         "scheduleId": 5034001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 3,
@@ -445,18 +445,18 @@
         "challengeTarget2TextMapHash": 2739142464
     },
     {
-        "iD": 45,
+        "ID": 45,
         "scheduleId": 5034001,
         "arenaChallengeId": 6,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503424,
         "challengeTargetTextMapHash": 2321738849,
         "challengeTarget1TextMapHash": 1712407389,
         "challengeTarget2TextMapHash": 455174632
     },
     {
-        "iD": 46,
+        "ID": 46,
         "scheduleId": 5034001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 1,
@@ -466,7 +466,7 @@
         "challengeTarget2TextMapHash": 3750621616
     },
     {
-        "iD": 47,
+        "ID": 47,
         "scheduleId": 5034001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 2,
@@ -476,7 +476,7 @@
         "challengeTarget2TextMapHash": 4075866072
     },
     {
-        "iD": 48,
+        "ID": 48,
         "scheduleId": 5034001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 3,
@@ -486,11 +486,11 @@
         "challengeTarget2TextMapHash": 3015863824
     },
     {
-        "iD": 49,
+        "ID": 49,
         "scheduleId": 5034001,
         "arenaChallengeId": 7,
         "arenaChallengeLevel": 4,
-        "aKFCHHGKCEN": true,
+        "AKFCHHGKCEN": true,
         "watcherId": 1503428,
         "challengeTargetTextMapHash": 3911157009,
         "challengeTarget1TextMapHash": 765078173,

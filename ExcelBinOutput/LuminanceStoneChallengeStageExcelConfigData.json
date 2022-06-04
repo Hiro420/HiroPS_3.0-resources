@@ -2,11 +2,11 @@
     {
         "stageId": 1,
         "dayIndex": 1,
-        "aHAHICIFOKF": 726495150,
-        "aJLGHPHIIME": 3131143440,
-        "lIBDFGINNPP": 3504688709,
-        "eHGCDBFJGDI": 1438211639,
-        "lABBJHMKNFH": [
+        "AHAHICIFOKF": 726495150,
+        "AJLGHPHIIME": 3131143440,
+        "LIBDFGINNPP": 3504688709,
+        "EHGCDBFJGDI": 1438211639,
+        "LABBJHMKNFH": [
             5079001,
             5079002,
             5079003,
@@ -15,21 +15,21 @@
         "watcherList": [
             1507901
         ],
-        "kFJMJDJMKAP": [
+        "KFJMJDJMKAP": [
             71501,
             71506
         ],
-        "eJFGKCNOLCC": 50790101,
+        "EJFGKCNOLCC": 50790101,
         "pushTipsID": 11054
     },
     {
         "stageId": 2,
         "dayIndex": 2,
-        "aHAHICIFOKF": 2959184374,
-        "aJLGHPHIIME": 1955363912,
-        "lIBDFGINNPP": 1986386509,
-        "eHGCDBFJGDI": 3924626695,
-        "lABBJHMKNFH": [
+        "AHAHICIFOKF": 2959184374,
+        "AJLGHPHIIME": 1955363912,
+        "LIBDFGINNPP": 1986386509,
+        "EHGCDBFJGDI": 3924626695,
+        "LABBJHMKNFH": [
             5079004,
             5079005,
             5079006,
@@ -38,21 +38,21 @@
         "watcherList": [
             1507902
         ],
-        "kFJMJDJMKAP": [
+        "KFJMJDJMKAP": [
             71502,
             71507
         ],
-        "eJFGKCNOLCC": 50790102,
+        "EJFGKCNOLCC": 50790102,
         "pushTipsID": 11055
     },
     {
         "stageId": 3,
         "dayIndex": 3,
-        "aHAHICIFOKF": 1673221838,
-        "aJLGHPHIIME": 4038672088,
-        "lIBDFGINNPP": 1267804629,
-        "eHGCDBFJGDI": 4288147399,
-        "lABBJHMKNFH": [
+        "AHAHICIFOKF": 1673221838,
+        "AJLGHPHIIME": 4038672088,
+        "LIBDFGINNPP": 1267804629,
+        "EHGCDBFJGDI": 4288147399,
+        "LABBJHMKNFH": [
             5079007,
             5079008,
             5079009,
@@ -61,21 +61,21 @@
         "watcherList": [
             1507903
         ],
-        "kFJMJDJMKAP": [
+        "KFJMJDJMKAP": [
             71503,
             71508
         ],
-        "eJFGKCNOLCC": 50790103,
+        "EJFGKCNOLCC": 50790103,
         "pushTipsID": 11056
     },
     {
         "stageId": 4,
         "dayIndex": 4,
-        "aHAHICIFOKF": 990204454,
-        "aJLGHPHIIME": 1219300432,
-        "lIBDFGINNPP": 3953632133,
-        "eHGCDBFJGDI": 612082239,
-        "lABBJHMKNFH": [
+        "AHAHICIFOKF": 990204454,
+        "AJLGHPHIIME": 1219300432,
+        "LIBDFGINNPP": 3953632133,
+        "EHGCDBFJGDI": 612082239,
+        "LABBJHMKNFH": [
             5079010,
             5079011,
             5079012,
@@ -84,21 +84,21 @@
         "watcherList": [
             1507904
         ],
-        "kFJMJDJMKAP": [
+        "KFJMJDJMKAP": [
             71504,
             71509
         ],
-        "eJFGKCNOLCC": 50790104,
+        "EJFGKCNOLCC": 50790104,
         "pushTipsID": 11057
     },
     {
         "stageId": 5,
         "dayIndex": 5,
-        "aHAHICIFOKF": 3801696622,
-        "aJLGHPHIIME": 3694070072,
-        "lIBDFGINNPP": 2442633213,
-        "eHGCDBFJGDI": 2253878903,
-        "lABBJHMKNFH": [
+        "AHAHICIFOKF": 3801696622,
+        "AJLGHPHIIME": 3694070072,
+        "LIBDFGINNPP": 2442633213,
+        "EHGCDBFJGDI": 2253878903,
+        "LABBJHMKNFH": [
             5079013,
             5079014,
             5079015,
@@ -109,11 +109,11 @@
             1507906,
             1507907
         ],
-        "kFJMJDJMKAP": [
+        "KFJMJDJMKAP": [
             71505,
             71510
         ],
-        "eJFGKCNOLCC": 50790105,
+        "EJFGKCNOLCC": 50790105,
         "pushTipsID": 11058
     }
 ]

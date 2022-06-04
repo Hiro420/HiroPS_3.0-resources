@@ -2,34 +2,34 @@
     {
         "id": 1,
         "dungeonId": 3017,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             3,
             7,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 2,
         "dungeonId": 3017,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             2,
             3,
             6,
@@ -37,28 +37,28 @@
             8,
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 3,
         "dungeonId": 3017,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             2,
             3,
             5,
@@ -67,56 +67,56 @@
             10,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     3,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 4,
         "dungeonId": 3020,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             4,
             5,
             7,
             9,
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 5,
         "dungeonId": 3020,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             3,
             5,
             7,
@@ -124,28 +124,28 @@
             9,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     3
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 6,
         "dungeonId": 3020,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             2,
             3,
             5,
@@ -154,80 +154,80 @@
             10,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     4,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 7,
         "dungeonId": 3018,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             5,
             9
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 8,
         "dungeonId": 3018,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             2,
             5,
             10,
             13
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     3
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 9,
         "dungeonId": 3018,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             2,
             3,
             6,
@@ -235,80 +235,80 @@
             11,
             13
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     3,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 10,
         "dungeonId": 3021,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             3,
             10,
             12
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 11,
         "dungeonId": 3021,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             7,
             8,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 12,
         "dungeonId": 3021,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             4,
             6,
             7,
@@ -317,56 +317,56 @@
             11,
             12
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     3,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 13,
         "dungeonId": 3022,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             4,
             6,
             9,
             12,
             15
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 14,
         "dungeonId": 3022,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             4,
             8,
             9,
@@ -375,28 +375,28 @@
             12,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     3
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 15,
         "dungeonId": 3022,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             4,
             5,
             6,
@@ -407,55 +407,55 @@
             12,
             15
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     4,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 16,
         "dungeonId": 3019,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             4,
             6,
             8,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 17,
         "dungeonId": 3019,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             3,
             4,
             8,
@@ -463,28 +463,28 @@
             11,
             13
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 18,
         "dungeonId": 3019,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             5,
             4,
             6,
@@ -494,206 +494,206 @@
             11,
             8
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     4,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 19,
         "dungeonId": 3023,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 20,
         "dungeonId": 3023,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             6,
             16
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 21,
         "dungeonId": 3023,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             4,
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 22,
         "dungeonId": 3023,
-        "dLNHBMDADMB": 4,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 4,
+        "HACJNJGJLIE": [
             4,
             18
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 23,
         "dungeonId": 3023,
-        "dLNHBMDADMB": 5,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 5,
+        "HACJNJGJLIE": [
             3,
             5,
             15,
             17
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     3,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 24,
         "dungeonId": 3024,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             9,
             13
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 25,
         "dungeonId": 3024,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             3,
             11,
             15,
             17
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 26,
         "dungeonId": 3024,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             3,
             8,
             11,
@@ -701,128 +701,128 @@
             15,
             17
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     4,
                     4
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 27,
         "dungeonId": 3025,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             9,
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 28,
         "dungeonId": 3025,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             4,
             2
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 29,
         "dungeonId": 3025,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             2,
             10
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 30,
         "dungeonId": 3025,
-        "dLNHBMDADMB": 4,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 4,
+        "HACJNJGJLIE": [
             4,
             9
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     1,
                     1
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 31,
         "dungeonId": 3025,
-        "dLNHBMDADMB": 5,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 5,
+        "HACJNJGJLIE": [
             1,
             2,
             5,
@@ -832,81 +832,81 @@
             10,
             11
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     7,
                     7
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 32,
         "dungeonId": 3026,
-        "dLNHBMDADMB": 1,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 1,
+        "HACJNJGJLIE": [
             5,
             11,
             16
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_SPRING",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 33,
         "dungeonId": 3026,
-        "dLNHBMDADMB": 2,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 2,
+        "HACJNJGJLIE": [
             5,
             6,
             11,
             12
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_STORE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     2,
                     2
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     },
     {
         "id": 34,
         "dungeonId": 3026,
-        "dLNHBMDADMB": 3,
-        "hACJNJGJLIE": [
+        "DLNHBMDADMB": 3,
+        "HACJNJGJLIE": [
             3,
             4,
             7,
@@ -916,20 +916,20 @@
             15,
             16
         ],
-        "gBHLIKANCMH": {},
-        "hMHJCKIDPLM": [
+        "GBHLIKANCMH": {},
+        "HMHJCKIDPLM": [
             {
                 "type": "ROGUE_CELL_TYPE_ELITE",
-                "eJDGOICAAHB": [
+                "EJDGOICAAHB": [
                     7,
                     7
                 ]
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             },
             {
-                "eJDGOICAAHB": []
+                "EJDGOICAAHB": []
             }
         ]
     }

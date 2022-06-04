@@ -1,20 +1,20 @@
 [
     {
-        "hNPAJLCJJEA": 1,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 10,
-        "pABEODOHPGF": -5,
-        "fBFNFIBGFOP": 3,
-        "jMBNHBGMGNG": 9,
-        "aDMLDGCKKMD": 11,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 1,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 10,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 3290193374,
-        "eEEHKAOLABH": 603358825,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 3290193374,
+        "EEEHKAOLABH": 603358825,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -23,21 +23,21 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 2,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 14,
-        "pABEODOHPGF": -5,
-        "fBFNFIBGFOP": 3,
-        "jMBNHBGMGNG": 18,
-        "aDMLDGCKKMD": 22,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 2,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 14,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 18,
+        "ADMLDGCKKMD": 22,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 984501478,
-        "eEEHKAOLABH": 3411355441,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 984501478,
+        "EEEHKAOLABH": 3411355441,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -46,22 +46,22 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 3,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 18,
-        "lHEJDLMAMOL": 1001,
-        "pABEODOHPGF": -5,
-        "fBFNFIBGFOP": 3,
-        "jMBNHBGMGNG": 27,
-        "aDMLDGCKKMD": 33,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 3,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 18,
+        "LHEJDLMAMOL": 1001,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 27,
+        "ADMLDGCKKMD": 33,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 1884046782,
-        "eEEHKAOLABH": 2858017273,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 1884046782,
+        "EEEHKAOLABH": 2858017273,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -70,21 +70,21 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 4,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_ADJACENT",
-        "mEOFDLOMNCN": 26,
-        "lHEJDLMAMOL": 1001,
-        "pABEODOHPGF": -5,
-        "jMBNHBGMGNG": 20,
-        "aDMLDGCKKMD": 30,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 4,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_ADJACENT",
+        "MEOFDLOMNCN": 26,
+        "LHEJDLMAMOL": 1001,
+        "PABEODOHPGF": -5,
+        "JMBNHBGMGNG": 20,
+        "ADMLDGCKKMD": 30,
+        "DIFHPKMFDOG": [
             10,
             20,
             0
         ],
-        "jHLANHGGAFA": 2855886838,
-        "eEEHKAOLABH": 2886390217,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 2855886838,
+        "EEEHKAOLABH": 2886390217,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -93,21 +93,21 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 5,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_INSTABLE",
-        "mEOFDLOMNCN": 22,
-        "lHEJDLMAMOL": 1002,
-        "pABEODOHPGF": -5,
-        "jMBNHBGMGNG": 9,
-        "aDMLDGCKKMD": 11,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 5,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_INSTABLE",
+        "MEOFDLOMNCN": 22,
+        "LHEJDLMAMOL": 1002,
+        "PABEODOHPGF": -5,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
             3,
             6,
             0
         ],
-        "jHLANHGGAFA": 4021029662,
-        "eEEHKAOLABH": 983021145,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 4021029662,
+        "EEEHKAOLABH": 983021145,
+        "ODLANDPLCMK": [
             3,
             6,
             0,
@@ -116,19 +116,19 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 6,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 4,
-        "lHEJDLMAMOL": 1003,
-        "pABEODOHPGF": 20,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 6,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 4,
+        "LHEJDLMAMOL": 1003,
+        "PABEODOHPGF": 20,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 2022754822,
-        "eEEHKAOLABH": 972686865,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 2022754822,
+        "EEEHKAOLABH": 972686865,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -137,19 +137,19 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 7,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 4,
-        "lHEJDLMAMOL": 1003,
-        "pABEODOHPGF": -20,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 7,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 4,
+        "LHEJDLMAMOL": 1003,
+        "PABEODOHPGF": -20,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 4270418878,
-        "eEEHKAOLABH": 2490603433,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 4270418878,
+        "EEEHKAOLABH": 2490603433,
+        "ODLANDPLCMK": [
             0,
             0,
             0,
@@ -158,22 +158,22 @@
         ]
     },
     {
-        "hNPAJLCJJEA": 8,
-        "nLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
-        "mEOFDLOMNCN": 15,
-        "lHEJDLMAMOL": 1004,
-        "pABEODOHPGF": -5,
-        "fBFNFIBGFOP": 25,
-        "jMBNHBGMGNG": 9,
-        "aDMLDGCKKMD": 11,
-        "dIFHPKMFDOG": [
+        "HNPAJLCJJEA": 8,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 15,
+        "LHEJDLMAMOL": 1004,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 25,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
             0,
             0,
             0
         ],
-        "jHLANHGGAFA": 1565215406,
-        "eEEHKAOLABH": 2164092153,
-        "oDLANDPLCMK": [
+        "JHLANHGGAFA": 1565215406,
+        "EEEHKAOLABH": 2164092153,
+        "ODLANDPLCMK": [
             0,
             0,
             0,

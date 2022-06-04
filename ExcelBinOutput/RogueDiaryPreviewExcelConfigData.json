@@ -1,9 +1,9 @@
 [
     {
         "activityId": 2013,
-        "jMCMFIMPKJF": 18,
-        "nNFPHDDDOHB": 19,
-        "kFBAIDJBGHA": [
+        "JMCMFIMPKJF": 18,
+        "NNFPHDDDOHB": 19,
+        "KFBAIDJBGHA": [
             71048,
             71049,
             71044,
@@ -14,11 +14,11 @@
             71043,
             71045
         ],
-        "jFHFHEJEFPE": [
+        "JFHFHEJEFPE": [
             507101,
             201301
         ],
-        "eGOPILHPIKO": [
+        "EGOPILHPIKO": [
             12040,
             12041,
             12042,
@@ -27,8 +27,8 @@
             12026,
             11008
         ],
-        "mAGGGHFNFLC": 2013006,
-        "hKCFMMAGLDP": 20130,
+        "MAGGGHFNFLC": 2013006,
+        "HKCFMMAGLDP": 20130,
         "worldSceneId": 6
     }
 ]

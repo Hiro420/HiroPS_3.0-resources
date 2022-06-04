@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_NormalAttack",
+        "Id": 1,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_NormalAttack",
         "titleTextMapHash": 1888818478,
         "descTextMapHash": 2026848900,
         "descParam": [
@@ -14,12 +14,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3458230438,
-        "jMOKCPLGIBA": 247
+        "LAAKNFLKJLN": 3458230438,
+        "JMOKCPLGIBA": 247
     },
     {
-        "id": 2,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ExtraAttack",
+        "Id": 2,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ExtraAttack",
         "titleTextMapHash": 4254722622,
         "descTextMapHash": 3830680204,
         "descParam": [
@@ -32,12 +32,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2347623342,
-        "jMOKCPLGIBA": 216
+        "LAAKNFLKJLN": 2347623342,
+        "JMOKCPLGIBA": 216
     },
     {
-        "id": 3,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_FallingDamage",
+        "Id": 3,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_FallingDamage",
         "titleTextMapHash": 1966603390,
         "descTextMapHash": 3222065500,
         "descParam": [
@@ -50,12 +50,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 1468124908,
-        "jMOKCPLGIBA": 134
+        "LAAKNFLKJLN": 1468124908,
+        "JMOKCPLGIBA": 134
     },
     {
-        "id": 4,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
+        "Id": 4,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
         "titleTextMapHash": 3006041230,
         "descTextMapHash": 4217978076,
         "descParam": [
@@ -68,12 +68,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3834395571,
-        "jMOKCPLGIBA": 193
+        "LAAKNFLKJLN": 3834395571,
+        "JMOKCPLGIBA": 193
     },
     {
-        "id": 5,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_Elemental_Burst",
+        "Id": 5,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_Elemental_Burst",
         "titleTextMapHash": 4144478854,
         "descTextMapHash": 1591056956,
         "descParam": [
@@ -86,12 +86,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3022676406,
-        "jMOKCPLGIBA": 106
+        "LAAKNFLKJLN": 3022676406,
+        "JMOKCPLGIBA": 106
     },
     {
-        "id": 6,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
+        "Id": 6,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
         "titleTextMapHash": 1718305718,
         "descTextMapHash": 3052686380,
         "descParam": [
@@ -104,12 +104,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3052728856,
-        "jMOKCPLGIBA": 254
+        "LAAKNFLKJLN": 3052728856,
+        "JMOKCPLGIBA": 254
     },
     {
-        "id": 7,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
+        "Id": 7,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
         "titleTextMapHash": 2758299374,
         "descTextMapHash": 83683668,
         "descParam": [
@@ -122,12 +122,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2735585015,
-        "jMOKCPLGIBA": 198
+        "LAAKNFLKJLN": 2735585015,
+        "JMOKCPLGIBA": 198
     },
     {
-        "id": 8,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_Fever_Faster",
+        "Id": 8,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_Fever_Faster",
         "titleTextMapHash": 2219183486,
         "descTextMapHash": 2555546628,
         "descParam": [
@@ -140,12 +140,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 663852712,
-        "jMOKCPLGIBA": 21
+        "LAAKNFLKJLN": 663852712,
+        "JMOKCPLGIBA": 21
     },
     {
-        "id": 9,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElemMasteryDelta",
+        "Id": 9,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElemMasteryDelta",
         "titleTextMapHash": 1578630358,
         "descTextMapHash": 1553190988,
         "descParam": [
@@ -158,12 +158,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2111240122,
-        "jMOKCPLGIBA": 218
+        "LAAKNFLKJLN": 2111240122,
+        "JMOKCPLGIBA": 218
     },
     {
-        "id": 10,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Fire",
+        "Id": 10,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Fire",
         "titleTextMapHash": 2908248582,
         "descTextMapHash": 516092700,
         "descParam": [
@@ -176,12 +176,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 611073829,
-        "jMOKCPLGIBA": 132
+        "LAAKNFLKJLN": 611073829,
+        "JMOKCPLGIBA": 132
     },
     {
-        "id": 11,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Ice",
+        "Id": 11,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Ice",
         "titleTextMapHash": 1205817918,
         "descTextMapHash": 3616851108,
         "descParam": [
@@ -194,12 +194,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 1092484415,
-        "jMOKCPLGIBA": 173
+        "LAAKNFLKJLN": 1092484415,
+        "JMOKCPLGIBA": 173
     },
     {
-        "id": 12,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Elec",
+        "Id": 12,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Elec",
         "titleTextMapHash": 246224494,
         "descTextMapHash": 286896028,
         "descParam": [
@@ -212,12 +212,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3600245387,
-        "jMOKCPLGIBA": 144
+        "LAAKNFLKJLN": 3600245387,
+        "JMOKCPLGIBA": 144
     },
     {
-        "id": 13,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Rock",
+        "Id": 13,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Rock",
         "titleTextMapHash": 231665798,
         "descTextMapHash": 3397554804,
         "descParam": [
@@ -230,12 +230,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 668582569,
-        "jMOKCPLGIBA": 27
+        "LAAKNFLKJLN": 668582569,
+        "JMOKCPLGIBA": 27
     },
     {
-        "id": 14,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Water",
+        "Id": 14,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Water",
         "titleTextMapHash": 1903822606,
         "descTextMapHash": 2550840028,
         "descParam": [
@@ -248,12 +248,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2147398688,
-        "jMOKCPLGIBA": 208
+        "LAAKNFLKJLN": 2147398688,
+        "JMOKCPLGIBA": 208
     },
     {
-        "id": 15,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Wind",
+        "Id": 15,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_ElementAddHurt_Wind",
         "titleTextMapHash": 2666190454,
         "descTextMapHash": 237739652,
         "descParam": [
@@ -266,12 +266,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 1317417491,
-        "jMOKCPLGIBA": 188
+        "LAAKNFLKJLN": 1317417491,
+        "JMOKCPLGIBA": 188
     },
     {
-        "id": 16,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_PhysicalAddHurt",
+        "Id": 16,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_PhysicalAddHurt",
         "titleTextMapHash": 2281063270,
         "descTextMapHash": 2547860564,
         "descParam": [
@@ -284,12 +284,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 1154924311,
-        "jMOKCPLGIBA": 4
+        "LAAKNFLKJLN": 1154924311,
+        "JMOKCPLGIBA": 4
     },
     {
-        "id": 17,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_CriticalHurtDelta",
+        "Id": 17,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_CriticalHurtDelta",
         "titleTextMapHash": 3812625190,
         "descTextMapHash": 2492209036,
         "descParam": [
@@ -302,12 +302,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 1081252313,
-        "jMOKCPLGIBA": 249
+        "LAAKNFLKJLN": 1081252313,
+        "JMOKCPLGIBA": 249
     },
     {
-        "id": 18,
-        "oMEDBEBHFBI": "Ability_Activity_Sumo_AtkUp",
+        "Id": 18,
+        "OMEDBEBHFBI": "Ability_Activity_Sumo_AtkUp",
         "titleTextMapHash": 341201982,
         "descTextMapHash": 1790711804,
         "descParam": [
@@ -320,12 +320,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 3022809595,
-        "jMOKCPLGIBA": 208
+        "LAAKNFLKJLN": 3022809595,
+        "JMOKCPLGIBA": 208
     },
     {
-        "id": 19,
-        "oMEDBEBHFBI": "Activity_Sumo_Cannon",
+        "Id": 19,
+        "OMEDBEBHFBI": "Activity_Sumo_Cannon",
         "titleTextMapHash": 1766680054,
         "descTextMapHash": 675428428,
         "descParam": [
@@ -338,12 +338,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 4010191744,
-        "jMOKCPLGIBA": 72
+        "LAAKNFLKJLN": 4010191744,
+        "JMOKCPLGIBA": 72
     },
     {
-        "id": 20,
-        "oMEDBEBHFBI": "Activity_Sumo_ArtAndBurst_DamageUp",
+        "Id": 20,
+        "OMEDBEBHFBI": "Activity_Sumo_ArtAndBurst_DamageUp",
         "titleTextMapHash": 2552423662,
         "descTextMapHash": 2974175132,
         "descParam": [
@@ -356,12 +356,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2503402236,
-        "jMOKCPLGIBA": 137
+        "LAAKNFLKJLN": 2503402236,
+        "JMOKCPLGIBA": 137
     },
     {
-        "id": 21,
-        "oMEDBEBHFBI": "Activity_Sumo_ReviveEnergy",
+        "Id": 21,
+        "OMEDBEBHFBI": "Activity_Sumo_ReviveEnergy",
         "titleTextMapHash": 1955521606,
         "descTextMapHash": 2463378612,
         "descParam": [
@@ -374,12 +374,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 58129973,
-        "jMOKCPLGIBA": 246
+        "LAAKNFLKJLN": 58129973,
+        "JMOKCPLGIBA": 246
     },
     {
-        "id": 22,
-        "oMEDBEBHFBI": "Activity_Sumo_WindZone",
+        "Id": 22,
+        "OMEDBEBHFBI": "Activity_Sumo_WindZone",
         "titleTextMapHash": 2198395846,
         "descTextMapHash": 3110237396,
         "descParam": [
@@ -392,12 +392,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2929424454,
-        "jMOKCPLGIBA": 97
+        "LAAKNFLKJLN": 2929424454,
+        "JMOKCPLGIBA": 97
     },
     {
-        "id": 23,
-        "oMEDBEBHFBI": "Activity_Sumo_WaterZone",
+        "Id": 23,
+        "OMEDBEBHFBI": "Activity_Sumo_WaterZone",
         "titleTextMapHash": 4035175758,
         "descTextMapHash": 3257423620,
         "descParam": [
@@ -410,12 +410,12 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 2743595622,
-        "jMOKCPLGIBA": 242
+        "LAAKNFLKJLN": 2743595622,
+        "JMOKCPLGIBA": 242
     },
     {
-        "id": 24,
-        "oMEDBEBHFBI": "Activity_Sumo_ExtraAttack_RandomDamage",
+        "Id": 24,
+        "OMEDBEBHFBI": "Activity_Sumo_ExtraAttack_RandomDamage",
         "titleTextMapHash": 1491047606,
         "descTextMapHash": 2017493076,
         "descParam": [
@@ -428,7 +428,7 @@
             "",
             ""
         ],
-        "lAAKNFLKJLN": 113457726,
-        "jMOKCPLGIBA": 187
+        "LAAKNFLKJLN": 113457726,
+        "JMOKCPLGIBA": 187
     }
 ]

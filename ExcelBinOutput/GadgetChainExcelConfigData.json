@@ -1,13 +1,13 @@
 [
     {
-        "jIHIDGMIMCD": 100001,
-        "lBDEFGOONPD": 2,
+        "JIHIDGMIMCD": 100001,
+        "LBDEFGOONPD": 2,
         "maxLevel": 5,
         "buffList": []
     },
     {
-        "jIHIDGMIMCD": 100002,
-        "lBDEFGOONPD": 1,
+        "JIHIDGMIMCD": 100002,
+        "LBDEFGOONPD": 1,
         "maxLevel": 15,
         "buffList": [
             500301,
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "jIHIDGMIMCD": 100003,
+        "JIHIDGMIMCD": 100003,
         "maxLevel": 10,
         "buffList": []
     }

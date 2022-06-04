@@ -1,154 +1,154 @@
 [
     {
-        "id": 1,
-        "propPer": [
+        "Id": 1,
+        "PropPer": [
             {
-                "propType": "FIGHT_PROP_HP_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_HP_MP_PERCENT",
+                "PropValue": [
                     0.5,
                     1.0,
                     1.5
                 ]
             },
             {
-                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "PropValue": [
                     0.10000000149011612,
                     0.25,
                     0.4000000059604645
                 ]
             }
         ],
-        "endureNum": [
+        "EndureNum": [
             2,
             3,
             4
         ],
-        "elementShield": [
+        "ElementShield": [
             1.5,
             1.7000000476837158,
             2.0
         ]
     },
     {
-        "id": 2,
-        "propPer": [
+        "Id": 2,
+        "PropPer": [
             {
-                "propType": "FIGHT_PROP_HP_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_HP_MP_PERCENT",
+                "PropValue": [
                     0.5,
                     1.0,
                     1.5
                 ]
             },
             {
-                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "PropValue": [
                     0.10000000149011612,
                     0.25,
                     0.4000000059604645
                 ]
             }
         ],
-        "endureNum": [
+        "EndureNum": [
             2,
             3,
             4
         ],
-        "elementShield": [
+        "ElementShield": [
             1.5,
             1.7000000476837158,
             2.0
         ]
     },
     {
-        "id": 3,
-        "propPer": [
+        "Id": 3,
+        "PropPer": [
             {
-                "propType": "FIGHT_PROP_HP_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_HP_MP_PERCENT",
+                "PropValue": [
                     0.5,
                     1.0,
                     1.5
                 ]
             },
             {
-                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "PropValue": [
                     0.10000000149011612,
                     0.25,
                     0.4000000059604645
                 ]
             }
         ],
-        "endureNum": [
+        "EndureNum": [
             2,
             3,
             4
         ],
-        "elementShield": [
+        "ElementShield": [
             1.5,
             1.7000000476837158,
             2.0
         ]
     },
     {
-        "id": 4,
-        "propPer": [
+        "Id": 4,
+        "PropPer": [
             {
-                "propType": "FIGHT_PROP_HP_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_HP_MP_PERCENT",
+                "PropValue": [
                     0.5,
                     1.0,
                     1.5
                 ]
             },
             {
-                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "PropValue": [
                     0.10000000149011612,
                     0.25,
                     0.4000000059604645
                 ]
             }
         ],
-        "endureNum": [
+        "EndureNum": [
             2,
             3,
             4
         ],
-        "elementShield": [
+        "ElementShield": [
             1.5,
             1.7000000476837158,
             2.0
         ]
     },
     {
-        "id": 5,
-        "propPer": [
+        "Id": 5,
+        "PropPer": [
             {
-                "propType": "FIGHT_PROP_HP_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_HP_MP_PERCENT",
+                "PropValue": [
                     0.5,
                     1.0,
                     1.5
                 ]
             },
             {
-                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
-                "propValue": [
+                "PropType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "PropValue": [
                     0.10000000149011612,
                     0.25,
                     0.4000000059604645
                 ]
             }
         ],
-        "endureNum": [
+        "EndureNum": [
             2,
             3,
             4
         ],
-        "elementShield": [
+        "ElementShield": [
             1.5,
             1.7000000476837158,
             2.0

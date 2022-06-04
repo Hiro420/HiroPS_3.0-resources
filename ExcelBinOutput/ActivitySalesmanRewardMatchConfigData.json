@@ -1,7 +1,7 @@
 [
     {
         "rewardID": 3005001,
-        "reoureceType": "FIRE",
+        "ReoureceType": "FIRE",
         "boxNameTextMapHash": 3553481558
     },
     {
@@ -10,27 +10,27 @@
     },
     {
         "rewardID": 3005003,
-        "reoureceType": "GRASS",
+        "ReoureceType": "GRASS",
         "boxNameTextMapHash": 3358260502
     },
     {
         "rewardID": 3005004,
-        "reoureceType": "ICE",
+        "ReoureceType": "ICE",
         "boxNameTextMapHash": 3305288006
     },
     {
         "rewardID": 3005005,
-        "reoureceType": "ROCK",
+        "ReoureceType": "ROCK",
         "boxNameTextMapHash": 4160198126
     },
     {
         "rewardID": 3005006,
-        "reoureceType": "WATER",
+        "ReoureceType": "WATER",
         "boxNameTextMapHash": 1321431822
     },
     {
         "rewardID": 3005007,
-        "reoureceType": "WIND",
+        "ReoureceType": "WIND",
         "boxNameTextMapHash": 4074816982
     }
 ]

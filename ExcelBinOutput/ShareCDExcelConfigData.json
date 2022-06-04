@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "lLBAACGJLMD": [
+        "LLBAACGJLMD": [
             {
-                "lFIAILJCADP": 20.0,
-                "oFLJGENDKPP": 1
+                "LFIAILJCADP": 20.0,
+                "OFLJGENDKPP": 1
             },
             {
-                "lFIAILJCADP": 2.0
+                "LFIAILJCADP": 2.0
             }
         ]
     },
     {
         "id": 2,
-        "lLBAACGJLMD": [
+        "LLBAACGJLMD": [
             {
-                "lFIAILJCADP": 10.0,
-                "oFLJGENDKPP": 1
+                "LFIAILJCADP": 10.0,
+                "OFLJGENDKPP": 1
             },
             {
-                "lFIAILJCADP": 2.0
+                "LFIAILJCADP": 2.0
             }
         ]
     },
     {
         "id": 3,
-        "lLBAACGJLMD": [
+        "LLBAACGJLMD": [
             {
-                "lFIAILJCADP": 20.0,
-                "oFLJGENDKPP": 1
+                "LFIAILJCADP": 20.0,
+                "OFLJGENDKPP": 1
             },
             {
-                "lFIAILJCADP": 2.0
+                "LFIAILJCADP": 2.0
             }
         ]
     }

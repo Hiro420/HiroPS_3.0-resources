@@ -1,6 +1,6 @@
 [
     {
-        "entryId": 1,
+        "EntryId": 1,
         "playId": 1,
         "serverLuaCallGroupList": [],
         "resinCost": 40,
@@ -79,7 +79,7 @@
         "abilityGroupList": []
     },
     {
-        "entryId": 2,
+        "EntryId": 2,
         "playId": 2,
         "serverLuaCallGroupList": [
             133001413
@@ -163,7 +163,7 @@
         "abilityGroupList": []
     },
     {
-        "entryId": 3,
+        "EntryId": 3,
         "playId": 3,
         "serverLuaCallGroupList": [
             133002418
@@ -241,10 +241,10 @@
         ],
         "limitRegion": "BigWorld_CryoRegisvineArea_001",
         "abilityGroupList": [],
-        "iLOEDLJDFNF": true
+        "ILOEDLJDFNF": true
     },
     {
-        "entryId": 4,
+        "EntryId": 4,
         "playId": 4,
         "serverLuaCallGroupList": [
             133102112
@@ -342,12 +342,12 @@
         ]
     },
     {
-        "entryId": 5,
+        "EntryId": 5,
         "playId": 5,
         "serverLuaCallGroupList": [
             133002066
         ],
-        "dNHBKDCGFKB": true,
+        "DNHBKDCGFKB": true,
         "upAvatarList": [],
         "clientShowType": "MP_PLAY_SHOW_NO_RESIN",
         "rewardVec": [

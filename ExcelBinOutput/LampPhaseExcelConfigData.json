@@ -8,7 +8,7 @@
             200002,
             200003
         ],
-        "givingId": 10,
+        "GivingId": 10,
         "contribution": 15,
         "addProgress": 15,
         "notifyGroupId": 301001009,
@@ -23,7 +23,7 @@
             200002,
             200003
         ],
-        "givingId": 11,
+        "GivingId": 11,
         "contribution": 15,
         "addProgress": 15,
         "notifyGroupId": 301001009,
@@ -38,7 +38,7 @@
             200002,
             200003
         ],
-        "givingId": 12,
+        "GivingId": 12,
         "contribution": 15,
         "addProgress": 15,
         "notifyGroupId": 301001009,
@@ -52,7 +52,7 @@
             200002,
             200003
         ],
-        "givingId": 13,
+        "GivingId": 13,
         "contribution": 15,
         "isDisplay": true,
         "notifyGroupId": 301001009

@@ -3686,6 +3686,46 @@
         "itemType": "ITEM_MATERIAL"
     },
     {
+        "interactionTitleTextMapHash": 1887217407,
+        "materialType": "MATERIAL_AVATAR",
+        "stackLimit": 1000,
+        "maxUseCount": 99,
+        "useOnGain": true,
+        "itemUse": [
+            {
+                "useOp": "ITEM_USE_GAIN_AVATAR",
+                "useParam": [
+                    "10000059",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "useParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "rankLevel": 4,
+        "effectDescTextMapHash": 2318461199,
+        "specialDescTextMapHash": 2256673457,
+        "typeDescTextMapHash": 142627974,
+        "effectIcon": "",
+        "effectName": "",
+        "picPath": [],
+        "satiationParams": [],
+        "destroyReturnMaterial": [],
+        "destroyReturnMaterialCount": [],
+        "id": 1059,
+        "nameTextMapHash": 268835900,
+        "descTextMapHash": 121538605,
+        "icon": "UI_AvatarIcon_Heizo_Card",
+        "itemType": "ITEM_MATERIAL"
+    },
+    {
         "interactionTitleTextMapHash": 1313889551,
         "materialType": "MATERIAL_AVATAR",
         "stackLimit": 1000,
@@ -5659,6 +5699,44 @@
         "destroyReturnMaterial": [],
         "destroyReturnMaterialCount": [],
         "id": 1143,
+        "nameTextMapHash": 760731532,
+        "descTextMapHash": 3120636085,
+        "icon": "UI_ItemIcon_1103",
+        "itemType": "ITEM_MATERIAL",
+        "rank": 20
+    },
+    {
+        "interactionTitleTextMapHash": 4208183255,
+        "materialType": "MATERIAL_TALENT",
+        "stackLimit": 1000,
+        "itemUse": [
+            {
+                "useParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "useParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "rankLevel": 4,
+        "effectDescTextMapHash": 2585498775,
+        "specialDescTextMapHash": 2438461137,
+        "typeDescTextMapHash": 3087272382,
+        "effectIcon": "",
+        "effectName": "",
+        "picPath": [],
+        "satiationParams": [],
+        "destroyReturnMaterial": [],
+        "destroyReturnMaterialCount": [],
+        "id": 1159,
         "nameTextMapHash": 760731532,
         "descTextMapHash": 3120636085,
         "icon": "UI_ItemIcon_1103",
@@ -104565,6 +104643,51 @@
         "itemType": "ITEM_MATERIAL"
     },
     {
+        "interactionTitleTextMapHash": 2239520679,
+        "materialType": "MATERIAL_NAMECARD",
+        "stackLimit": 1000,
+        "maxUseCount": 99,
+        "useOnGain": true,
+        "noFirstGetHint": true,
+        "itemUse": [
+            {
+                "useOp": "ITEM_USE_GAIN_NAME_CARD",
+                "useParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "useParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "rankLevel": 4,
+        "effectDescTextMapHash": 3354423479,
+        "specialDescTextMapHash": 3959042497,
+        "typeDescTextMapHash": 3584207398,
+        "effectIcon": "",
+        "effectName": "",
+        "picPath": [
+            "UI_NameCardPic_Heizo_Alpha",
+            "UI_NameCardPic_Heizo_P"
+        ],
+        "satiationParams": [],
+        "destroyReturnMaterial": [],
+        "destroyReturnMaterialCount": [],
+        "isForceGetHint": true,
+        "id": 210122,
+        "nameTextMapHash": 2757081100,
+        "descTextMapHash": 1214115853,
+        "icon": "UI_NameCardIcon_Heizo",
+        "itemType": "ITEM_MATERIAL"
+    },
+    {
         "interactionTitleTextMapHash": 1208651943,
         "materialType": "MATERIAL_NAMECARD",
         "stackLimit": 1000,
@@ -104652,6 +104775,51 @@
         "nameTextMapHash": 3188840620,
         "descTextMapHash": 884869565,
         "icon": "UI_NameCardIcon_Bp15",
+        "itemType": "ITEM_MATERIAL"
+    },
+    {
+        "interactionTitleTextMapHash": 2154320999,
+        "materialType": "MATERIAL_NAMECARD",
+        "stackLimit": 1000,
+        "maxUseCount": 99,
+        "useOnGain": true,
+        "noFirstGetHint": true,
+        "itemUse": [
+            {
+                "useOp": "ITEM_USE_GAIN_NAME_CARD",
+                "useParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "useParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "rankLevel": 4,
+        "effectDescTextMapHash": 1135669543,
+        "specialDescTextMapHash": 4150281473,
+        "typeDescTextMapHash": 3969231462,
+        "effectIcon": "",
+        "effectName": "",
+        "picPath": [
+            "UI_NameCardPic_Bp16_P_Alpha",
+            "UI_NameCardPic_Bp16_P"
+        ],
+        "satiationParams": [],
+        "destroyReturnMaterial": [],
+        "destroyReturnMaterialCount": [],
+        "isForceGetHint": true,
+        "id": 210123,
+        "nameTextMapHash": 3188840620,
+        "descTextMapHash": 884869565,
+        "icon": "UI_NameCardIcon_Bp16",
         "itemType": "ITEM_MATERIAL"
     },
     {

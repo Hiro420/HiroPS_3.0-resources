@@ -1,32 +1,32 @@
 [
     {
         "configId": 507101,
-        "jNNHGCJOGPP": 7104405,
+        "JNNHGCJOGPP": 7104405,
         "npcId": 2061,
-        "nDIGCEDHOON": true,
+        "NDIGCEDHOON": true,
         "sceneId": 3,
-        "nCGNLFMBJKL": [
+        "NCGNLFMBJKL": [
             -767.5441284179688,
             205.0321044921875,
             1474.554443359375
         ],
-        "kLPNFNICIOE": true,
+        "KLPNFNICIOE": true,
         "descTextMapHash": 2699266440,
-        "lHAGNICNJBJ": 3337136618
+        "LHAGNICNJBJ": 3337136618
     },
     {
         "configId": 201301,
-        "jNNHGCJOGPP": 7104201,
+        "JNNHGCJOGPP": 7104201,
         "npcId": 2616,
-        "nDIGCEDHOON": true,
+        "NDIGCEDHOON": true,
         "sceneId": 6,
-        "nCGNLFMBJKL": [
+        "NCGNLFMBJKL": [
             1074.6839599609375,
             961.4124145507812,
             684.0294189453125
         ],
-        "kLPNFNICIOE": true,
+        "KLPNFNICIOE": true,
         "descTextMapHash": 2331052560,
-        "lHAGNICNJBJ": 831653426
+        "LHAGNICNJBJ": 831653426
     }
 ]

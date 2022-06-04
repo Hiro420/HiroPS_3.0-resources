@@ -1,10 +1,10 @@
 [
     {
-        "activityId": 1001,
-        "type": "ACTIVITY_SEA_LAMP",
-        "destroyItem": [
+        "ActivityId": 1001,
+        "Type": "ACTIVITY_SEA_LAMP",
+        "DestroyItem": [
             {
-                "itemId": [
+                "ItemId": [
                     200001,
                     200002,
                     200003,
@@ -12,25 +12,25 @@
                 ]
             },
             {
-                "itemId": []
+                "ItemId": []
             }
         ],
-        "nameTextMapHash": 4266261887,
-        "activitySceneTag": "Hdj",
-        "isLoadTerrain": true
+        "NameTextMapHash": 4266261887,
+        "ActivitySceneTag": "Hdj",
+        "IsLoadTerrain": true
     },
     {
-        "activityId": 5001,
-        "type": "ACTIVITY_CRUCIBLE",
-        "destroyItem": [
+        "ActivityId": 5001,
+        "Type": "ACTIVITY_CRUCIBLE",
+        "DestroyItem": [
             {
-                "itemId": []
+                "ItemId": []
             },
             {
-                "itemId": []
+                "ItemId": []
             }
         ],
-        "nameTextMapHash": 1568489287,
-        "activitySceneTag": ""
+        "NameTextMapHash": 1568489287,
+        "ActivitySceneTag": ""
     }
 ]

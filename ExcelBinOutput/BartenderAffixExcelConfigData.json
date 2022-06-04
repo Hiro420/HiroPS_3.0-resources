@@ -1,56 +1,56 @@
 [
     {
         "id": 101,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410004,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 102,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410005,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 103,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410006,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 104,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410007,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 105,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410008,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 106,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410009,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 107,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410001,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 108,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410002,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     },
     {
         "id": 109,
-        "lPHBPLFCKCG": "GreaterOrEqual",
+        "LPHBPLFCKCG": "GreaterOrEqual",
         "materialId": 410003,
-        "fPBOEIEBIDA": 1
+        "FPBOEIEBIDA": 1
     }
 ]

@@ -1,56 +1,56 @@
 [
     {
         "id": 410001,
-        "cOECBOFNJGK": 1,
+        "COECBOFNJGK": 1,
         "weight": 100,
-        "lADEOCHMNIL": 1
+        "LADEOCHMNIL": 1
     },
     {
         "id": 410002,
-        "cOECBOFNJGK": 1,
+        "COECBOFNJGK": 1,
         "weight": 200,
-        "lADEOCHMNIL": 2
+        "LADEOCHMNIL": 2
     },
     {
         "id": 410003,
-        "cOECBOFNJGK": 1,
+        "COECBOFNJGK": 1,
         "weight": 300,
-        "lADEOCHMNIL": 3
+        "LADEOCHMNIL": 3
     },
     {
         "id": 410004,
-        "cOECBOFNJGK": 1,
+        "COECBOFNJGK": 1,
         "weight": 1000,
-        "lADEOCHMNIL": 4
+        "LADEOCHMNIL": 4
     },
     {
         "id": 410005,
-        "cOECBOFNJGK": 2,
+        "COECBOFNJGK": 2,
         "weight": 1200,
-        "lADEOCHMNIL": 7
+        "LADEOCHMNIL": 7
     },
     {
         "id": 410006,
-        "cOECBOFNJGK": 3,
+        "COECBOFNJGK": 3,
         "weight": 1400,
-        "lADEOCHMNIL": 8
+        "LADEOCHMNIL": 8
     },
     {
         "id": 410007,
-        "cOECBOFNJGK": 4,
+        "COECBOFNJGK": 4,
         "weight": 1500,
-        "lADEOCHMNIL": 9
+        "LADEOCHMNIL": 9
     },
     {
         "id": 410008,
-        "cOECBOFNJGK": 3,
+        "COECBOFNJGK": 3,
         "weight": 1300,
-        "lADEOCHMNIL": 5
+        "LADEOCHMNIL": 5
     },
     {
         "id": 410009,
-        "cOECBOFNJGK": 1,
+        "COECBOFNJGK": 1,
         "weight": 1100,
-        "lADEOCHMNIL": 6
+        "LADEOCHMNIL": 6
     }
 ]

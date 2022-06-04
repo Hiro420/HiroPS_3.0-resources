@@ -1,17 +1,17 @@
 [
     {
         "configId": 1,
-        "iHHANOGAGIM": "408964C0",
-        "iBPLJNJJCEE": "408964"
+        "IHHANOGAGIM": "408964C0",
+        "IBPLJNJJCEE": "408964"
     },
     {
         "configId": 2,
-        "iHHANOGAGIM": "AF4758C0",
-        "iBPLJNJJCEE": "AF4758"
+        "IHHANOGAGIM": "AF4758C0",
+        "IBPLJNJJCEE": "AF4758"
     },
     {
         "configId": 3,
-        "iHHANOGAGIM": "487BC1C0",
-        "iBPLJNJJCEE": "487BC1"
+        "IHHANOGAGIM": "487BC1C0",
+        "IBPLJNJJCEE": "487BC1"
     }
 ]

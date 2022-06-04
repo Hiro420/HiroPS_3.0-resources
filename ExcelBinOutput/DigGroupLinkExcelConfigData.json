@@ -1,90 +1,90 @@
 [
     {
         "id": 1,
-        "dBDOIGDNAMD": 1,
-        "mDLNKFCBDOM": 50490101,
-        "fHEDDDCKFFD": 999557799,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 1,
+        "MDLNKFCBDOM": 50490101,
+        "FHEDDDCKFFD": 999557799,
+        "GNMAEFKFNFO": [
             15049001
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position01"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position01"
     },
     {
         "id": 2,
-        "dBDOIGDNAMD": 1,
-        "mDLNKFCBDOM": 50490102,
-        "fHEDDDCKFFD": 797124095,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 1,
+        "MDLNKFCBDOM": 50490102,
+        "FHEDDDCKFFD": 797124095,
+        "GNMAEFKFNFO": [
             15049002
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position02"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position02"
     },
     {
         "id": 3,
-        "dBDOIGDNAMD": 1,
-        "mDLNKFCBDOM": 50490103,
-        "fHEDDDCKFFD": 37198495,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 1,
+        "MDLNKFCBDOM": 50490103,
+        "FHEDDDCKFFD": 37198495,
+        "GNMAEFKFNFO": [
             15049003
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position03"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position03"
     },
     {
         "id": 4,
-        "dBDOIGDNAMD": 1,
-        "mDLNKFCBDOM": 50490104,
-        "fHEDDDCKFFD": 987499431,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 1,
+        "MDLNKFCBDOM": 50490104,
+        "FHEDDDCKFFD": 987499431,
+        "GNMAEFKFNFO": [
             15049004
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position04"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position04"
     },
     {
         "id": 5,
-        "dBDOIGDNAMD": 2,
-        "mDLNKFCBDOM": 50490201,
-        "fHEDDDCKFFD": 919667415,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 2,
+        "MDLNKFCBDOM": 50490201,
+        "FHEDDDCKFFD": 919667415,
+        "GNMAEFKFNFO": [
             15049005
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position01"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position01"
     },
     {
         "id": 6,
-        "dBDOIGDNAMD": 2,
-        "mDLNKFCBDOM": 50490202,
-        "fHEDDDCKFFD": 3595258751,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 2,
+        "MDLNKFCBDOM": 50490202,
+        "FHEDDDCKFFD": 3595258751,
+        "GNMAEFKFNFO": [
             15049006
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position02"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position02"
     },
     {
         "id": 7,
-        "dBDOIGDNAMD": 2,
-        "mDLNKFCBDOM": 50490203,
-        "fHEDDDCKFFD": 3823007735,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 2,
+        "MDLNKFCBDOM": 50490203,
+        "FHEDDDCKFFD": 3823007735,
+        "GNMAEFKFNFO": [
             15049007
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position03"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position03"
     },
     {
         "id": 8,
-        "dBDOIGDNAMD": 2,
-        "mDLNKFCBDOM": 50490204,
-        "fHEDDDCKFFD": 3808573207,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 2,
+        "MDLNKFCBDOM": 50490204,
+        "FHEDDDCKFFD": 3808573207,
+        "GNMAEFKFNFO": [
             15049008
         ],
-        "jBJAHPEJHMM": "UI_Img_Dig_Position04"
+        "JBJAHPEJHMM": "UI_Img_Dig_Position04"
     },
     {
         "id": 9,
-        "dBDOIGDNAMD": 3,
-        "mDLNKFCBDOM": 50490301,
-        "fHEDDDCKFFD": 3520989047,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 3,
+        "MDLNKFCBDOM": 50490301,
+        "FHEDDDCKFFD": 3520989047,
+        "GNMAEFKFNFO": [
             15049009,
             15049010,
             15049011,
@@ -92,30 +92,30 @@
             15049013,
             15049014
         ],
-        "jBJAHPEJHMM": ""
+        "JBJAHPEJHMM": ""
     },
     {
         "id": 10,
-        "dBDOIGDNAMD": 4,
-        "mDLNKFCBDOM": 50490401,
-        "cHLLILBDOIL": 50490402,
-        "cNNPPJFKBND": 50490402,
-        "fHEDDDCKFFD": 229630815,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 4,
+        "MDLNKFCBDOM": 50490401,
+        "CHLLILBDOIL": 50490402,
+        "CNNPPJFKBND": 50490402,
+        "FHEDDDCKFFD": 229630815,
+        "GNMAEFKFNFO": [
             15049015
         ],
-        "jBJAHPEJHMM": ""
+        "JBJAHPEJHMM": ""
     },
     {
         "id": 11,
-        "dBDOIGDNAMD": 4,
-        "mDLNKFCBDOM": 50490403,
-        "cHLLILBDOIL": 50490404,
-        "cNNPPJFKBND": 50490403,
-        "fHEDDDCKFFD": 1428288487,
-        "gNMAEFKFNFO": [
+        "DBDOIGDNAMD": 4,
+        "MDLNKFCBDOM": 50490403,
+        "CHLLILBDOIL": 50490404,
+        "CNNPPJFKBND": 50490403,
+        "FHEDDDCKFFD": 1428288487,
+        "GNMAEFKFNFO": [
             15049016
         ],
-        "jBJAHPEJHMM": ""
+        "JBJAHPEJHMM": ""
     }
 ]

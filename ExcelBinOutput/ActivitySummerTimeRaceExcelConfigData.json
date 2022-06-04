@@ -1,146 +1,146 @@
 [
     {
-        "id": 1,
-        "cBGPAOBONCP": [
+        "Id": 1,
+        "CBGPAOBONCP": [
             1200501,
             1200502,
             1200503
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             604.0,
             120.0,
             233.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 1443788822,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005021,
-        "dMBICIBJNHL": 108096,
-        "lEFKPADOPAL": 108100
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005021,
+        "DMBICIBJNHL": 108096,
+        "LEFKPADOPAL": 108100
     },
     {
-        "id": 2,
-        "cBGPAOBONCP": [
+        "Id": 2,
+        "CBGPAOBONCP": [
             1200504,
             1200505,
             1200506
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             -193.0,
             120.0,
             -466.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 2178347534,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005022,
-        "dMBICIBJNHL": 63139,
-        "lEFKPADOPAL": 63022
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005022,
+        "DMBICIBJNHL": 63139,
+        "LEFKPADOPAL": 63022
     },
     {
-        "id": 3,
-        "cBGPAOBONCP": [
+        "Id": 3,
+        "CBGPAOBONCP": [
             1200507,
             1200508,
             1200509
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             90.0,
             120.0,
             270.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 588766758,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005023,
-        "dMBICIBJNHL": 127093,
-        "lEFKPADOPAL": 127011
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005023,
+        "DMBICIBJNHL": 127093,
+        "LEFKPADOPAL": 127011
     },
     {
-        "id": 4,
-        "cBGPAOBONCP": [
+        "Id": 4,
+        "CBGPAOBONCP": [
             1200510,
             1200511,
             1200512
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             -556.0,
             120.0,
             -142.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 2433878222,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005024,
-        "dMBICIBJNHL": 65070,
-        "lEFKPADOPAL": 65045
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005024,
+        "DMBICIBJNHL": 65070,
+        "LEFKPADOPAL": 65045
     },
     {
-        "id": 5,
-        "cBGPAOBONCP": [
+        "Id": 5,
+        "CBGPAOBONCP": [
             1200513,
             1200514,
             1200515
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             -231.0,
             120.0,
             -630.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 3726955622,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005025,
-        "dMBICIBJNHL": 130099,
-        "lEFKPADOPAL": 130026
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005025,
+        "DMBICIBJNHL": 130099,
+        "LEFKPADOPAL": 130026
     },
     {
-        "id": 6,
-        "cBGPAOBONCP": [
+        "Id": 6,
+        "CBGPAOBONCP": [
             1200516,
             1200517,
             1200518
         ],
-        "eNMJDJLOBNF": [
+        "ENMJDJLOBNF": [
             287.0,
             120.0,
             -764.0
         ],
-        "bGDNBECLAGG": [
+        "BGDNBECLAGG": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 3590576158,
-        "cOFCLFLHKJL": 150,
-        "kLODFLGJFLM": 1500,
-        "aEPDEFJANKN": 2005026,
-        "dMBICIBJNHL": 49058,
-        "lEFKPADOPAL": 49039
+        "COFCLFLHKJL": 150,
+        "KLODFLGJFLM": 1500,
+        "AEPDEFJANKN": 2005026,
+        "DMBICIBJNHL": 49058,
+        "LEFKPADOPAL": 49039
     }
 ]

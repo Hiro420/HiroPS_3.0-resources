@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "gCAHPCPKHND": 1,
+        "GCAHPCPKHND": 1,
         "weight": 40,
-        "jGCPELFCOGN": 30
+        "JGCPELFCOGN": 30
     },
     {
         "id": 2,
-        "gCAHPCPKHND": 2,
+        "GCAHPCPKHND": 2,
         "weight": 50,
-        "jGCPELFCOGN": 35
+        "JGCPELFCOGN": 35
     },
     {
         "id": 3,
-        "gCAHPCPKHND": 3,
+        "GCAHPCPKHND": 3,
         "weight": 10,
-        "jGCPELFCOGN": 25
+        "JGCPELFCOGN": 25
     },
     {
         "id": 4,
-        "gCAHPCPKHND": 4,
-        "jGCPELFCOGN": 10
+        "GCAHPCPKHND": 4,
+        "JGCPELFCOGN": 10
     }
 ]
