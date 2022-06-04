@@ -1,0 +1,38 @@
+[
+    {
+        "hDKBFANOAOF": 372501,
+        "cFNCCIJEEEA": "HOME_FIELD_DRY",
+        "mJHFAHCFAFF": 77215014,
+        "aPAEPHLGGIH": 4,
+        "lODGOBKNKOP": [
+            77215013,
+            77215013,
+            77215013,
+            77215013
+        ]
+    },
+    {
+        "hDKBFANOAOF": 372502,
+        "cFNCCIJEEEA": "HOME_FIELD_FLOWER",
+        "mJHFAHCFAFF": 77215016,
+        "aPAEPHLGGIH": 4,
+        "lODGOBKNKOP": [
+            77215015,
+            77215015,
+            77215015,
+            77215015
+        ]
+    },
+    {
+        "hDKBFANOAOF": 372503,
+        "cFNCCIJEEEA": "HOME_FIELD_WATER",
+        "mJHFAHCFAFF": 77215018,
+        "aPAEPHLGGIH": 4,
+        "lODGOBKNKOP": [
+            77215017,
+            77215017,
+            77215017,
+            77215017
+        ]
+    }
+]

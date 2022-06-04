@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "sceneID": 3,
+        "name": "鹤观大迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 2,
+        "sceneID": 3,
+        "name": "鹤观教学迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 3,
+        "sceneID": 3,
+        "name": "鹤观神殿迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 4,
+        "sceneID": 3,
+        "name": "鹤观山迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 5,
+        "sceneID": 3,
+        "name": "鹤观后山迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382
+    },
+    {
+        "id": 6,
+        "sceneID": 3,
+        "name": "鹤观狼窝迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 7,
+        "sceneID": 3,
+        "name": "鹤观劫难之日大迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382
+    },
+    {
+        "id": 8,
+        "sceneID": 3,
+        "name": "鹤观劫难之日后山迷雾",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382
+    },
+    {
+        "id": 9,
+        "sceneID": 3,
+        "name": "鹤观劫难之日大迷雾轻薄",
+        "aKNIMIEJIOO": 18,
+        "iLIIAJFJMPG": 382
+    },
+    {
+        "id": 10,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域1",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 11,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域2",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 12,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域3",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 13,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域4",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 14,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域5",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 15,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀难度区域6",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 16,
+        "sceneID": 5,
+        "name": "渊下宫地图解锁",
+        "aKNIMIEJIOO": 200,
+        "iLIIAJFJMPG": 39
+    },
+    {
+        "id": 17,
+        "sceneID": 7,
+        "name": "三界路飨祭地图解锁",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 18,
+        "sceneID": 6,
+        "name": "临时主矿道",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 2,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 20,
+        "sceneID": 6,
+        "name": "崎岖石厅",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 7,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 21,
+        "sceneID": 6,
+        "name": "无名遗迹",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 11,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 22,
+        "sceneID": 6,
+        "name": "巨蛇岩窟",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 3,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 23,
+        "sceneID": 6,
+        "name": "荧光曲径",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 12,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 24,
+        "sceneID": 6,
+        "name": "大碎片",
+        "aKNIMIEJIOO": 300,
+        "iLIIAJFJMPG": 13,
+        "cCGKIBCPFHB": "MistOpen"
+    },
+    {
+        "id": 25,
+        "sceneID": 7,
+        "name": "三界路飨祭侵蚀迷雾",
+        "aKNIMIEJIOO": 210,
+        "cCGKIBCPFHB": "MistOpen"
+    }
+]

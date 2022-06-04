@@ -1,0 +1,31 @@
+[
+    {
+        "scheduleId": 2010001,
+        "kGJCGMAEJDO": 100,
+        "gLKFLMBJMFD": [
+            {
+                "eJDGOICAAHB": [
+                    0,
+                    80
+                ]
+            },
+            {
+                "eJDGOICAAHB": [
+                    80,
+                    100
+                ],
+                "pIDGMNOKJCJ": 30
+            },
+            {
+                "eJDGOICAAHB": [
+                    100,
+                    999
+                ],
+                "pIDGMNOKJCJ": 50
+            }
+        ],
+        "nOBPCLHLAIJ": 0.3449999988079071,
+        "hNODLICECGO": 96.0,
+        "pushTipsId": 6040
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "bOIHIIIJAAJ": 5040001,
+        "kHIKMGICIIC": 49,
+        "pIDGMNOKJCJ": 1.0,
+        "descTextMapHash": 1481078357
+    },
+    {
+        "id": 2,
+        "bOIHIIIJAAJ": 5040001,
+        "difficulty": "SUMO_DIFFICULTY_MID",
+        "kHIKMGICIIC": 69,
+        "pIDGMNOKJCJ": 2.0,
+        "descTextMapHash": 389111645
+    },
+    {
+        "id": 3,
+        "bOIHIIIJAAJ": 5040001,
+        "difficulty": "SUMO_DIFFICULTY_HARD",
+        "kHIKMGICIIC": 89,
+        "pIDGMNOKJCJ": 4.0,
+        "descTextMapHash": 1078682197
+    },
+    {
+        "id": 4,
+        "bOIHIIIJAAJ": 5076001,
+        "kHIKMGICIIC": 49,
+        "pIDGMNOKJCJ": 1.0,
+        "descTextMapHash": 1089144069
+    },
+    {
+        "id": 5,
+        "bOIHIIIJAAJ": 5076001,
+        "difficulty": "SUMO_DIFFICULTY_MID",
+        "kHIKMGICIIC": 69,
+        "pIDGMNOKJCJ": 2.0,
+        "descTextMapHash": 1390506589
+    },
+    {
+        "id": 6,
+        "bOIHIIIJAAJ": 5076001,
+        "difficulty": "SUMO_DIFFICULTY_HARD",
+        "kHIKMGICIIC": 89,
+        "pIDGMNOKJCJ": 4.0,
+        "descTextMapHash": 3625395845
+    }
+]

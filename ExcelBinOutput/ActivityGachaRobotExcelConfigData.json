@@ -1,0 +1,406 @@
+[
+    {
+        "aFEPJHGGHOD": 1,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364601,
+        "materialId": 101867,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_02",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2596237636,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_1"
+    },
+    {
+        "aFEPJHGGHOD": 2,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364602,
+        "materialId": 101868,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_02",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2545157644,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_2"
+    },
+    {
+        "aFEPJHGGHOD": 3,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364603,
+        "materialId": 101869,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_02",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2161002636,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_3"
+    },
+    {
+        "aFEPJHGGHOD": 4,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364604,
+        "materialId": 101870,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_03",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3416042876,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_1"
+    },
+    {
+        "aFEPJHGGHOD": 5,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364605,
+        "materialId": 101871,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_03",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 1601243148,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_2"
+    },
+    {
+        "aFEPJHGGHOD": 6,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364606,
+        "materialId": 101872,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_03",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2693763332,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_3"
+    },
+    {
+        "aFEPJHGGHOD": 7,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364607,
+        "materialId": 101873,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_04",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3273760868,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_1"
+    },
+    {
+        "aFEPJHGGHOD": 8,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364608,
+        "materialId": 101874,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_04",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2796398604,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_2"
+    },
+    {
+        "aFEPJHGGHOD": 9,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364609,
+        "materialId": 101875,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_04",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 766622500,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_3"
+    },
+    {
+        "aFEPJHGGHOD": 10,
+        "kHDKDLMLBOH": [
+            1
+        ],
+        "nBCLNDAOEKL": [
+            4
+        ],
+        "oJDGBIFNOPF": [
+            1,
+            2,
+            3
+        ],
+        "type": "ROBOT_TYPE_HIDDEN",
+        "eNHNGKJBJAB": 364619,
+        "materialId": 101876,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_01",
+        "kHGDAPFBOGD": 201,
+        "eFGMDPJGJMD": 10,
+        "descTextMapHash": 1863052772,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_01_4"
+    },
+    {
+        "aFEPJHGGHOD": 11,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364610,
+        "materialId": 101877,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_06",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 1035357508,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_1"
+    },
+    {
+        "aFEPJHGGHOD": 12,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364611,
+        "materialId": 101878,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_06",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3436886828,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_2"
+    },
+    {
+        "aFEPJHGGHOD": 13,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            1
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364612,
+        "materialId": 101879,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_06",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3862808164,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_3"
+    },
+    {
+        "aFEPJHGGHOD": 14,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364613,
+        "materialId": 101880,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_07",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 1883879740,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_1"
+    },
+    {
+        "aFEPJHGGHOD": 15,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364614,
+        "materialId": 101881,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_07",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3232631052,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_2"
+    },
+    {
+        "aFEPJHGGHOD": 16,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            2
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364615,
+        "materialId": 101882,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_07",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 2413477084,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_3"
+    },
+    {
+        "aFEPJHGGHOD": 17,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            1
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364616,
+        "materialId": 101883,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_08",
+        "kHGDAPFBOGD": 202,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3198937276,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_1"
+    },
+    {
+        "aFEPJHGGHOD": 18,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            2
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364617,
+        "materialId": 101884,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_08",
+        "kHGDAPFBOGD": 203,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 1299669420,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_2"
+    },
+    {
+        "aFEPJHGGHOD": 19,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            3
+        ],
+        "oJDGBIFNOPF": [
+            3
+        ],
+        "type": "ROBOT_TYPE_NORMAL",
+        "eNHNGKJBJAB": 364618,
+        "materialId": 101885,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_08",
+        "kHGDAPFBOGD": 204,
+        "eFGMDPJGJMD": 5,
+        "descTextMapHash": 3115472516,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_3"
+    },
+    {
+        "aFEPJHGGHOD": 20,
+        "kHDKDLMLBOH": [
+            2
+        ],
+        "nBCLNDAOEKL": [
+            4
+        ],
+        "oJDGBIFNOPF": [
+            1,
+            2,
+            3
+        ],
+        "type": "ROBOT_TYPE_HIDDEN",
+        "eNHNGKJBJAB": 364620,
+        "materialId": 101886,
+        "modelPath": "SceneObj_Homeworld_Ani_General_Common_Decoration_Prop_RandomRobot_05",
+        "kHGDAPFBOGD": 201,
+        "eFGMDPJGJMD": 10,
+        "descTextMapHash": 1225527124,
+        "pCCOEDMBCGA": "Play_ui_activity_robot_randomRobot_02_4"
+    }
+]

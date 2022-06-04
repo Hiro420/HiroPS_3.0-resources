@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "playType": "SALVAGE_PLAY_TYPE_CARRIAGE",
+        "nMFJNHMHMEA": 20104301,
+        "galleryId": 14003,
+        "oKENAIEPCAD": [
+            133108202,
+            202115
+        ],
+        "fMFLHOCGFJP": [
+            133108202,
+            202114
+        ],
+        "kOBELGBNDGH": 45001001,
+        "kLLLNGGMHFG": [
+            12010401,
+            12010402,
+            12010403
+        ]
+    },
+    {
+        "id": 2,
+        "playType": "SALVAGE_PLAY_TYPE_CARRIAGE",
+        "nMFJNHMHMEA": 20104302,
+        "galleryId": 14004,
+        "oKENAIEPCAD": [
+            133108203,
+            203073
+        ],
+        "fMFLHOCGFJP": [
+            133108203,
+            203072
+        ],
+        "kOBELGBNDGH": 45001001,
+        "kLLLNGGMHFG": [
+            12010404,
+            12010405,
+            12010406
+        ]
+    },
+    {
+        "id": 3,
+        "playType": "SALVAGE_PLAY_TYPE_ESCORT",
+        "nMFJNHMHMEA": 20104401,
+        "galleryId": 14005,
+        "oKENAIEPCAD": [
+            133108201,
+            201027
+        ],
+        "fMFLHOCGFJP": [
+            133108201,
+            201025
+        ],
+        "kOBELGBNDGH": 45001001,
+        "kLLLNGGMHFG": [
+            12010407,
+            12010408,
+            12010409
+        ]
+    },
+    {
+        "id": 4,
+        "playType": "SALVAGE_PLAY_TYPE_ESCORT",
+        "nMFJNHMHMEA": 20104402,
+        "galleryId": 14006,
+        "oKENAIEPCAD": [
+            133108253,
+            253166
+        ],
+        "fMFLHOCGFJP": [
+            133108253,
+            253165
+        ],
+        "kOBELGBNDGH": 45001001,
+        "kLLLNGGMHFG": [
+            12010410,
+            12010411,
+            12010412
+        ]
+    },
+    {
+        "id": 5,
+        "playType": "SALVAGE_PLAY_TYPE_BOSS",
+        "nMFJNHMHMEA": 20104501,
+        "oKENAIEPCAD": [],
+        "fMFLHOCGFJP": [],
+        "kLLLNGGMHFG": [
+            12010413,
+            12010414,
+            12010415
+        ]
+    }
+]

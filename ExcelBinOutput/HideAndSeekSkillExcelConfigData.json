@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "skillID": 20410,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_COMMON",
+        "isDefault": true,
+        "categoryDescTextMapHash": 2384616839,
+        "mKFPEAEHGAJ": 1168020414,
+        "gIMNJBGELGN": 62
+    },
+    {
+        "id": 2,
+        "skillID": 20411,
+        "order": 70,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_COMMON",
+        "categoryDescTextMapHash": 292895055,
+        "mKFPEAEHGAJ": 3583533216,
+        "gIMNJBGELGN": 8
+    },
+    {
+        "id": 3,
+        "skillID": 20400,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL1",
+        "isDefault": true,
+        "categoryDescTextMapHash": 3487667543,
+        "mKFPEAEHGAJ": 3915784198,
+        "gIMNJBGELGN": 54
+    },
+    {
+        "id": 4,
+        "skillID": 20420,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL2",
+        "categoryDescTextMapHash": 425434703,
+        "mKFPEAEHGAJ": 2554743754,
+        "gIMNJBGELGN": 20
+    },
+    {
+        "id": 5,
+        "skillID": 20421,
+        "order": 70,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL2",
+        "isDefault": true,
+        "categoryDescTextMapHash": 1466238111,
+        "mKFPEAEHGAJ": 1263786924,
+        "gIMNJBGELGN": 40
+    },
+    {
+        "id": 6,
+        "skillID": 20422,
+        "order": 40,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_HUNTER",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL2",
+        "categoryDescTextMapHash": 2468260151,
+        "mKFPEAEHGAJ": 2127729549,
+        "gIMNJBGELGN": 40
+    },
+    {
+        "id": 7,
+        "skillID": 20510,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_PREY",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_COMMON",
+        "isDefault": true,
+        "categoryDescTextMapHash": 3896544919,
+        "mKFPEAEHGAJ": 482050835,
+        "gIMNJBGELGN": 168
+    },
+    {
+        "id": 8,
+        "skillID": 20511,
+        "order": 70,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_PREY",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_COMMON",
+        "categoryDescTextMapHash": 3435325511,
+        "mKFPEAEHGAJ": 4096848359,
+        "gIMNJBGELGN": 6
+    },
+    {
+        "id": 9,
+        "skillID": 20500,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_PREY",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL1",
+        "isDefault": true,
+        "categoryDescTextMapHash": 3054297719,
+        "mKFPEAEHGAJ": 2182574934,
+        "gIMNJBGELGN": 8
+    },
+    {
+        "id": 10,
+        "skillID": 20520,
+        "order": 100,
+        "skillCategory": "HIDE_AND_SEEK_SKILL_CATEGORY_PREY",
+        "skillSubCategory": "HIDE_AND_SEEK_SKILL_SUB_CATEGORY_SKILL2",
+        "isDefault": true,
+        "categoryDescTextMapHash": 2245312863,
+        "mKFPEAEHGAJ": 3779410985,
+        "gIMNJBGELGN": 174
+    }
+]

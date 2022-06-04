@@ -1,0 +1,66 @@
+[
+    {
+        "rewardId": 5001,
+        "rewardPreview": 490001,
+        "activitychallengetipsTextMapHash": 2101,
+        "extraActivitychallengetipsTextMapHash": 2697096236,
+        "id": 1500101,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "rewardId": 5001,
+        "rewardPreview": 490002,
+        "activitychallengetipsTextMapHash": 2102,
+        "extraActivitychallengetipsTextMapHash": 3701519284,
+        "id": 1500102,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progress": 5
+    },
+    {
+        "rewardId": 5001,
+        "rewardPreview": 490003,
+        "activitychallengetipsTextMapHash": 2103,
+        "extraActivitychallengetipsTextMapHash": 629295564,
+        "id": 1500103,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progress": 10
+    },
+    {
+        "rewardId": 5001,
+        "rewardPreview": 490004,
+        "activitychallengetipsTextMapHash": 2103,
+        "extraActivitychallengetipsTextMapHash": 983142724,
+        "id": 1500104,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progress": 20
+    }
+]

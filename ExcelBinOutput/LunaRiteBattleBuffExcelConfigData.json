@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_LIYUE",
+        "eAMAPOKFADD": 2,
+        "oIHBGJCIEBL": 959828026
+    },
+    {
+        "id": 2,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_LIYUE",
+        "eAMAPOKFADD": 4,
+        "oIHBGJCIEBL": 2299117026
+    },
+    {
+        "id": 3,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_LIYUE",
+        "eAMAPOKFADD": 5,
+        "oIHBGJCIEBL": 3567120786,
+        "rewardId": 3024013
+    },
+    {
+        "id": 4,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_MENGDE",
+        "eAMAPOKFADD": 2,
+        "oIHBGJCIEBL": 1364056210
+    },
+    {
+        "id": 5,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_MENGDE",
+        "eAMAPOKFADD": 4,
+        "oIHBGJCIEBL": 3641702202
+    },
+    {
+        "id": 6,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_MENGDE",
+        "eAMAPOKFADD": 5,
+        "oIHBGJCIEBL": 1476304986,
+        "rewardId": 3024014
+    },
+    {
+        "id": 7,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_DRAGONSPINE",
+        "eAMAPOKFADD": 2,
+        "oIHBGJCIEBL": 4011065626
+    },
+    {
+        "id": 8,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_DRAGONSPINE",
+        "eAMAPOKFADD": 4,
+        "oIHBGJCIEBL": 1194983914
+    },
+    {
+        "id": 9,
+        "mINJEGJFBBB": "LUNA_RITE_REGION_TYPE_DRAGONSPINE",
+        "eAMAPOKFADD": 5,
+        "oIHBGJCIEBL": 687197010,
+        "rewardId": 3024015
+    }
+]

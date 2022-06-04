@@ -1,0 +1,1451 @@
+[
+    {
+        "id": 10001,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Male_Mengde_Barman_Boss",
+        "descTextMapHash": 1588008724
+    },
+    {
+        "id": 10101,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3380219908
+    },
+    {
+        "id": 10102,
+        "hODMGHDDJCD": 1009,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2444061236
+    },
+    {
+        "id": 10103,
+        "hODMGHDDJCD": 1010,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2127566460
+    },
+    {
+        "id": 10104,
+        "hODMGHDDJCD": 1011,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2378389476
+    },
+    {
+        "id": 10105,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2924614140
+    },
+    {
+        "id": 10106,
+        "hODMGHDDJCD": 1013,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2632932356
+    },
+    {
+        "id": 10107,
+        "hODMGHDDJCD": 1014,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3640206212
+    },
+    {
+        "id": 10108,
+        "hODMGHDDJCD": 1007,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 2354195692
+    },
+    {
+        "id": 10109,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3117109916
+    },
+    {
+        "id": 10110,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 1839734764
+    },
+    {
+        "id": 10111,
+        "hODMGHDDJCD": 1009,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3897793292
+    },
+    {
+        "id": 10112,
+        "hODMGHDDJCD": 1010,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3770682628
+    },
+    {
+        "id": 10113,
+        "hODMGHDDJCD": 1011,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3097536732
+    },
+    {
+        "id": 10114,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 1796129812
+    },
+    {
+        "id": 10115,
+        "hODMGHDDJCD": 1013,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3362008420
+    },
+    {
+        "id": 10116,
+        "hODMGHDDJCD": 1014,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3593652364
+    },
+    {
+        "id": 10117,
+        "hODMGHDDJCD": 1007,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 3174549516
+    },
+    {
+        "id": 10118,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+        "descTextMapHash": 241131604
+    },
+    {
+        "id": 10201,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Kaeya",
+        "descTextMapHash": 3903002212
+    },
+    {
+        "id": 10301,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Diluc",
+        "descTextMapHash": 1592492236
+    },
+    {
+        "id": 10401,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            102,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Lisa",
+        "descTextMapHash": 1860523164
+    },
+    {
+        "id": 10501,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 3668988164
+    },
+    {
+        "id": 10502,
+        "hODMGHDDJCD": 1002,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 1195596436
+    },
+    {
+        "id": 10503,
+        "hODMGHDDJCD": 1003,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 2040858428
+    },
+    {
+        "id": 10504,
+        "hODMGHDDJCD": 1004,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 3703111244
+    },
+    {
+        "id": 10505,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 16186692
+    },
+    {
+        "id": 10506,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+        "descTextMapHash": 857958636
+    },
+    {
+        "id": 10601,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            108,
+            0
+        ],
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Zhongli",
+        "descTextMapHash": 2809766420
+    },
+    {
+        "id": 10701,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Eula",
+        "descTextMapHash": 4107972748
+    },
+    {
+        "id": 10702,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            105,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Eula",
+        "descTextMapHash": 2850443972
+    },
+    {
+        "id": 10801,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Ningguang",
+        "descTextMapHash": 2825173004
+    },
+    {
+        "id": 10901,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Beidou",
+        "descTextMapHash": 2511283004
+    },
+    {
+        "id": 11001,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "iconName": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Shenhe",
+        "descTextMapHash": 27145564
+    },
+    {
+        "id": 20101,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            107,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 3603787676
+    },
+    {
+        "id": 20102,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1309154740
+    },
+    {
+        "id": 20103,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            107,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 3188178692
+    },
+    {
+        "id": 20104,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 2038153276
+    },
+    {
+        "id": 20105,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            108,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 202789236
+    },
+    {
+        "id": 20106,
+        "hODMGHDDJCD": 1008,
+        "eMHDKMIKEMA": [
+            108,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 1437001860
+    },
+    {
+        "id": 20107,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            109,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 919463924
+    },
+    {
+        "id": 20108,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            109,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 230909188
+    },
+    {
+        "id": 20109,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2768021404
+    },
+    {
+        "id": 20110,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 1316651932
+    },
+    {
+        "id": 20111,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 2228326100
+    },
+    {
+        "id": 20112,
+        "hODMGHDDJCD": 1015,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 2989557860
+    },
+    {
+        "id": 20113,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 2997776956
+    },
+    {
+        "id": 20114,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1219135548
+    },
+    {
+        "id": 20115,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            105,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 2831789348
+    },
+    {
+        "id": 20116,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 2163419676
+    },
+    {
+        "id": 20117,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2596064388
+    },
+    {
+        "id": 20118,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 2404855388
+    },
+    {
+        "id": 20201,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+        "descTextMapHash": 624371076
+    },
+    {
+        "id": 20202,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 2712706492
+    },
+    {
+        "id": 20203,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 567679500
+    },
+    {
+        "id": 20204,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 2692588652
+    },
+    {
+        "id": 20205,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 3139757100
+    },
+    {
+        "id": 20206,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            106,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 607965356
+    },
+    {
+        "id": 20207,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 551560732
+    },
+    {
+        "id": 20208,
+        "hODMGHDDJCD": 1005,
+        "eMHDKMIKEMA": [
+            106,
+            101
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 3688496908
+    },
+    {
+        "id": 20209,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 2931882788
+    },
+    {
+        "id": 20210,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            102,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 1813719212
+    },
+    {
+        "id": 20211,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 3052628372
+    },
+    {
+        "id": 20212,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            102,
+            101
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 2231994852
+    },
+    {
+        "id": 20213,
+        "hODMGHDDJCD": 1002,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 1042919236
+    },
+    {
+        "id": 20214,
+        "hODMGHDDJCD": 1002,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1715475716
+    },
+    {
+        "id": 20215,
+        "hODMGHDDJCD": 1010,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 3265526716
+    },
+    {
+        "id": 20216,
+        "hODMGHDDJCD": 1010,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 469293924
+    },
+    {
+        "id": 20217,
+        "hODMGHDDJCD": 1020,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 3312468316
+    },
+    {
+        "id": 20218,
+        "hODMGHDDJCD": 1020,
+        "eMHDKMIKEMA": [
+            105,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2960810556
+    },
+    {
+        "id": 20219,
+        "hODMGHDDJCD": 1004,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 1661828836
+    },
+    {
+        "id": 20220,
+        "hODMGHDDJCD": 1004,
+        "eMHDKMIKEMA": [
+            102,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 1055089356
+    },
+    {
+        "id": 20221,
+        "hODMGHDDJCD": 1004,
+        "eMHDKMIKEMA": [
+            101,
+            102
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 3780876924
+    },
+    {
+        "id": 20301,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 2340836444
+    },
+    {
+        "id": 20302,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1770901268
+    },
+    {
+        "id": 20303,
+        "hODMGHDDJCD": 1016,
+        "eMHDKMIKEMA": [
+            109,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 1814671836
+    },
+    {
+        "id": 20304,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 3132263564
+    },
+    {
+        "id": 20305,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+        "descTextMapHash": 435274604
+    },
+    {
+        "id": 20306,
+        "hODMGHDDJCD": 1006,
+        "eMHDKMIKEMA": [
+            105,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 2980450812
+    },
+    {
+        "id": 20307,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 3242633116
+    },
+    {
+        "id": 20308,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            102,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 3546758372
+    },
+    {
+        "id": 20309,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 1261284492
+    },
+    {
+        "id": 20310,
+        "hODMGHDDJCD": 1012,
+        "eMHDKMIKEMA": [
+            102,
+            101
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 2763152196
+    },
+    {
+        "id": 20311,
+        "hODMGHDDJCD": 1003,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 411895948
+    },
+    {
+        "id": 20312,
+        "hODMGHDDJCD": 1003,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 4028249908
+    },
+    {
+        "id": 20313,
+        "hODMGHDDJCD": 1003,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 2521155788
+    },
+    {
+        "id": 20314,
+        "hODMGHDDJCD": 1018,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1239053868
+    },
+    {
+        "id": 20315,
+        "hODMGHDDJCD": 1018,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 1394585548
+    },
+    {
+        "id": 20316,
+        "hODMGHDDJCD": 1018,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 557232028
+    },
+    {
+        "id": 20317,
+        "hODMGHDDJCD": 1007,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 3056268644
+    },
+    {
+        "id": 20318,
+        "hODMGHDDJCD": 1007,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2607251028
+    },
+    {
+        "id": 20319,
+        "hODMGHDDJCD": 1007,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 2463143172
+    },
+    {
+        "id": 20320,
+        "hODMGHDDJCD": 1011,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 354557028
+    },
+    {
+        "id": 20321,
+        "hODMGHDDJCD": 1011,
+        "eMHDKMIKEMA": [
+            104,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 2899166836
+    },
+    {
+        "id": 20322,
+        "hODMGHDDJCD": 1011,
+        "eMHDKMIKEMA": [
+            101,
+            104
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 2982991324
+    },
+    {
+        "id": 20401,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+        "descTextMapHash": 3432586972
+    },
+    {
+        "id": 20402,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            107,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 943614108
+    },
+    {
+        "id": 20403,
+        "hODMGHDDJCD": 1001,
+        "eMHDKMIKEMA": [
+            107,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 3482104116
+    },
+    {
+        "id": 20404,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 3378429940
+    },
+    {
+        "id": 20405,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 2865148748
+    },
+    {
+        "id": 20406,
+        "hODMGHDDJCD": 1019,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1896883076
+    },
+    {
+        "id": 20407,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 896699892
+    },
+    {
+        "id": 20408,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 4061899692
+    },
+    {
+        "id": 20409,
+        "hODMGHDDJCD": 1017,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 4075911548
+    },
+    {
+        "id": 20410,
+        "hODMGHDDJCD": 1009,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 1164260476
+    },
+    {
+        "id": 20411,
+        "hODMGHDDJCD": 1009,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 2446504172
+    },
+    {
+        "id": 20412,
+        "hODMGHDDJCD": 1009,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2405863956
+    },
+    {
+        "id": 20413,
+        "hODMGHDDJCD": 1014,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+        "descTextMapHash": 3147018740
+    },
+    {
+        "id": 20414,
+        "hODMGHDDJCD": 1014,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+        "descTextMapHash": 2919221724
+    },
+    {
+        "id": 20415,
+        "hODMGHDDJCD": 1014,
+        "eMHDKMIKEMA": [
+            103,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 3270072452
+    },
+    {
+        "id": 20416,
+        "hODMGHDDJCD": 1021,
+        "eMHDKMIKEMA": [
+            0,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 2497623860
+    },
+    {
+        "id": 20417,
+        "hODMGHDDJCD": 1021,
+        "eMHDKMIKEMA": [
+            105,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2358689124
+    },
+    {
+        "id": 20418,
+        "hODMGHDDJCD": 1021,
+        "eMHDKMIKEMA": [
+            104,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+        "descTextMapHash": 3587938388
+    },
+    {
+        "id": 20419,
+        "hODMGHDDJCD": 1021,
+        "eMHDKMIKEMA": [
+            105,
+            104
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+        "descTextMapHash": 657688284
+    },
+    {
+        "id": 20420,
+        "hODMGHDDJCD": 1013,
+        "eMHDKMIKEMA": [
+            101,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_SMALL",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+        "descTextMapHash": 3193451444
+    },
+    {
+        "id": 20421,
+        "hODMGHDDJCD": 1013,
+        "eMHDKMIKEMA": [
+            106,
+            0
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_MEDIUM",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+        "descTextMapHash": 1620932284
+    },
+    {
+        "id": 20422,
+        "hODMGHDDJCD": 1013,
+        "eMHDKMIKEMA": [
+            101,
+            106
+        ],
+        "mMMGPBMCHDL": "BARTENDER_CUP_BIG",
+        "time": 80,
+        "score": 100,
+        "iconName": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+        "descTextMapHash": 2363655188
+    }
+]

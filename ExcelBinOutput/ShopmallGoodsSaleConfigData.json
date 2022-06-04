@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1001,
+        "goodsId": 106001,
+        "bAHEIFAKGHC": 1350,
+        "discountRate": 0.800000011920929,
+        "aBHOMANKOEG": "2021-06-08 00:00:00",
+        "kPEBOFFPCKO": "2021-07-19 03:59:59"
+    },
+    {
+        "id": 1002,
+        "goodsId": 106003,
+        "bAHEIFAKGHC": 1350,
+        "discountRate": 0.800000011920929,
+        "aBHOMANKOEG": "2022-01-04 00:00:00",
+        "kPEBOFFPCKO": "2022-02-14 03:59:59"
+    }
+]

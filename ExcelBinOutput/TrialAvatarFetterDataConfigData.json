@@ -1,0 +1,30 @@
+[
+    {
+        "avatarId": 10000022,
+        "kCDIDDBCCPP": 111,
+        "finishCond": {
+            "paramList": [
+                39604
+            ]
+        }
+    },
+    {
+        "avatarId": 10000030,
+        "kCDIDDBCCPP": 118,
+        "finishCond": {
+            "paramList": [
+                102510
+            ]
+        }
+    },
+    {
+        "avatarId": 10000052,
+        "kCDIDDBCCPP": 139,
+        "finishCond": {
+            "condType": "TRIAL_FETTER_CONDITION_LEVEL",
+            "paramList": [
+                1
+            ]
+        }
+    }
+]

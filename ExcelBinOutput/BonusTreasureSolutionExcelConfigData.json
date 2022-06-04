@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "pIAAAMAAAFO": 276769690,
+        "oKHEJLLDPDI": 98,
+        "cBMLMADJIAL": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "id": 2,
+        "pIAAAMAAAFO": 605416741,
+        "oKHEJLLDPDI": 79,
+        "cBMLMADJIAL": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 3,
+        "pIAAAMAAAFO": 3165539535,
+        "oKHEJLLDPDI": 80,
+        "cBMLMADJIAL": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "id": 4,
+        "pIAAAMAAAFO": 3006505067,
+        "oKHEJLLDPDI": 191,
+        "cBMLMADJIAL": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    }
+]

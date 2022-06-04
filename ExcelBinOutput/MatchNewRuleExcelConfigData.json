@@ -1,0 +1,20 @@
+[
+    {
+        "gFLABGDHPJA": "DUNGEON_SUB_BOSS",
+        "minLevel": 50,
+        "nPJCMFANPCE": 55,
+        "nLGMNFCCFDJ": 5
+    },
+    {
+        "gFLABGDHPJA": "DUNGEON_SUB_TALENT",
+        "minLevel": 45,
+        "nPJCMFANPCE": 50,
+        "nLGMNFCCFDJ": 5
+    },
+    {
+        "gFLABGDHPJA": "DUNGEON_SUB_RELIQUARY",
+        "minLevel": 45,
+        "nPJCMFANPCE": 50,
+        "nLGMNFCCFDJ": 5
+    }
+]

@@ -1,0 +1,2723 @@
+[
+    {
+        "id": 1001,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33005
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33012
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33008
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33009,
+                    33016,
+                    33017
+                ],
+                "jPHANPIKHPP": [
+                    33050,
+                    33029,
+                    33049
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33011,
+                    33047
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33008,
+                    33012
+                ],
+                "jPHANPIKHPP": [
+                    33006,
+                    33043
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33047
+                ],
+                "jPHANPIKHPP": [
+                    33030,
+                    33044,
+                    33041,
+                    33048
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33019,
+                    33027
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33004,
+                    33007,
+                    33017
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33045,
+                    33022,
+                    33023
+                ],
+                "jPHANPIKHPP": [
+                    33048,
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33003,
+                    33020,
+                    33022
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33046
+                ],
+                "jPHANPIKHPP": [
+                    33021,
+                    33024
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33013,
+                    33028,
+                    33025
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33037,
+                    33038
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33031,
+                    33030,
+                    33041,
+                    33042
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33039,
+                    33040
+                ],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33019,
+                    33020
+                ],
+                "jPHANPIKHPP": [
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33024,
+                    33029,
+                    33049,
+                    33048,
+                    33050
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33065
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034
+                ],
+                "jPHANPIKHPP": [
+                    33057,
+                    33058
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33014,
+                    33015
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33005,
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33012,
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33028,
+                    33034
+                ],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33062
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33022,
+                    33023
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33063
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33030,
+                    33031
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33029,
+                    33024
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33036
+                ],
+                "jPHANPIKHPP": [
+                    33065
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1012,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33060
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1013,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33074,
+                    33075
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33076
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33077
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1014,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33078,
+                    33079
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33080,
+                    33081
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33082,
+                    33083
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1015,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33003,
+                    33004
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33084,
+                    33085
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33080,
+                    33081
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1016,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33060
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1017,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33028
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1018,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33005
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1019,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33008
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33009,
+                    33016,
+                    33017,
+                    33047
+                ],
+                "jPHANPIKHPP": [
+                    33050,
+                    33029,
+                    33049
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1020,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33008,
+                    33012
+                ],
+                "jPHANPIKHPP": [
+                    33006,
+                    33043
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33047
+                ],
+                "jPHANPIKHPP": [
+                    33030,
+                    33044,
+                    33041,
+                    33048
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33162,
+                    33088
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1021,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33004,
+                    33007,
+                    33017
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33045,
+                    33022,
+                    33023
+                ],
+                "jPHANPIKHPP": [
+                    33048,
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33162,
+                    33088
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1022,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33003,
+                    33020,
+                    33022
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33046
+                ],
+                "jPHANPIKHPP": [
+                    33021,
+                    33024
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33163
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1023,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33037,
+                    33038
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33031,
+                    33030,
+                    33041,
+                    33042
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1024,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33019,
+                    33020
+                ],
+                "jPHANPIKHPP": [
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33024,
+                    33029,
+                    33049,
+                    33048,
+                    33050
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1025,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034
+                ],
+                "jPHANPIKHPP": [
+                    33057,
+                    33058
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1026,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33005,
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33012,
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1027,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33062
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33022,
+                    33023
+                ],
+                "jPHANPIKHPP": [
+                    33063
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1028,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33064
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33065
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1029,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1030,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33074,
+                    33075
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33076
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1031,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33078,
+                    33079
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33080,
+                    33081
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1032,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33084,
+                    33085
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33086,
+                    33087
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33060
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33060,
+                    33059
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1034,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1035,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33037,
+                    33038
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33031,
+                    33030,
+                    33041,
+                    33042
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33072
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1036,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034
+                ],
+                "jPHANPIKHPP": [
+                    33057,
+                    33058
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33072
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1037,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33128,
+                    33090
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33130,
+                    33091
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33135
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1038,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33132,
+                    33090
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33133,
+                    33139,
+                    33105,
+                    33094,
+                    33104,
+                    33171
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33134,
+                    33156
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1039,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33132,
+                    33135,
+                    33091,
+                    33101
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33095,
+                    33102,
+                    33099,
+                    33103
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33141,
+                    33146,
+                    33156
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1040,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33129,
+                    33131,
+                    33139
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33154,
+                    33143,
+                    33144,
+                    33103,
+                    33092
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33150
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1041,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33128,
+                    33142,
+                    33143
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33155,
+                    33092,
+                    33093
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33136,
+                    33147,
+                    33145
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1042,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33158,
+                    33096,
+                    33097
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33096,
+                    33095,
+                    33099,
+                    33100
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33152,
+                    33153,
+                    33117
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1043,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33141,
+                    33142,
+                    33092
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33157,
+                    33093,
+                    33094,
+                    33104,
+                    33103,
+                    33105
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33115
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1044,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33140,
+                    33106,
+                    33107,
+                    33108,
+                    33109
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33150,
+                    33110,
+                    33111
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33137,
+                    33138
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1045,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33130,
+                    33158,
+                    33091
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33148,
+                    33149,
+                    33135,
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33117,
+                    33147,
+                    33150
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1046,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33128,
+                    33112
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33143,
+                    33144
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33113
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1047,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33095,
+                    33096
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33094,
+                    33093
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33151,
+                    33115
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1048,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33158
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33117
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1049,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33118,
+                    33119
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33120
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33159
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1050,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33121,
+                    33122
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33123,
+                    33124
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33160,
+                    33161
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1051,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33128,
+                    33129
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33125,
+                    33126
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33123,
+                    33124
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1052,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33148,
+                    33149,
+                    33158
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33157,
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33117
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1053,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33140
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33106,
+                    33107,
+                    33108,
+                    33109
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33147
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1054,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33128,
+                    33090
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33130,
+                    33091
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1055,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33132,
+                    33156,
+                    33090
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33133,
+                    33139,
+                    33105,
+                    33094,
+                    33104,
+                    33171
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1056,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33132,
+                    33135,
+                    33156,
+                    33091,
+                    33101
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33095,
+                    33102,
+                    33099,
+                    33103
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33162,
+                    33088
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1057,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33129,
+                    33131,
+                    33139
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33154,
+                    33143,
+                    33144,
+                    33103,
+                    33092
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33162,
+                    33088
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1058,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33128,
+                    33142,
+                    33143
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33155,
+                    33092,
+                    33093
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33163
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33158,
+                    33097,
+                    33098
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33096,
+                    33095,
+                    33099,
+                    33100
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1060,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33141,
+                    33142,
+                    33092
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33157,
+                    33093,
+                    33094,
+                    33103,
+                    33104,
+                    33105
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1061,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33140,
+                    33106,
+                    33107,
+                    33108,
+                    33109
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33150,
+                    33110,
+                    33111
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1062,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33130,
+                    33158,
+                    33091
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33148,
+                    33149,
+                    33135,
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1063,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33127,
+                    33128,
+                    33112
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33143,
+                    33144,
+                    33113
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1064,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33137
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33115
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1065,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33117
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1066,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33118,
+                    33119
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33120
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1067,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33121,
+                    33122
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33123,
+                    33124
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1068,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33125,
+                    33126
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33162,
+                    33163
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1069,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33148,
+                    33149,
+                    33158,
+                    33157
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33158,
+                    33157,
+                    33116
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1070,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33140
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33106,
+                    33107,
+                    33108,
+                    33109
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1071,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33158,
+                    33097,
+                    33098
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33096,
+                    33095,
+                    33099,
+                    33100
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33072
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1072,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33140,
+                    33106,
+                    33107,
+                    33108,
+                    33109
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33150,
+                    33110,
+                    33111
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33072
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1073,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33008
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33009,
+                    33017,
+                    33164,
+                    33165,
+                    33016
+                ],
+                "jPHANPIKHPP": [
+                    33029
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33011,
+                    33047
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1074,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33008,
+                    33012
+                ],
+                "jPHANPIKHPP": [
+                    33006,
+                    33043
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33047,
+                    33164,
+                    33166
+                ],
+                "jPHANPIKHPP": [
+                    33030,
+                    33044,
+                    33041
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33019,
+                    33027
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1075,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33004,
+                    33007,
+                    33017
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33045,
+                    33022,
+                    33023,
+                    33166,
+                    33167
+                ],
+                "jPHANPIKHPP": [
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1076,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33003,
+                    33020,
+                    33022
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33046,
+                    33165,
+                    33167
+                ],
+                "jPHANPIKHPP": [
+                    33021,
+                    33024
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33013,
+                    33028,
+                    33025
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1077,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33037,
+                    33038
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33168,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33031,
+                    33030,
+                    33041,
+                    33042
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33039,
+                    33040
+                ],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1078,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33019,
+                    33020
+                ],
+                "jPHANPIKHPP": [
+                    33021
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059,
+                    33168,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33024,
+                    33029
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33065
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1079,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33034,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33057,
+                    33058
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33014,
+                    33015
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1080,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33005,
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33012,
+                    33059,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33028,
+                    33034
+                ],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1081,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33060
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33071
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1082,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33141,
+                    33142,
+                    33092
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33157,
+                    33093,
+                    33094
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33066,
+                    33067,
+                    33068,
+                    33069
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1083,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33005,
+                    33060
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33032,
+                    33033,
+                    33012,
+                    33059,
+                    33168,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33061,
+                    33072,
+                    33073
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1084,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33062
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33022,
+                    33023,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33063
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33172
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1085,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33064
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33168,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33065
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33173,
+                    33174,
+                    33175,
+                    33176
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1086,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33070
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33059,
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33172,
+                    33177,
+                    33178
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1087,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33074,
+                    33075
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33076
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33172,
+                    33177,
+                    33178
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1088,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33084,
+                    33085
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33086,
+                    33087,
+                    33164,
+                    33165
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33172,
+                    33177,
+                    33178
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1089,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [],
+                "jPHANPIKHPP": [
+                    33074,
+                    33075
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33169,
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33076
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33077
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1090,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33018
+                ],
+                "jPHANPIKHPP": []
+            },
+            {
+                "gIHINEAFCMP": [
+                    33170
+                ],
+                "jPHANPIKHPP": [
+                    33035,
+                    33054,
+                    33055,
+                    33056
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33028
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    },
+    {
+        "id": 1091,
+        "hIIENOOFAGM": 1,
+        "lPONOKOGAMF": [
+            {
+                "gIHINEAFCMP": [
+                    33002,
+                    33003
+                ],
+                "jPHANPIKHPP": [
+                    33001
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33005,
+                    33169
+                ],
+                "jPHANPIKHPP": [
+                    33006
+                ]
+            },
+            {
+                "gIHINEAFCMP": [
+                    33012
+                ],
+                "jPHANPIKHPP": []
+            }
+        ]
+    }
+]

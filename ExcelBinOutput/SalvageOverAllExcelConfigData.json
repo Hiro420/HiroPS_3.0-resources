@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "activityId": 2010,
+        "dFLKJNMLOPB": 19,
+        "preQuestId": 200711,
+        "guideQuestId": 40039,
+        "nameTextMapHash": 2672805634,
+        "descTextMapHash": 2055032491,
+        "regionCenter": [
+            -205.0,
+            213.0,
+            -729.0
+        ],
+        "regionRadius": 625,
+        "kMJONLNIPPE": 575,
+        "reminderId": 400116,
+        "kELIPKOHNNK": 2500,
+        "rewardPreviewId": 32501,
+        "oAMPBFEFAHF": 33306,
+        "dHHGKOLILMC": 33307
+    }
+]

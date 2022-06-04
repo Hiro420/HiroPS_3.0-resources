@@ -1,0 +1,272 @@
+[
+    {
+        "buffId": 1,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
+        "dBEEHHIKCDB": 2042514297,
+        "dAOBIJJGNAM": 1920676010,
+        "lAAKNFLKJLN": 2011647947,
+        "jMOKCPLGIBA": 67,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 2,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill",
+        "dBEEHHIKCDB": 3158571825,
+        "dAOBIJJGNAM": 647315034,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 3,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
+        "dBEEHHIKCDB": 1047621889,
+        "dAOBIJJGNAM": 598041858,
+        "lAAKNFLKJLN": 2011647947,
+        "jMOKCPLGIBA": 67,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 4,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
+        "dBEEHHIKCDB": 3064450217,
+        "dAOBIJJGNAM": 145478114,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 5,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
+        "dBEEHHIKCDB": 3523264089,
+        "dAOBIJJGNAM": 2491838650,
+        "lAAKNFLKJLN": 2011647947,
+        "jMOKCPLGIBA": 67,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 6,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
+        "dBEEHHIKCDB": 1588725409,
+        "dAOBIJJGNAM": 737095874,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 7,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
+        "dBEEHHIKCDB": 1405274481,
+        "dAOBIJJGNAM": 3853282274,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 8,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
+        "dBEEHHIKCDB": 3043056713,
+        "dAOBIJJGNAM": 3430456730,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 9,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
+        "dBEEHHIKCDB": 1974042833,
+        "dAOBIJJGNAM": 162482514,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 10,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
+        "dBEEHHIKCDB": 2279289113,
+        "dAOBIJJGNAM": 1629263538,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 11,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_HPDown",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_HPDown",
+        "dBEEHHIKCDB": 3398909969,
+        "dAOBIJJGNAM": 1148419922,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 12,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
+        "dBEEHHIKCDB": 2071244297,
+        "dAOBIJJGNAM": 1083821274,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 13,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_RockDamage",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_RockDamage",
+        "dBEEHHIKCDB": 190982057,
+        "dAOBIJJGNAM": 2347758482,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 14,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_Crystallize",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_Crystallize",
+        "dBEEHHIKCDB": 619285865,
+        "dAOBIJJGNAM": 3725303642,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 15,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
+        "dBEEHHIKCDB": 3598816497,
+        "dAOBIJJGNAM": 3864142218,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 16,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
+        "dBEEHHIKCDB": 2866294001,
+        "dAOBIJJGNAM": 4171928970,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 17,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
+        "dBEEHHIKCDB": 3894814705,
+        "dAOBIJJGNAM": 888149746,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "buffId": 18,
+        "oMEDBEBHFBI": "ActivityAbility_CrystalLink_Trigger_Frozen",
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_Frozen",
+        "dBEEHHIKCDB": 2430784833,
+        "dAOBIJJGNAM": 1802330170,
+        "lAAKNFLKJLN": 2381365672,
+        "jMOKCPLGIBA": 4,
+        "pPDONAIGPPC": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+]

@@ -1,0 +1,1652 @@
+[
+    {
+        "id": 20070101,
+        "groupList": [
+            133104288
+        ],
+        "cFIENPIAPPG": 133104288,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200701,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 3702019643,
+        "jLGDDENCDIO": 4254078363,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070102,
+        "groupList": [
+            133104297,
+            133104295
+        ],
+        "cFIENPIAPPG": 133104295,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200702,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1977604859,
+        "jLGDDENCDIO": 1220814987,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070103,
+        "groupList": [
+            133104306,
+            133104296
+        ],
+        "cFIENPIAPPG": 133104296,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200703,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 4129574387,
+        "jLGDDENCDIO": 842083835,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070104,
+        "groupList": [
+            133104308,
+            133108187
+        ],
+        "cFIENPIAPPG": 133108187,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200704,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 2992443051,
+        "jLGDDENCDIO": 4037307,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070105,
+        "groupList": [
+            133108190,
+            133108188
+        ],
+        "cFIENPIAPPG": 133108188,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200705,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 709712547,
+        "jLGDDENCDIO": 1868524715,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070106,
+        "groupList": [
+            133108191,
+            133108189
+        ],
+        "cFIENPIAPPG": 133108189,
+        "bPNEJOPINKA": 70,
+        "rewardType": "FINISH",
+        "rewardId": 200706,
+        "reviseLevel": 20,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1779365139,
+        "jLGDDENCDIO": 1773990259,
+        "pCECLCMFGPF": 70,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070201,
+        "groupList": [
+            133001043
+        ],
+        "cFIENPIAPPG": 133001043,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200707,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 3006837419,
+        "jLGDDENCDIO": 3817797611,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070202,
+        "groupList": [
+            133001044,
+            133001047
+        ],
+        "cFIENPIAPPG": 133001047,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200708,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1157292443,
+        "jLGDDENCDIO": 1865032875,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070203,
+        "groupList": [
+            133001045,
+            133001049
+        ],
+        "cFIENPIAPPG": 133001049,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200709,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 319187331,
+        "jLGDDENCDIO": 3880039723,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070204,
+        "groupList": [
+            133003038,
+            133003041
+        ],
+        "cFIENPIAPPG": 133003041,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200710,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 3649457875,
+        "jLGDDENCDIO": 4015046315,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070205,
+        "groupList": [
+            133003039,
+            133003042
+        ],
+        "cFIENPIAPPG": 133003042,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200711,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1300272595,
+        "jLGDDENCDIO": 3756385067,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070206,
+        "groupList": [
+            133003040,
+            133003048
+        ],
+        "cFIENPIAPPG": 133003048,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200712,
+        "reviseLevel": 21,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 2866812171,
+        "jLGDDENCDIO": 2200263275,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070301,
+        "groupList": [
+            133008210
+        ],
+        "cFIENPIAPPG": 133008210,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200713,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1790525515,
+        "jLGDDENCDIO": 2885801731,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070302,
+        "groupList": [
+            133008586,
+            133002045
+        ],
+        "cFIENPIAPPG": 133008586,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200714,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 243458539,
+        "jLGDDENCDIO": 2295452211,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070303,
+        "groupList": [
+            133008578,
+            133002048
+        ],
+        "cFIENPIAPPG": 133008578,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200715,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 1219531915,
+        "jLGDDENCDIO": 687578779,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070304,
+        "groupList": [
+            133008654,
+            133002049
+        ],
+        "cFIENPIAPPG": 133008654,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200716,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 613230763,
+        "jLGDDENCDIO": 517041187,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070305,
+        "groupList": [
+            133008659,
+            133002050
+        ],
+        "cFIENPIAPPG": 133008659,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200717,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 2536769811,
+        "jLGDDENCDIO": 448809899,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20070306,
+        "groupList": [
+            133008660,
+            133002052
+        ],
+        "cFIENPIAPPG": 133008660,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 200718,
+        "reviseLevel": 22,
+        "icon": "UI_MarkPonint_LunaRiteChallenge",
+        "nameTextMapHash": 2929947579,
+        "jLGDDENCDIO": 843173531,
+        "pCECLCMFGPF": 60,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490001,
+        "groupList": [
+            133225015
+        ],
+        "cFIENPIAPPG": 133225015,
+        "rewardType": "FINISH",
+        "icon": "",
+        "nameTextMapHash": 2507589835,
+        "jLGDDENCDIO": 3470760435,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490101,
+        "groupList": [
+            133007082
+        ],
+        "cFIENPIAPPG": 133007082,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 200719,
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 1831495107,
+        "jLGDDENCDIO": 3047044459,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490102,
+        "groupList": [
+            133105048
+        ],
+        "cFIENPIAPPG": 133105048,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 200720,
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 1813382499,
+        "jLGDDENCDIO": 3278967891,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490103,
+        "groupList": [
+            133106028
+        ],
+        "cFIENPIAPPG": 133106028,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 200721,
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 2399914563,
+        "jLGDDENCDIO": 3532662659,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490104,
+        "groupList": [
+            133212576
+        ],
+        "cFIENPIAPPG": 133212576,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 200722,
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 121678675,
+        "jLGDDENCDIO": 4165808883,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490201,
+        "groupList": [
+            133007088
+        ],
+        "cFIENPIAPPG": 133007088,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 3507617907,
+        "jLGDDENCDIO": 243616259,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490202,
+        "groupList": [
+            133105052
+        ],
+        "cFIENPIAPPG": 133105052,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 1503246939,
+        "jLGDDENCDIO": 569802515,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490203,
+        "groupList": [
+            133106029
+        ],
+        "cFIENPIAPPG": 133106029,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 1529992067,
+        "jLGDDENCDIO": 1114805691,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490204,
+        "groupList": [
+            133212585
+        ],
+        "cFIENPIAPPG": 133212585,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 1361954563,
+        "jLGDDENCDIO": 3243189595,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490301,
+        "groupList": [
+            133225009
+        ],
+        "cFIENPIAPPG": 133225009,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Konungmathr",
+        "nameTextMapHash": 4180311147,
+        "jLGDDENCDIO": 805393739,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490302,
+        "groupList": [
+            133223271
+        ],
+        "cFIENPIAPPG": 133223271,
+        "rewardType": "FINISH",
+        "icon": "",
+        "nameTextMapHash": 10630419,
+        "jLGDDENCDIO": 2906502387,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490401,
+        "groupList": [
+            133008668
+        ],
+        "cFIENPIAPPG": 133008668,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 98723251,
+        "jLGDDENCDIO": 4076852763,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490402,
+        "groupList": [
+            133008669
+        ],
+        "cFIENPIAPPG": 133008669,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 194796907,
+        "jLGDDENCDIO": 2199734867,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490403,
+        "groupList": [
+            133108193
+        ],
+        "cFIENPIAPPG": 133108193,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 2579003435,
+        "jLGDDENCDIO": 3369454171,
+        "pCECLCMFGPF": 50,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50490404,
+        "groupList": [
+            133108194
+        ],
+        "cFIENPIAPPG": 133108194,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_Dig_TanCe",
+        "nameTextMapHash": 4176925099,
+        "jLGDDENCDIO": 2113736627,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090101,
+        "groupList": [
+            133001058
+        ],
+        "cFIENPIAPPG": 133001058,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009101,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 3782219739,
+        "jLGDDENCDIO": 3595815459,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090102,
+        "groupList": [
+            133001061
+        ],
+        "cFIENPIAPPG": 133001061,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009102,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 1411242611,
+        "jLGDDENCDIO": 3443231531,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090104,
+        "groupList": [
+            133001063
+        ],
+        "cFIENPIAPPG": 133001063,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009103,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 158739739,
+        "jLGDDENCDIO": 3916336267,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090105,
+        "groupList": [
+            133001064
+        ],
+        "cFIENPIAPPG": 133001064,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009104,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 1559629651,
+        "jLGDDENCDIO": 3957632467,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090108,
+        "groupList": [
+            133008678
+        ],
+        "cFIENPIAPPG": 133008678,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009105,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 4195447307,
+        "jLGDDENCDIO": 3066653755,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090109,
+        "groupList": [
+            133008679
+        ],
+        "cFIENPIAPPG": 133008679,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009106,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 2534005227,
+        "jLGDDENCDIO": 3554620059,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090110,
+        "groupList": [
+            133008680
+        ],
+        "cFIENPIAPPG": 133008680,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009107,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 869774123,
+        "jLGDDENCDIO": 2483300123,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090111,
+        "groupList": [
+            133008681
+        ],
+        "cFIENPIAPPG": 133008681,
+        "bPNEJOPINKA": 75,
+        "rewardType": "FINISH",
+        "rewardId": 2009108,
+        "icon": "UI_MarkPoint_WinterCamp_Explore",
+        "nameTextMapHash": 1123228435,
+        "jLGDDENCDIO": 2646724507,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090201,
+        "groupList": [
+            133001060
+        ],
+        "cFIENPIAPPG": 133001060,
+        "bPNEJOPINKA": 40,
+        "rewardType": "FINISH",
+        "rewardId": 2009201,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 3602815331,
+        "jLGDDENCDIO": 1399712635,
+        "pCECLCMFGPF": 40,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090202,
+        "groupList": [
+            133008117
+        ],
+        "cFIENPIAPPG": 133008117,
+        "bPNEJOPINKA": 60,
+        "rewardType": "FINISH",
+        "rewardId": 2009202,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 4122323987,
+        "jLGDDENCDIO": 2528669267,
+        "pCECLCMFGPF": 60,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090203,
+        "groupList": [
+            133008674
+        ],
+        "cFIENPIAPPG": 133008674,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 2009203,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 2524584987,
+        "jLGDDENCDIO": 1938477995,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090204,
+        "groupList": [
+            133008675
+        ],
+        "cFIENPIAPPG": 133008675,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 2009204,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 2171498443,
+        "jLGDDENCDIO": 3098610091,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090205,
+        "groupList": [
+            133008676
+        ],
+        "cFIENPIAPPG": 133008676,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 2009205,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 4008236259,
+        "jLGDDENCDIO": 1585347291,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090206,
+        "groupList": [
+            133105060
+        ],
+        "cFIENPIAPPG": 133105060,
+        "bPNEJOPINKA": 55,
+        "rewardType": "FINISH",
+        "rewardId": 2009206,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 1049210011,
+        "jLGDDENCDIO": 2132949683,
+        "pCECLCMFGPF": 55,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090207,
+        "groupList": [
+            133002083
+        ],
+        "cFIENPIAPPG": 133002083,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 2009207,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 956785875,
+        "jLGDDENCDIO": 1041750803,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090208,
+        "groupList": [
+            133002088
+        ],
+        "cFIENPIAPPG": 133002088,
+        "bPNEJOPINKA": 50,
+        "rewardType": "FINISH",
+        "rewardId": 2009208,
+        "icon": "UI_MarkPoint_WinterCamp_Battle",
+        "nameTextMapHash": 700562907,
+        "jLGDDENCDIO": 3563903139,
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 200902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090301,
+        "groupList": [
+            133008672
+        ],
+        "cFIENPIAPPG": 133008672,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_WinterCamp_Race",
+        "nameTextMapHash": 3973293723,
+        "jLGDDENCDIO": 787467443,
+        "playType": "WINTER_CAMP_RACE",
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090302,
+        "groupList": [
+            133008673
+        ],
+        "cFIENPIAPPG": 133008673,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_WinterCamp_Race",
+        "nameTextMapHash": 2279714931,
+        "jLGDDENCDIO": 942670403,
+        "playType": "WINTER_CAMP_RACE",
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090303,
+        "groupList": [
+            133008670
+        ],
+        "cFIENPIAPPG": 133008670,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_WinterCamp_Race",
+        "nameTextMapHash": 1566117115,
+        "jLGDDENCDIO": 4250781267,
+        "playType": "WINTER_CAMP_RACE",
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090304,
+        "groupList": [
+            133008671
+        ],
+        "cFIENPIAPPG": 133008671,
+        "rewardType": "FINISH",
+        "icon": "UI_MarkPoint_WinterCamp_Race",
+        "nameTextMapHash": 3534087827,
+        "jLGDDENCDIO": 3074649723,
+        "playType": "WINTER_CAMP_RACE",
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20090401,
+        "groupList": [
+            133001059
+        ],
+        "cFIENPIAPPG": 133001059,
+        "icon": "UI_MarkPoint_WinterCamp_SnowMan",
+        "nameTextMapHash": 3441405995,
+        "jLGDDENCDIO": 1321116939,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20104101,
+        "groupList": [
+            133108226
+        ],
+        "cFIENPIAPPG": 133108226,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 1741640763,
+        "jLGDDENCDIO": 457389027,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201041
+    },
+    {
+        "id": 20104102,
+        "groupList": [
+            133108225
+        ],
+        "cFIENPIAPPG": 133108225,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 1015272955,
+        "jLGDDENCDIO": 1962286059,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201041
+    },
+    {
+        "id": 20104103,
+        "groupList": [
+            133108231
+        ],
+        "cFIENPIAPPG": 133108231,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 1436372803,
+        "jLGDDENCDIO": 3037215443,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201041
+    },
+    {
+        "id": 20104104,
+        "groupList": [
+            133108228
+        ],
+        "cFIENPIAPPG": 133108228,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 4290306635,
+        "jLGDDENCDIO": 3524111051,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201042
+    },
+    {
+        "id": 20104105,
+        "groupList": [
+            133108229
+        ],
+        "cFIENPIAPPG": 133108229,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 2565687771,
+        "jLGDDENCDIO": 2489701835,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201042
+    },
+    {
+        "id": 20104106,
+        "groupList": [
+            133108230
+        ],
+        "cFIENPIAPPG": 133108230,
+        "bPNEJOPINKA": 30,
+        "rewardType": "FINISH",
+        "rewardId": 2010401,
+        "icon": "UI_MarkPoint_Thoarder",
+        "nameTextMapHash": 2165408251,
+        "jLGDDENCDIO": 2658128443,
+        "playType": "LANTERN_RITE_SALVAGE_LAND",
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 201042
+    },
+    {
+        "id": 20104201,
+        "groupList": [
+            133108246
+        ],
+        "cFIENPIAPPG": 133108246,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 2417496723,
+        "jLGDDENCDIO": 2269143627,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201043
+    },
+    {
+        "id": 20104202,
+        "groupList": [
+            133108247
+        ],
+        "cFIENPIAPPG": 133108247,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 3061267435,
+        "jLGDDENCDIO": 1412335499,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201043
+    },
+    {
+        "id": 20104203,
+        "groupList": [
+            133108240
+        ],
+        "cFIENPIAPPG": 133108240,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 690758675,
+        "jLGDDENCDIO": 1542086979,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pDJDNGLJHPF": 201043
+    },
+    {
+        "id": 20104204,
+        "groupList": [
+            133108234
+        ],
+        "cFIENPIAPPG": 133108234,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 2973565251,
+        "jLGDDENCDIO": 3343613075,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201043
+    },
+    {
+        "id": 20104205,
+        "groupList": [
+            133108239
+        ],
+        "cFIENPIAPPG": 133108239,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 949163611,
+        "jLGDDENCDIO": 1173770611,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201043
+    },
+    {
+        "id": 20104206,
+        "groupList": [
+            133108242
+        ],
+        "cFIENPIAPPG": 133108242,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 1172896691,
+        "jLGDDENCDIO": 4264328107,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104207,
+        "groupList": [
+            133108243
+        ],
+        "cFIENPIAPPG": 133108243,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 4178519331,
+        "jLGDDENCDIO": 131732339,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104208,
+        "groupList": [
+            133108236
+        ],
+        "cFIENPIAPPG": 133108236,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 2287090283,
+        "jLGDDENCDIO": 1786750251,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104209,
+        "groupList": [
+            133108237
+        ],
+        "cFIENPIAPPG": 133108237,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 3311253347,
+        "jLGDDENCDIO": 3851484235,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104210,
+        "groupList": [
+            133108238
+        ],
+        "cFIENPIAPPG": 133108238,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 594055707,
+        "jLGDDENCDIO": 521618395,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104211,
+        "groupList": [
+            133108248
+        ],
+        "cFIENPIAPPG": 133108248,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 2853036475,
+        "jLGDDENCDIO": 1887600467,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104212,
+        "groupList": [
+            133108249
+        ],
+        "cFIENPIAPPG": 133108249,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 3140410115,
+        "jLGDDENCDIO": 637852875,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104213,
+        "groupList": [
+            133108250
+        ],
+        "cFIENPIAPPG": 133108250,
+        "bPNEJOPINKA": 45,
+        "rewardType": "FINISH",
+        "rewardId": 2010402,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "nameTextMapHash": 2747001915,
+        "jLGDDENCDIO": 3267548235,
+        "playType": "LANTERN_RITE_SALVAGE_SEA",
+        "pCECLCMFGPF": 45,
+        "pDJDNGLJHPF": 201044
+    },
+    {
+        "id": 20104301,
+        "groupList": [
+            133108202
+        ],
+        "cFIENPIAPPG": 133108202,
+        "rewardType": "FINISH",
+        "rewardId": 2010403,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_Ballon",
+        "nameTextMapHash": 1530807835,
+        "jLGDDENCDIO": 3825122163,
+        "playType": "LANTERN_RITE_SALVAGE_PREVENT",
+        "pDJDNGLJHPF": 201045,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20104302,
+        "groupList": [
+            133108203
+        ],
+        "cFIENPIAPPG": 133108203,
+        "rewardType": "FINISH",
+        "rewardId": 2010403,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_Ballon",
+        "nameTextMapHash": 2182986459,
+        "jLGDDENCDIO": 657716987,
+        "playType": "LANTERN_RITE_SALVAGE_PREVENT",
+        "pDJDNGLJHPF": 201046,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20104401,
+        "groupList": [
+            133108201
+        ],
+        "cFIENPIAPPG": 133108201,
+        "rewardType": "FINISH",
+        "rewardId": 2010404,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_Ship",
+        "nameTextMapHash": 420972355,
+        "jLGDDENCDIO": 1103288899,
+        "playType": "LANTERN_RITE_SALVAGE_ESCORT",
+        "pDJDNGLJHPF": 201047,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20104402,
+        "groupList": [
+            133108253
+        ],
+        "cFIENPIAPPG": 133108253,
+        "rewardType": "FINISH",
+        "rewardId": 2010404,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_Ship",
+        "nameTextMapHash": 3437372539,
+        "jLGDDENCDIO": 895989803,
+        "playType": "LANTERN_RITE_SALVAGE_ESCORT",
+        "pDJDNGLJHPF": 201048,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20104501,
+        "groupList": [
+            133108198
+        ],
+        "cFIENPIAPPG": 133108198,
+        "rewardType": "FINISH",
+        "rewardId": 2010405,
+        "icon": "UI_MarkPoint_LanternRiteV2_Salvage_Boss",
+        "nameTextMapHash": 1309227483,
+        "jLGDDENCDIO": 532394195,
+        "playType": "LANTERN_RITE_SALVAGE_BOSS",
+        "pDJDNGLJHPF": 201049,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111001,
+        "groupList": [
+            177005155
+        ],
+        "cFIENPIAPPG": 177005155,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 362504875,
+        "jLGDDENCDIO": 1949842611,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201011,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111002,
+        "groupList": [
+            177005156
+        ],
+        "cFIENPIAPPG": 177005156,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 529032523,
+        "jLGDDENCDIO": 2030546771,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201012,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111003,
+        "groupList": [
+            177006001
+        ],
+        "cFIENPIAPPG": 177006001,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 854958883,
+        "jLGDDENCDIO": 1482198467,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201013,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111004,
+        "groupList": [
+            177006002
+        ],
+        "cFIENPIAPPG": 177006002,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 2919075515,
+        "jLGDDENCDIO": 2273090819,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201014,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111005,
+        "groupList": [
+            177008080
+        ],
+        "cFIENPIAPPG": 177008080,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 4146019651,
+        "jLGDDENCDIO": 2901766027,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201015,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20111006,
+        "groupList": [
+            177008081
+        ],
+        "cFIENPIAPPG": 177008081,
+        "bPNEJOPINKA": 50,
+        "icon": "UI_MarkPoint_ArenaChallenge",
+        "nameTextMapHash": 298975835,
+        "jLGDDENCDIO": 568154819,
+        "playType": "MICHIAE_MATSURI_DARK_CHALLENGE",
+        "pCECLCMFGPF": 50,
+        "pDJDNGLJHPF": 201016,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 20112001,
+        "groupList": [
+            177005075
+        ],
+        "cFIENPIAPPG": 177005075,
+        "bPNEJOPINKA": 100,
+        "icon": "UI_MarkPoint_MichiaeMatsuri_Boss",
+        "nameTextMapHash": 1960531795,
+        "jLGDDENCDIO": 913896619,
+        "pCECLCMFGPF": 100,
+        "pDJDNGLJHPF": 201021,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680101,
+        "groupList": [
+            133004066
+        ],
+        "cFIENPIAPPG": 133004066,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 4240781923,
+        "jLGDDENCDIO": 2408083243,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680102,
+        "groupList": [
+            133001078
+        ],
+        "cFIENPIAPPG": 133001078,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 1730285147,
+        "jLGDDENCDIO": 3489998155,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680103,
+        "groupList": [
+            133104823
+        ],
+        "cFIENPIAPPG": 133104823,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 206918979,
+        "jLGDDENCDIO": 3784110795,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680104,
+        "groupList": [
+            133104824
+        ],
+        "cFIENPIAPPG": 133104824,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 3726029251,
+        "jLGDDENCDIO": 285666459,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680105,
+        "groupList": [
+            133002135
+        ],
+        "cFIENPIAPPG": 133002135,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 3482792603,
+        "jLGDDENCDIO": 3260487715,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680106,
+        "groupList": [
+            133102221
+        ],
+        "cFIENPIAPPG": 133102221,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 4010517771,
+        "jLGDDENCDIO": 3196095427,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680107,
+        "groupList": [
+            133106485
+        ],
+        "cFIENPIAPPG": 133106485,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 2450599595,
+        "jLGDDENCDIO": 3089888507,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680108,
+        "groupList": [
+            133107250
+        ],
+        "cFIENPIAPPG": 133107250,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 808021947,
+        "jLGDDENCDIO": 4286593883,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680109,
+        "groupList": [
+            133103360
+        ],
+        "cFIENPIAPPG": 133103360,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 2319667083,
+        "jLGDDENCDIO": 721291187,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680110,
+        "groupList": [
+            133101019
+        ],
+        "cFIENPIAPPG": 133101019,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 393503171,
+        "jLGDDENCDIO": 3357596915,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680111,
+        "groupList": [
+            133106487
+        ],
+        "cFIENPIAPPG": 133106487,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 2062234179,
+        "jLGDDENCDIO": 667388683,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680112,
+        "groupList": [
+            133106488
+        ],
+        "cFIENPIAPPG": 133106488,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 340503187,
+        "jLGDDENCDIO": 2665219891,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680113,
+        "groupList": [
+            133221076
+        ],
+        "cFIENPIAPPG": 133221076,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 2034176203,
+        "jLGDDENCDIO": 2219828507,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50680114,
+        "groupList": [
+            133209083
+        ],
+        "cFIENPIAPPG": 133209083,
+        "bPNEJOPINKA": 20,
+        "icon": "UI_MarkPoint_Blessing",
+        "nameTextMapHash": 1524669099,
+        "jLGDDENCDIO": 2469248187,
+        "pCECLCMFGPF": 20,
+        "pDJDNGLJHPF": 506801,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50800101,
+        "groupList": [
+            133001079
+        ],
+        "cFIENPIAPPG": 133001079,
+        "bPNEJOPINKA": 60,
+        "icon": "UI_MarkPoint_RobotGacha",
+        "nameTextMapHash": 955335091,
+        "jLGDDENCDIO": 3998615331,
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 508001,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50800201,
+        "groupList": [
+            133105077
+        ],
+        "cFIENPIAPPG": 133105077,
+        "bPNEJOPINKA": 60,
+        "icon": "UI_MarkPoint_RobotGacha",
+        "nameTextMapHash": 2070147227,
+        "jLGDDENCDIO": 3505378779,
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 508002,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50800301,
+        "groupList": [
+            133213557
+        ],
+        "cFIENPIAPPG": 133213557,
+        "bPNEJOPINKA": 60,
+        "icon": "UI_MarkPoint_RobotGacha",
+        "nameTextMapHash": 853806851,
+        "jLGDDENCDIO": 1442858755,
+        "pCECLCMFGPF": 30,
+        "pDJDNGLJHPF": 508003,
+        "gCIMHADDKAJ": true,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50790101,
+        "groupList": [
+            166001606
+        ],
+        "cFIENPIAPPG": 166001606,
+        "icon": "UI_MarkPoint_ChasmChallenge",
+        "nameTextMapHash": 2232029611,
+        "jLGDDENCDIO": 2534952803,
+        "pDJDNGLJHPF": 507901,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50790102,
+        "groupList": [
+            166001581
+        ],
+        "cFIENPIAPPG": 166001581,
+        "icon": "UI_MarkPoint_ChasmChallenge",
+        "nameTextMapHash": 249907211,
+        "jLGDDENCDIO": 2108210147,
+        "pDJDNGLJHPF": 507902,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50790103,
+        "groupList": [
+            166001630
+        ],
+        "cFIENPIAPPG": 166001630,
+        "icon": "UI_MarkPoint_ChasmChallenge",
+        "nameTextMapHash": 2665466819,
+        "jLGDDENCDIO": 466231131,
+        "pDJDNGLJHPF": 507903,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50790104,
+        "groupList": [
+            166001582
+        ],
+        "cFIENPIAPPG": 166001582,
+        "icon": "UI_MarkPoint_ChasmChallenge",
+        "nameTextMapHash": 540873563,
+        "jLGDDENCDIO": 1983948699,
+        "pDJDNGLJHPF": 507904,
+        "aEDMAKFCJKG": true
+    },
+    {
+        "id": 50790105,
+        "groupList": [
+            166001574
+        ],
+        "cFIENPIAPPG": 166001574,
+        "icon": "UI_MarkPoint_ChasmChallenge",
+        "nameTextMapHash": 4152643611,
+        "jLGDDENCDIO": 3750971027,
+        "pDJDNGLJHPF": 507905,
+        "aEDMAKFCJKG": true
+    }
+]

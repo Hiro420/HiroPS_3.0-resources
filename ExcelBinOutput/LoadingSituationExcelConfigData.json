@@ -1,0 +1,255 @@
+[
+    {
+        "stageID": 1,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            1,
+            3
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_CITY",
+        "picPath": "UI_LoadingPic_MengDe"
+    },
+    {
+        "stageID": 2,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_OUTDOOR",
+        "picPath": "UI_LoadingPic_MengDe"
+    },
+    {
+        "stageID": 3,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            7
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_CITY",
+        "picPath": "UI_LoadingPic_LiYue"
+    },
+    {
+        "stageID": 4,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_OUTDOOR",
+        "picPath": "UI_LoadingPic_LiYue"
+    },
+    {
+        "stageID": 5,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_QUEST_DUNGEON",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageID": 6,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_DAILY_DUNGEON",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageID": 7,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_TOWER",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageID": 8,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_ROOM",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": ""
+    },
+    {
+        "stageID": 9,
+        "bHKAHAKOHBC": "SITUATION_TYPE_LOGIN",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": ""
+    },
+    {
+        "stageID": 10,
+        "bHKAHAKOHBC": "SITUATION_TYPE_LOGOUT",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": ""
+    },
+    {
+        "stageID": 11,
+        "bHKAHAKOHBC": "SITUATION_TYPE_REVIVE",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": ""
+    },
+    {
+        "stageID": 12,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            10
+        ],
+        "picPath": "UI_LoadingPic_Dragonspine"
+    },
+    {
+        "stageID": 13,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_HOMEWORLD",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": "UI_LoadingPic_Homeworld"
+    },
+    {
+        "stageID": 14,
+        "bHKAHAKOHBC": "SITUATION_TYPE_ENTER_ISLAND",
+        "pBOLHFADMCD": [],
+        "hNOIFEANLHL": [],
+        "picPath": "UI_LoadingPic_GoldenAppleIsles"
+    },
+    {
+        "stageID": 15,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            11
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_CITY",
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 16,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            11
+        ],
+        "hEEFLPAGFLA": "LOADING_AREA_OUTDOOR",
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 17,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            12
+        ],
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 18,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            13
+        ],
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 19,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            17
+        ],
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 20,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            14
+        ],
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 21,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            18
+        ],
+        "picPath": "UI_LoadingPic_Inazuma"
+    },
+    {
+        "stageID": 22,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            5
+        ],
+        "hNOIFEANLHL": [
+            200
+        ],
+        "picPath": "UI_LoadingPic_Enkanomiya"
+    },
+    {
+        "stageID": 23,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            7
+        ],
+        "hNOIFEANLHL": [
+            210
+        ],
+        "picPath": "UI_LoadingPic_MichiaeMatsuri"
+    },
+    {
+        "stageID": 24,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            3
+        ],
+        "hNOIFEANLHL": [
+            19
+        ],
+        "picPath": "UI_LoadingPic_TheChasm"
+    },
+    {
+        "stageID": 25,
+        "bHKAHAKOHBC": "SITUATION_TYPE_COMMON_TRANSPORT",
+        "pBOLHFADMCD": [
+            6
+        ],
+        "hNOIFEANLHL": [
+            300
+        ],
+        "picPath": "UI_LoadingPic_TheChasm"
+    }
+]

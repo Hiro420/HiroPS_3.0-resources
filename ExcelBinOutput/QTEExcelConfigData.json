@@ -1,0 +1,340 @@
+[
+    {
+        "id": 1,
+        "lHCCCBONICD": 1,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202007
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lHCCCBONICD": 2,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202008
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "lHCCCBONICD": 3,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "lHCCCBONICD": 4,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "lHCCCBONICD": 5,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "lHCCCBONICD": 6,
+        "eFDKFNIMBIM": "QTE_TYPE_NEVER_FAIL",
+        "nJDNGIDHLHD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "gKFPIICKPKO": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    }
+]

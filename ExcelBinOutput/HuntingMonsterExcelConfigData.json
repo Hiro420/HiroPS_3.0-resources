@@ -1,0 +1,2714 @@
+[
+    {
+        "configId": 10001,
+        "monsterId": 20020101,
+        "affix": [
+            4011,
+            4020,
+            4032,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3005
+        ],
+        "newsTextTextMapHash": 2916934540,
+        "traitTextTextMapHash": 3772636033,
+        "cPOLGBHDGON": 296877885,
+        "cMJJCBHDMOG": 33014282,
+        "nFPBGCPKCEM": 3392075002,
+        "iKMLDLHMJAP": 3771462096,
+        "refreshCond": []
+    },
+    {
+        "configId": 10002,
+        "monsterId": 20020101,
+        "affix": [
+            4008,
+            4017,
+            4032,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3006
+        ],
+        "newsTextTextMapHash": 3614871340,
+        "traitTextTextMapHash": 238311497,
+        "cPOLGBHDGON": 2106018357,
+        "cMJJCBHDMOG": 2619316770,
+        "nFPBGCPKCEM": 96109922,
+        "iKMLDLHMJAP": 2091289904,
+        "refreshCond": []
+    },
+    {
+        "configId": 10003,
+        "monsterId": 20020101,
+        "affix": [
+            4009,
+            4016,
+            4032,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            3007
+        ],
+        "newsTextTextMapHash": 1181329612,
+        "traitTextTextMapHash": 3143367881,
+        "cPOLGBHDGON": 3851652517,
+        "cMJJCBHDMOG": 3730108562,
+        "nFPBGCPKCEM": 515909794,
+        "iKMLDLHMJAP": 1105908232,
+        "refreshCond": []
+    },
+    {
+        "configId": 10004,
+        "monsterId": 20020101,
+        "affix": [
+            4010,
+            4018,
+            4032,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2004,
+            3008
+        ],
+        "newsTextTextMapHash": 585825972,
+        "traitTextTextMapHash": 1096490585,
+        "cPOLGBHDGON": 3361561741,
+        "cMJJCBHDMOG": 768481810,
+        "nFPBGCPKCEM": 2776465834,
+        "iKMLDLHMJAP": 438973296,
+        "refreshCond": []
+    },
+    {
+        "configId": 10005,
+        "monsterId": 20020101,
+        "affix": [
+            4012,
+            4019,
+            4032,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2005,
+            3009
+        ],
+        "newsTextTextMapHash": 295489316,
+        "traitTextTextMapHash": 1685549961,
+        "cPOLGBHDGON": 326417317,
+        "cMJJCBHDMOG": 1720235826,
+        "nFPBGCPKCEM": 4046766594,
+        "iKMLDLHMJAP": 3615958984,
+        "refreshCond": []
+    },
+    {
+        "configId": 10006,
+        "monsterId": 21020101,
+        "affix": [
+            4009,
+            4020,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            3005
+        ],
+        "newsTextTextMapHash": 2839143124,
+        "traitTextTextMapHash": 3067257281,
+        "cPOLGBHDGON": 1776557989,
+        "cMJJCBHDMOG": 4176818834,
+        "nFPBGCPKCEM": 827339410,
+        "iKMLDLHMJAP": 3246473128,
+        "refreshCond": []
+    },
+    {
+        "configId": 10007,
+        "monsterId": 21020101,
+        "affix": [
+            4012,
+            4018,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2005,
+            3008
+        ],
+        "newsTextTextMapHash": 3903024356,
+        "traitTextTextMapHash": 460790209,
+        "cPOLGBHDGON": 4100859949,
+        "cMJJCBHDMOG": 884622386,
+        "nFPBGCPKCEM": 754216650,
+        "iKMLDLHMJAP": 3638872808,
+        "refreshCond": []
+    },
+    {
+        "configId": 10008,
+        "monsterId": 21020101,
+        "affix": [
+            4013,
+            4019,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2006,
+            3009
+        ],
+        "newsTextTextMapHash": 3135601596,
+        "traitTextTextMapHash": 2131505825,
+        "cPOLGBHDGON": 437888045,
+        "cMJJCBHDMOG": 3786016778,
+        "nFPBGCPKCEM": 549200610,
+        "iKMLDLHMJAP": 3775543608,
+        "refreshCond": []
+    },
+    {
+        "configId": 10009,
+        "monsterId": 21020201,
+        "affix": [
+            4011,
+            4016,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3007
+        ],
+        "newsTextTextMapHash": 2480144492,
+        "traitTextTextMapHash": 1085869161,
+        "cPOLGBHDGON": 512403029,
+        "cMJJCBHDMOG": 2976988042,
+        "nFPBGCPKCEM": 123396234,
+        "iKMLDLHMJAP": 1129743416,
+        "refreshCond": []
+    },
+    {
+        "configId": 10010,
+        "monsterId": 21020201,
+        "affix": [
+            4008,
+            4017,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3006
+        ],
+        "newsTextTextMapHash": 458369572,
+        "traitTextTextMapHash": 2670657177,
+        "cPOLGBHDGON": 953604317,
+        "cMJJCBHDMOG": 1584568674,
+        "nFPBGCPKCEM": 3097160042,
+        "iKMLDLHMJAP": 1114246136,
+        "refreshCond": []
+    },
+    {
+        "configId": 10011,
+        "monsterId": 21020201,
+        "affix": [
+            4010,
+            4018,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2004,
+            3008
+        ],
+        "newsTextTextMapHash": 887272660,
+        "traitTextTextMapHash": 2431107113,
+        "cPOLGBHDGON": 867351733,
+        "cMJJCBHDMOG": 3709978554,
+        "nFPBGCPKCEM": 423715762,
+        "iKMLDLHMJAP": 2931108264,
+        "refreshCond": []
+    },
+    {
+        "configId": 10012,
+        "monsterId": 21020301,
+        "affix": [
+            4008,
+            4018,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3008
+        ],
+        "newsTextTextMapHash": 621327772,
+        "traitTextTextMapHash": 2511757577,
+        "cPOLGBHDGON": 3057205661,
+        "cMJJCBHDMOG": 2664331874,
+        "nFPBGCPKCEM": 2715669714,
+        "iKMLDLHMJAP": 479308824,
+        "refreshCond": []
+    },
+    {
+        "configId": 10013,
+        "monsterId": 21020301,
+        "affix": [
+            4011,
+            4018,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3008
+        ],
+        "newsTextTextMapHash": 1110995356,
+        "traitTextTextMapHash": 953771777,
+        "cPOLGBHDGON": 2303197325,
+        "cMJJCBHDMOG": 2503815034,
+        "nFPBGCPKCEM": 328012354,
+        "iKMLDLHMJAP": 2729123768,
+        "refreshCond": []
+    },
+    {
+        "configId": 10014,
+        "monsterId": 22010101,
+        "affix": [
+            4011,
+            4027,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "createPosType": "HUNTING_POS_GROUND",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3004
+        ],
+        "newsTextTextMapHash": 1659956244,
+        "traitTextTextMapHash": 2443143433,
+        "cPOLGBHDGON": 2852737965,
+        "cMJJCBHDMOG": 1460373674,
+        "nFPBGCPKCEM": 1793485834,
+        "iKMLDLHMJAP": 3838937160,
+        "refreshCond": []
+    },
+    {
+        "configId": 10015,
+        "monsterId": 22010101,
+        "affix": [
+            4010,
+            4026,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "createPosType": "HUNTING_POS_GROUND",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2004,
+            3003
+        ],
+        "newsTextTextMapHash": 3098436988,
+        "traitTextTextMapHash": 1296989465,
+        "cPOLGBHDGON": 4165341717,
+        "cMJJCBHDMOG": 3769323322,
+        "nFPBGCPKCEM": 409117242,
+        "iKMLDLHMJAP": 1691857720,
+        "refreshCond": []
+    },
+    {
+        "configId": 10016,
+        "monsterId": 22010101,
+        "affix": [
+            4009,
+            4028,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "createPosType": "HUNTING_POS_GROUND",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            3001
+        ],
+        "newsTextTextMapHash": 3172299260,
+        "traitTextTextMapHash": 3421435289,
+        "cPOLGBHDGON": 120657301,
+        "cMJJCBHDMOG": 1794768778,
+        "nFPBGCPKCEM": 3119062354,
+        "iKMLDLHMJAP": 112557704,
+        "refreshCond": []
+    },
+    {
+        "configId": 10017,
+        "monsterId": 22010201,
+        "affix": [
+            4008,
+            4028,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3001
+        ],
+        "newsTextTextMapHash": 2709406780,
+        "traitTextTextMapHash": 1326310241,
+        "cPOLGBHDGON": 4020685213,
+        "cMJJCBHDMOG": 730330826,
+        "nFPBGCPKCEM": 13567610,
+        "iKMLDLHMJAP": 1607665552,
+        "refreshCond": []
+    },
+    {
+        "configId": 10018,
+        "monsterId": 22010201,
+        "affix": [
+            4011,
+            4025,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3002
+        ],
+        "newsTextTextMapHash": 3842133652,
+        "traitTextTextMapHash": 356565913,
+        "cPOLGBHDGON": 4168755645,
+        "cMJJCBHDMOG": 1508357562,
+        "nFPBGCPKCEM": 1694432650,
+        "iKMLDLHMJAP": 3355577264,
+        "refreshCond": []
+    },
+    {
+        "configId": 10019,
+        "monsterId": 22010301,
+        "affix": [
+            4008,
+            4028,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3001
+        ],
+        "newsTextTextMapHash": 722825348,
+        "traitTextTextMapHash": 3579411081,
+        "cPOLGBHDGON": 2840440189,
+        "cMJJCBHDMOG": 4202942202,
+        "nFPBGCPKCEM": 1251831474,
+        "iKMLDLHMJAP": 1694972696,
+        "refreshCond": []
+    },
+    {
+        "configId": 10020,
+        "monsterId": 22010301,
+        "affix": [
+            4011,
+            4025,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1000,
+        "cityList": [
+            1,
+            2
+        ],
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3002
+        ],
+        "newsTextTextMapHash": 4151080020,
+        "traitTextTextMapHash": 2824189985,
+        "cPOLGBHDGON": 1145019117,
+        "cMJJCBHDMOG": 4000328786,
+        "nFPBGCPKCEM": 1723530370,
+        "iKMLDLHMJAP": 3023242440,
+        "refreshCond": []
+    },
+    {
+        "configId": 13001,
+        "monsterId": 22010201,
+        "affix": [
+            4010,
+            4025,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2420950636,
+        "traitTextTextMapHash": 941476745,
+        "cPOLGBHDGON": 2550397237,
+        "cMJJCBHDMOG": 2579969866,
+        "nFPBGCPKCEM": 3608112346,
+        "iKMLDLHMJAP": 1174296928,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 13002,
+        "monsterId": 22010401,
+        "affix": [
+            4011,
+            4027,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 3138080828,
+        "traitTextTextMapHash": 324597849,
+        "cPOLGBHDGON": 2063206141,
+        "cMJJCBHDMOG": 1148056410,
+        "nFPBGCPKCEM": 2017093338,
+        "iKMLDLHMJAP": 486923736,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300028
+    },
+    {
+        "configId": 13003,
+        "monsterId": 22010301,
+        "affix": [
+            4009,
+            4028,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1909994556,
+        "traitTextTextMapHash": 896024905,
+        "cPOLGBHDGON": 1502861901,
+        "cMJJCBHDMOG": 3157510202,
+        "nFPBGCPKCEM": 4096999642,
+        "iKMLDLHMJAP": 1318958776,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 13004,
+        "monsterId": 21020201,
+        "affix": [
+            4008,
+            4029,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1650622156,
+        "traitTextTextMapHash": 4287432633,
+        "cPOLGBHDGON": 3148892805,
+        "cMJJCBHDMOG": 1494439426,
+        "nFPBGCPKCEM": 558307586,
+        "iKMLDLHMJAP": 4058283368,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 13005,
+        "monsterId": 21020701,
+        "affix": [
+            4012,
+            4030,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1708838916,
+        "traitTextTextMapHash": 2910909193,
+        "cPOLGBHDGON": 36056085,
+        "cMJJCBHDMOG": 971364298,
+        "nFPBGCPKCEM": 37916938,
+        "iKMLDLHMJAP": 1886378224,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321200092
+    },
+    {
+        "configId": 13006,
+        "monsterId": 21030601,
+        "affix": [
+            4013,
+            4026,
+            4033,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1003,
+        "cityList": [
+            3
+        ],
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 478509532,
+        "traitTextTextMapHash": 564749105,
+        "cPOLGBHDGON": 607242973,
+        "cMJJCBHDMOG": 4245589818,
+        "nFPBGCPKCEM": 935485418,
+        "iKMLDLHMJAP": 3364908840,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    },
+    {
+        "configId": 20001,
+        "monsterId": 22010101,
+        "affix": [
+            4010,
+            4011,
+            4026,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "createPosType": "HUNTING_POS_GROUND",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2004,
+            3003
+        ],
+        "newsTextTextMapHash": 2922377204,
+        "traitTextTextMapHash": 1962781217,
+        "cPOLGBHDGON": 3359270517,
+        "cMJJCBHDMOG": 3096455714,
+        "nFPBGCPKCEM": 2645632834,
+        "iKMLDLHMJAP": 4178335416,
+        "refreshCond": []
+    },
+    {
+        "configId": 20002,
+        "monsterId": 22010201,
+        "affix": [
+            4008,
+            4009,
+            4028,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            2003,
+            3001
+        ],
+        "newsTextTextMapHash": 3876452772,
+        "traitTextTextMapHash": 2616136193,
+        "cPOLGBHDGON": 3313675381,
+        "cMJJCBHDMOG": 1201585618,
+        "nFPBGCPKCEM": 3696932258,
+        "iKMLDLHMJAP": 2093498752,
+        "refreshCond": []
+    },
+    {
+        "configId": 20003,
+        "monsterId": 22010301,
+        "affix": [
+            4008,
+            4011,
+            4027,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2002,
+            3004
+        ],
+        "newsTextTextMapHash": 682286220,
+        "traitTextTextMapHash": 3392276089,
+        "cPOLGBHDGON": 3264047653,
+        "cMJJCBHDMOG": 872309314,
+        "nFPBGCPKCEM": 4111821690,
+        "iKMLDLHMJAP": 1128263512,
+        "refreshCond": []
+    },
+    {
+        "configId": 20004,
+        "monsterId": 26030101,
+        "affix": [
+            4008,
+            4010,
+            4018,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            2004,
+            3008
+        ],
+        "newsTextTextMapHash": 3312723700,
+        "traitTextTextMapHash": 3912084129,
+        "cPOLGBHDGON": 3561514149,
+        "cMJJCBHDMOG": 2086926314,
+        "nFPBGCPKCEM": 1891768098,
+        "iKMLDLHMJAP": 2922127072,
+        "refreshCond": []
+    },
+    {
+        "configId": 20005,
+        "monsterId": 26030101,
+        "affix": [
+            4009,
+            4011,
+            4017,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2003,
+            3006
+        ],
+        "newsTextTextMapHash": 4190423556,
+        "traitTextTextMapHash": 2125389785,
+        "cPOLGBHDGON": 2264366957,
+        "cMJJCBHDMOG": 3429908850,
+        "nFPBGCPKCEM": 1939834834,
+        "iKMLDLHMJAP": 3772316128,
+        "refreshCond": []
+    },
+    {
+        "configId": 20006,
+        "monsterId": 26030101,
+        "affix": [
+            4010,
+            4011,
+            4019,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2004,
+            3009
+        ],
+        "newsTextTextMapHash": 2088092692,
+        "traitTextTextMapHash": 480010465,
+        "cPOLGBHDGON": 2345256997,
+        "cMJJCBHDMOG": 3958288786,
+        "nFPBGCPKCEM": 2862476322,
+        "iKMLDLHMJAP": 2545995496,
+        "refreshCond": []
+    },
+    {
+        "configId": 20007,
+        "monsterId": 26030101,
+        "affix": [
+            4008,
+            4009,
+            4016,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            2003,
+            3007
+        ],
+        "newsTextTextMapHash": 1722298396,
+        "traitTextTextMapHash": 3173931073,
+        "cPOLGBHDGON": 2203699501,
+        "cMJJCBHDMOG": 232963658,
+        "nFPBGCPKCEM": 3318602442,
+        "iKMLDLHMJAP": 2782892192,
+        "refreshCond": []
+    },
+    {
+        "configId": 20008,
+        "monsterId": 20020101,
+        "affix": [
+            4010,
+            4011,
+            4020,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2004,
+            3005
+        ],
+        "newsTextTextMapHash": 3375595348,
+        "traitTextTextMapHash": 4046550489,
+        "cPOLGBHDGON": 1609249461,
+        "cMJJCBHDMOG": 3906425682,
+        "nFPBGCPKCEM": 13326938,
+        "iKMLDLHMJAP": 291943088,
+        "refreshCond": []
+    },
+    {
+        "configId": 20009,
+        "monsterId": 20020101,
+        "affix": [
+            4008,
+            4010,
+            4017,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            2004,
+            3006
+        ],
+        "newsTextTextMapHash": 2230754964,
+        "traitTextTextMapHash": 1057742145,
+        "cPOLGBHDGON": 1586617773,
+        "cMJJCBHDMOG": 1890285842,
+        "nFPBGCPKCEM": 4040342370,
+        "iKMLDLHMJAP": 1543192152,
+        "refreshCond": []
+    },
+    {
+        "configId": 20010,
+        "monsterId": 20020101,
+        "affix": [
+            4009,
+            4011,
+            4016,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2003,
+            3007
+        ],
+        "newsTextTextMapHash": 485429260,
+        "traitTextTextMapHash": 276154793,
+        "cPOLGBHDGON": 829179549,
+        "cMJJCBHDMOG": 3795232906,
+        "nFPBGCPKCEM": 3772877834,
+        "iKMLDLHMJAP": 945000096,
+        "refreshCond": []
+    },
+    {
+        "configId": 20011,
+        "monsterId": 20020101,
+        "affix": [
+            4009,
+            4010,
+            4018,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            2004,
+            3008
+        ],
+        "newsTextTextMapHash": 1249597836,
+        "traitTextTextMapHash": 3774605177,
+        "cPOLGBHDGON": 868597805,
+        "cMJJCBHDMOG": 3442811626,
+        "nFPBGCPKCEM": 1387578930,
+        "iKMLDLHMJAP": 2968058704,
+        "refreshCond": []
+    },
+    {
+        "configId": 20012,
+        "monsterId": 20020101,
+        "affix": [
+            4008,
+            4011,
+            4019,
+            4033,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            2002,
+            3009
+        ],
+        "newsTextTextMapHash": 1758627956,
+        "traitTextTextMapHash": 3573161913,
+        "cPOLGBHDGON": 2112427421,
+        "cMJJCBHDMOG": 1570326770,
+        "nFPBGCPKCEM": 974691970,
+        "iKMLDLHMJAP": 942221008,
+        "refreshCond": []
+    },
+    {
+        "configId": 20013,
+        "monsterId": 21020101,
+        "affix": [
+            4056,
+            4063,
+            4051,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3004
+        ],
+        "newsTextTextMapHash": 499149908,
+        "traitTextTextMapHash": 4238156921,
+        "cPOLGBHDGON": 1192453637,
+        "cMJJCBHDMOG": 1109691866,
+        "nFPBGCPKCEM": 1628125810,
+        "iKMLDLHMJAP": 778974112,
+        "refreshCond": []
+    },
+    {
+        "configId": 20014,
+        "monsterId": 21020101,
+        "affix": [
+            4056,
+            4063,
+            4049,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3002
+        ],
+        "newsTextTextMapHash": 1566617332,
+        "traitTextTextMapHash": 1568958185,
+        "cPOLGBHDGON": 4080303589,
+        "cMJJCBHDMOG": 3511876434,
+        "nFPBGCPKCEM": 1175355538,
+        "iKMLDLHMJAP": 431911744,
+        "refreshCond": []
+    },
+    {
+        "configId": 20015,
+        "monsterId": 21020201,
+        "affix": [
+            4056,
+            4063,
+            4051,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3004
+        ],
+        "newsTextTextMapHash": 3574820196,
+        "traitTextTextMapHash": 1121387041,
+        "cPOLGBHDGON": 1339098085,
+        "cMJJCBHDMOG": 3597619802,
+        "nFPBGCPKCEM": 2211610762,
+        "iKMLDLHMJAP": 2179795848,
+        "refreshCond": []
+    },
+    {
+        "configId": 20016,
+        "monsterId": 21020201,
+        "affix": [
+            4056,
+            4063,
+            4052,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3001
+        ],
+        "newsTextTextMapHash": 1537140900,
+        "traitTextTextMapHash": 4243616833,
+        "cPOLGBHDGON": 1902733453,
+        "cMJJCBHDMOG": 2230704122,
+        "nFPBGCPKCEM": 477811594,
+        "iKMLDLHMJAP": 750484040,
+        "refreshCond": []
+    },
+    {
+        "configId": 20017,
+        "monsterId": 21020301,
+        "affix": [
+            4056,
+            4063,
+            4050,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3003
+        ],
+        "newsTextTextMapHash": 3795961660,
+        "traitTextTextMapHash": 904568465,
+        "cPOLGBHDGON": 2272542621,
+        "cMJJCBHDMOG": 1387226930,
+        "nFPBGCPKCEM": 2626183666,
+        "iKMLDLHMJAP": 3504548424,
+        "refreshCond": []
+    },
+    {
+        "configId": 20018,
+        "monsterId": 21020301,
+        "affix": [
+            4056,
+            4063,
+            4052,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2009,
+            3001
+        ],
+        "newsTextTextMapHash": 1016149524,
+        "traitTextTextMapHash": 629835545,
+        "cPOLGBHDGON": 2646576973,
+        "cMJJCBHDMOG": 3836253666,
+        "nFPBGCPKCEM": 991819674,
+        "iKMLDLHMJAP": 4006006024,
+        "refreshCond": []
+    },
+    {
+        "configId": 20019,
+        "monsterId": 21020101,
+        "affix": [
+            4040,
+            4013,
+            4019,
+            4024,
+            4035,
+            4041,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleAndFallingVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2006,
+            2004,
+            3009,
+            3010
+        ],
+        "newsTextTextMapHash": 957289380,
+        "traitTextTextMapHash": 1979767441,
+        "cPOLGBHDGON": 3246186381,
+        "cMJJCBHDMOG": 3104651466,
+        "nFPBGCPKCEM": 3805295458,
+        "iKMLDLHMJAP": 79563496,
+        "refreshCond": []
+    },
+    {
+        "configId": 20020,
+        "monsterId": 21020201,
+        "affix": [
+            4012,
+            4011,
+            4017,
+            4024,
+            4035,
+            4041,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordAndFallingVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2005,
+            2001,
+            3006,
+            3010
+        ],
+        "newsTextTextMapHash": 1624499660,
+        "traitTextTextMapHash": 202447361,
+        "cPOLGBHDGON": 2690869413,
+        "cMJJCBHDMOG": 3219431522,
+        "nFPBGCPKCEM": 1504919066,
+        "iKMLDLHMJAP": 3891734776,
+        "refreshCond": []
+    },
+    {
+        "configId": 20021,
+        "monsterId": 21020301,
+        "affix": [
+            4009,
+            4010,
+            4018,
+            4024,
+            4035,
+            4041,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreAndFallingVulnerable",
+        "level": 1,
+        "reviseLevelId": 1001,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            2004,
+            3008,
+            3010
+        ],
+        "newsTextTextMapHash": 2176457004,
+        "traitTextTextMapHash": 2571816209,
+        "cPOLGBHDGON": 4200649613,
+        "cMJJCBHDMOG": 2164059386,
+        "nFPBGCPKCEM": 2498937186,
+        "iKMLDLHMJAP": 856731224,
+        "refreshCond": []
+    },
+    {
+        "configId": 23001,
+        "monsterId": 21020701,
+        "affix": [
+            6113,
+            4011,
+            4019,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 4003875676,
+        "traitTextTextMapHash": 1106187377,
+        "cPOLGBHDGON": 3978921845,
+        "cMJJCBHDMOG": 3247468234,
+        "nFPBGCPKCEM": 1504815730,
+        "iKMLDLHMJAP": 1698931704,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 23002,
+        "monsterId": 21020201,
+        "affix": [
+            6105,
+            4008,
+            4026,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2513063476,
+        "traitTextTextMapHash": 3229783385,
+        "cPOLGBHDGON": 1464495653,
+        "cMJJCBHDMOG": 3029843250,
+        "nFPBGCPKCEM": 2428127034,
+        "iKMLDLHMJAP": 2538984208,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300028
+    },
+    {
+        "configId": 23003,
+        "monsterId": 22010301,
+        "affix": [
+            6112,
+            4010,
+            4025,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 105475860,
+        "traitTextTextMapHash": 3571472193,
+        "cPOLGBHDGON": 1712547549,
+        "cMJJCBHDMOG": 4052472874,
+        "nFPBGCPKCEM": 1346561530,
+        "iKMLDLHMJAP": 2725171792,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 23004,
+        "monsterId": 21020701,
+        "affix": [
+            4132,
+            4009,
+            4027,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 569407412,
+        "traitTextTextMapHash": 153332201,
+        "cPOLGBHDGON": 1183889581,
+        "cMJJCBHDMOG": 565431098,
+        "nFPBGCPKCEM": 3087091362,
+        "iKMLDLHMJAP": 3522322864,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 23005,
+        "monsterId": 22010401,
+        "affix": [
+            6113,
+            4013,
+            4016,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 158272492,
+        "traitTextTextMapHash": 106490329,
+        "cPOLGBHDGON": 3874241149,
+        "cMJJCBHDMOG": 3126415930,
+        "nFPBGCPKCEM": 2909709018,
+        "iKMLDLHMJAP": 2151667184,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321200092
+    },
+    {
+        "configId": 23006,
+        "monsterId": 24010101,
+        "affix": [
+            4132,
+            4012,
+            4018,
+            4056,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1004,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 4094144716,
+        "traitTextTextMapHash": 558607745,
+        "cPOLGBHDGON": 2351322725,
+        "cMJJCBHDMOG": 2681275874,
+        "nFPBGCPKCEM": 2125840618,
+        "iKMLDLHMJAP": 2673471000,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    },
+    {
+        "configId": 30001,
+        "monsterId": 24010101,
+        "affix": [
+            4002,
+            4025,
+            4026,
+            4027,
+            4028,
+            4029,
+            4030,
+            4031,
+            4036,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2007,
+            3013
+        ],
+        "newsTextTextMapHash": 3928737556,
+        "traitTextTextMapHash": 1276398057,
+        "cPOLGBHDGON": 421249869,
+        "cMJJCBHDMOG": 3088372914,
+        "nFPBGCPKCEM": 4268407090,
+        "iKMLDLHMJAP": 1341498200,
+        "refreshCond": []
+    },
+    {
+        "configId": 30002,
+        "monsterId": 24010101,
+        "affix": [
+            4009,
+            4013,
+            4028,
+            4024,
+            4036,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_FallingAttackVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2003,
+            2006,
+            3001,
+            3010
+        ],
+        "newsTextTextMapHash": 3617453588,
+        "traitTextTextMapHash": 3185951769,
+        "cPOLGBHDGON": 1838612269,
+        "cMJJCBHDMOG": 3230500594,
+        "nFPBGCPKCEM": 4253106338,
+        "iKMLDLHMJAP": 3550624248,
+        "refreshCond": []
+    },
+    {
+        "configId": 30003,
+        "monsterId": 24010101,
+        "affix": [
+            4008,
+            4010,
+            4058,
+            4061,
+            4045,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable_High",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            2004,
+            2009,
+            3006
+        ],
+        "newsTextTextMapHash": 1018055500,
+        "traitTextTextMapHash": 428576985,
+        "cPOLGBHDGON": 2996050837,
+        "cMJJCBHDMOG": 1097650146,
+        "nFPBGCPKCEM": 3328330066,
+        "iKMLDLHMJAP": 599949480,
+        "refreshCond": []
+    },
+    {
+        "configId": 30004,
+        "monsterId": 24010201,
+        "affix": [
+            4008,
+            4013,
+            4022,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ExtraCriticalHurt",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "initialPose": 100,
+        "clueTextIdList": [
+            1001,
+            2002,
+            2006,
+            3012
+        ],
+        "newsTextTextMapHash": 1976296628,
+        "traitTextTextMapHash": 2191899657,
+        "cPOLGBHDGON": 3610035053,
+        "cMJJCBHDMOG": 2458337994,
+        "nFPBGCPKCEM": 826379058,
+        "iKMLDLHMJAP": 1472581864,
+        "refreshCond": []
+    },
+    {
+        "configId": 30005,
+        "monsterId": 24010201,
+        "affix": [
+            4011,
+            4012,
+            4021,
+            4034,
+            4040,
+            4024,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_FallingAttackVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "initialPose": 100,
+        "clueTextIdList": [
+            1001,
+            2001,
+            2005,
+            3011,
+            3010
+        ],
+        "newsTextTextMapHash": 1933338796,
+        "traitTextTextMapHash": 2908448601,
+        "cPOLGBHDGON": 3618752693,
+        "cMJJCBHDMOG": 2275009914,
+        "nFPBGCPKCEM": 3824028298,
+        "iKMLDLHMJAP": 3090649616,
+        "refreshCond": []
+    },
+    {
+        "configId": 30006,
+        "monsterId": 24010201,
+        "affix": [
+            4002,
+            4025,
+            4026,
+            4027,
+            4028,
+            4029,
+            4030,
+            4031,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "initialPose": 100,
+        "clueTextIdList": [
+            1001,
+            2007,
+            3013
+        ],
+        "newsTextTextMapHash": 3075188692,
+        "traitTextTextMapHash": 2166185825,
+        "cPOLGBHDGON": 1994114085,
+        "cMJJCBHDMOG": 1229722770,
+        "nFPBGCPKCEM": 1464971642,
+        "iKMLDLHMJAP": 4079353256,
+        "refreshCond": []
+    },
+    {
+        "configId": 30007,
+        "monsterId": 24010201,
+        "affix": [
+            4009,
+            4010,
+            4059,
+            4046,
+            4061,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable_High",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            1,
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "initialPose": 100,
+        "clueTextIdList": [
+            1001,
+            2003,
+            2004,
+            2009,
+            3008
+        ],
+        "newsTextTextMapHash": 2541004044,
+        "traitTextTextMapHash": 3250953801,
+        "cPOLGBHDGON": 42076557,
+        "cMJJCBHDMOG": 127386162,
+        "nFPBGCPKCEM": 1721657034,
+        "iKMLDLHMJAP": 1987034504,
+        "refreshCond": []
+    },
+    {
+        "configId": 30008,
+        "monsterId": 21020501,
+        "affix": [
+            4002,
+            4025,
+            4026,
+            4027,
+            4028,
+            4029,
+            4030,
+            4031,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2007,
+            3013
+        ],
+        "newsTextTextMapHash": 1080448492,
+        "traitTextTextMapHash": 4059266553,
+        "cPOLGBHDGON": 264520901,
+        "cMJJCBHDMOG": 2362108738,
+        "nFPBGCPKCEM": 590164314,
+        "iKMLDLHMJAP": 4009284104,
+        "refreshCond": []
+    },
+    {
+        "configId": 30009,
+        "monsterId": 21020501,
+        "affix": [
+            4008,
+            4028,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2002,
+            3001
+        ],
+        "newsTextTextMapHash": 2297785124,
+        "traitTextTextMapHash": 1650616289,
+        "cPOLGBHDGON": 1062318509,
+        "cMJJCBHDMOG": 2689162818,
+        "nFPBGCPKCEM": 2528152178,
+        "iKMLDLHMJAP": 484410320,
+        "refreshCond": []
+    },
+    {
+        "configId": 30010,
+        "monsterId": 21020501,
+        "affix": [
+            4010,
+            4024,
+            4026,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordAndFallingVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2004,
+            3003,
+            3010
+        ],
+        "newsTextTextMapHash": 305564116,
+        "traitTextTextMapHash": 174888273,
+        "cPOLGBHDGON": 3171629029,
+        "cMJJCBHDMOG": 3508666546,
+        "nFPBGCPKCEM": 2105588210,
+        "iKMLDLHMJAP": 2029997112,
+        "refreshCond": []
+    },
+    {
+        "configId": 30011,
+        "monsterId": 21020501,
+        "affix": [
+            4010,
+            4016,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2004,
+            3007
+        ],
+        "newsTextTextMapHash": 3610417620,
+        "traitTextTextMapHash": 4133950209,
+        "cPOLGBHDGON": 1090398269,
+        "cMJJCBHDMOG": 4061710650,
+        "nFPBGCPKCEM": 1765851666,
+        "iKMLDLHMJAP": 163124424,
+        "refreshCond": []
+    },
+    {
+        "configId": 30012,
+        "monsterId": 21020501,
+        "affix": [
+            4011,
+            4027,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+        "level": 1,
+        "reviseLevelId": 1002,
+        "cityList": [
+            2
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "searchPointNum": 3,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [
+            1001,
+            2001,
+            3004
+        ],
+        "newsTextTextMapHash": 1634627316,
+        "traitTextTextMapHash": 4097509025,
+        "cPOLGBHDGON": 3651632973,
+        "cMJJCBHDMOG": 1378305170,
+        "nFPBGCPKCEM": 397488490,
+        "iKMLDLHMJAP": 4022672048,
+        "refreshCond": []
+    },
+    {
+        "configId": 33001,
+        "monsterId": 21020801,
+        "affix": [
+            6110,
+            4011,
+            4025,
+            4033,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 561611468,
+        "traitTextTextMapHash": 1146876801,
+        "cPOLGBHDGON": 2246133413,
+        "cMJJCBHDMOG": 3022182970,
+        "nFPBGCPKCEM": 1356790826,
+        "iKMLDLHMJAP": 353962704,
+        "refreshCond": [
+            2,
+            3
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 33003,
+        "monsterId": 25100101,
+        "affix": [
+            4008,
+            4027,
+            4033,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 3070864628,
+        "traitTextTextMapHash": 4075757425,
+        "cPOLGBHDGON": 2445990621,
+        "cMJJCBHDMOG": 3712114010,
+        "nFPBGCPKCEM": 985529634,
+        "iKMLDLHMJAP": 2699217176,
+        "refreshCond": [
+            9,
+            10,
+            11
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 33004,
+        "monsterId": 25100101,
+        "affix": [
+            6110,
+            4011,
+            4030,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2320311804,
+        "traitTextTextMapHash": 35016545,
+        "cPOLGBHDGON": 1131242965,
+        "cMJJCBHDMOG": 3983534786,
+        "nFPBGCPKCEM": 1427238490,
+        "iKMLDLHMJAP": 1306091720,
+        "refreshCond": [
+            11,
+            12
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 33005,
+        "monsterId": 25100101,
+        "affix": [
+            6113,
+            4012,
+            4034,
+            4040,
+            4126,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 3832598244,
+        "traitTextTextMapHash": 873474689,
+        "cPOLGBHDGON": 566193485,
+        "cMJJCBHDMOG": 3810918322,
+        "nFPBGCPKCEM": 2438176866,
+        "iKMLDLHMJAP": 3385258536,
+        "refreshCond": [
+            10,
+            11,
+            17
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321300027
+    },
+    {
+        "configId": 33006,
+        "monsterId": 25100201,
+        "affix": [
+            4013,
+            4029,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 897356972,
+        "traitTextTextMapHash": 4273836137,
+        "cPOLGBHDGON": 3784629221,
+        "cMJJCBHDMOG": 3330490338,
+        "nFPBGCPKCEM": 652689026,
+        "iKMLDLHMJAP": 2773448192,
+        "refreshCond": [
+            4,
+            5
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33007,
+        "monsterId": 25100201,
+        "affix": [
+            4010,
+            4017,
+            4033,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1649940684,
+        "traitTextTextMapHash": 2910082617,
+        "cPOLGBHDGON": 1899882461,
+        "cMJJCBHDMOG": 2792408098,
+        "nFPBGCPKCEM": 3343243122,
+        "iKMLDLHMJAP": 1790681824,
+        "refreshCond": [
+            5,
+            6,
+            10
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33008,
+        "monsterId": 25100201,
+        "affix": [
+            6110,
+            4008,
+            4034,
+            4040,
+            4126,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2843348172,
+        "traitTextTextMapHash": 2927590089,
+        "cPOLGBHDGON": 1160805469,
+        "cMJJCBHDMOG": 3439125066,
+        "nFPBGCPKCEM": 1888528818,
+        "iKMLDLHMJAP": 544172272,
+        "refreshCond": [
+            5,
+            7,
+            11
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33009,
+        "monsterId": 21020801,
+        "affix": [
+            4009,
+            4020,
+            4033,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 194230252,
+        "traitTextTextMapHash": 2063285257,
+        "cPOLGBHDGON": 2683521021,
+        "cMJJCBHDMOG": 3312746642,
+        "nFPBGCPKCEM": 1816977506,
+        "iKMLDLHMJAP": 2518612256,
+        "refreshCond": [
+            5,
+            6,
+            7
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321200092
+    },
+    {
+        "configId": 33010,
+        "monsterId": 21020801,
+        "affix": [
+            4132,
+            4011,
+            4016,
+            4033,
+            4040,
+            4064
+        ],
+        "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1574598572,
+        "traitTextTextMapHash": 1945220065,
+        "cPOLGBHDGON": 10995861,
+        "cMJJCBHDMOG": 3079361586,
+        "nFPBGCPKCEM": 3645758482,
+        "iKMLDLHMJAP": 2884946176,
+        "refreshCond": [
+            2,
+            4
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 321200092
+    },
+    {
+        "configId": 33011,
+        "monsterId": 24010301,
+        "affix": [
+            4132,
+            4002,
+            4025,
+            4026,
+            4027,
+            4028,
+            4029,
+            4030,
+            4031,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 355403116,
+        "traitTextTextMapHash": 1735739993,
+        "cPOLGBHDGON": 4126304941,
+        "cMJJCBHDMOG": 4028805570,
+        "nFPBGCPKCEM": 1382711250,
+        "iKMLDLHMJAP": 2994527616,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33012,
+        "monsterId": 24010301,
+        "affix": [
+            6114,
+            4002,
+            4025,
+            4026,
+            4027,
+            4028,
+            4029,
+            4030,
+            4031,
+            4035,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 1082918612,
+        "traitTextTextMapHash": 4167555729,
+        "cPOLGBHDGON": 577530565,
+        "cMJJCBHDMOG": 1952976810,
+        "nFPBGCPKCEM": 4233244146,
+        "iKMLDLHMJAP": 2833645528,
+        "refreshCond": [],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33013,
+        "monsterId": 24010301,
+        "affix": [
+            6113,
+            4012,
+            4035,
+            4040,
+            4126,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2281984412,
+        "traitTextTextMapHash": 12132865,
+        "cPOLGBHDGON": 611494557,
+        "cMJJCBHDMOG": 141893034,
+        "nFPBGCPKCEM": 242552178,
+        "iKMLDLHMJAP": 1993042856,
+        "refreshCond": [
+            11
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000102
+    },
+    {
+        "configId": 33014,
+        "monsterId": 24020101,
+        "affix": [
+            4013,
+            4127,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 4199078308,
+        "traitTextTextMapHash": 3563050385,
+        "cPOLGBHDGON": 3979109781,
+        "cMJJCBHDMOG": 666160786,
+        "nFPBGCPKCEM": 1534911890,
+        "iKMLDLHMJAP": 2562138264,
+        "refreshCond": [
+            3
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    },
+    {
+        "configId": 33015,
+        "monsterId": 24020201,
+        "affix": [
+            4010,
+            4127,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2040534332,
+        "traitTextTextMapHash": 1106659241,
+        "cPOLGBHDGON": 4001215645,
+        "cMJJCBHDMOG": 3837147066,
+        "nFPBGCPKCEM": 3790559826,
+        "iKMLDLHMJAP": 3125829912,
+        "refreshCond": [
+            2
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    },
+    {
+        "configId": 33016,
+        "monsterId": 24020301,
+        "affix": [
+            4008,
+            4127,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 2225732,
+        "traitTextTextMapHash": 63826001,
+        "cPOLGBHDGON": 3213624189,
+        "cMJJCBHDMOG": 2268840442,
+        "nFPBGCPKCEM": 3626614426,
+        "iKMLDLHMJAP": 4262500736,
+        "refreshCond": [
+            5
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    },
+    {
+        "configId": 33017,
+        "monsterId": 24020401,
+        "affix": [
+            4009,
+            4127,
+            4034,
+            4040,
+            4064
+        ],
+        "abilityGroup": "",
+        "level": 1,
+        "reviseLevelId": 1005,
+        "cityList": [
+            3
+        ],
+        "difficulty": "HUNTING_DIFFICULTY_HARD",
+        "limitTime": 600,
+        "iOKKKNFFCPB": [],
+        "clueTextIdList": [],
+        "newsTextTextMapHash": 3913306284,
+        "traitTextTextMapHash": 2263693121,
+        "cPOLGBHDGON": 100210629,
+        "cMJJCBHDMOG": 2050175010,
+        "nFPBGCPKCEM": 3461907074,
+        "iKMLDLHMJAP": 2262238856,
+        "refreshCond": [
+            4
+        ],
+        "lKPKMICCFHP": true,
+        "nFKLOOLELNC": 322000112
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "gDIGOLDHBIP": "FIREWORKS_LAUNCH_PARAM_REPEAT",
+        "defaultValue": 1,
+        "pPGHCCGNDIG": [
+            1,
+            3
+        ],
+        "cOCIOGMGNMI": 1,
+        "cEBCHEMNPGF": 2761426475
+    },
+    {
+        "gDIGOLDHBIP": "FIREWORKS_LAUNCH_PARAM_INTEVAL",
+        "defaultValue": 30,
+        "pPGHCCGNDIG": [
+            20,
+            50
+        ],
+        "cOCIOGMGNMI": 5,
+        "cEBCHEMNPGF": 1551399395
+    },
+    {
+        "gDIGOLDHBIP": "FIREWORKS_LAUNCH_PARAM_DELAY",
+        "defaultValue": 10,
+        "pPGHCCGNDIG": [
+            5,
+            30
+        ],
+        "cOCIOGMGNMI": 5,
+        "cEBCHEMNPGF": 1347065651
+    },
+    {
+        "gDIGOLDHBIP": "FIREWORKS_LAUNCH_PARAM_ROUND_INTEVAL",
+        "defaultValue": 30,
+        "pPGHCCGNDIG": [
+            20,
+            80
+        ],
+        "cOCIOGMGNMI": 5,
+        "cEBCHEMNPGF": 3161827139
+    }
+]

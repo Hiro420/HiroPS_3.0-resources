@@ -1,0 +1,30 @@
+[
+    {
+        "id": 200900,
+        "fEGLKPNLCOB": 10.0
+    },
+    {
+        "id": 200901,
+        "fEGLKPNLCOB": 10.0,
+        "cityId": 1,
+        "jBIJMBGJIGO": 0.20000000298023224
+    },
+    {
+        "id": 200902,
+        "fEGLKPNLCOB": 10.0,
+        "cityId": 2,
+        "jBIJMBGJIGO": 0.20000000298023224
+    },
+    {
+        "id": 200903,
+        "fEGLKPNLCOB": 10.0,
+        "cityId": 3,
+        "jBIJMBGJIGO": 0.20000000298023224
+    },
+    {
+        "id": 200904,
+        "fEGLKPNLCOB": 10.0,
+        "hIAPPNKCDLF": 2.0,
+        "cEMOGOEEBLN": 14.0
+    }
+]

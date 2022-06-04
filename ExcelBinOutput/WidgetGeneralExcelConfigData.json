@@ -1,0 +1,442 @@
+[
+    {
+        "materialID": 220001,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220002,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220003,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220004,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [
+            22
+        ],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220005,
+        "bLEPHFCELAP": [
+            4,
+            7
+        ],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220006,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [
+            12,
+            18,
+            22
+        ],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220008,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInAvatarFocus": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [
+            17,
+            18,
+            22,
+            24
+        ],
+        "dCEECKHAHEI": [
+            3
+        ]
+    },
+    {
+        "materialID": 220009,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220013,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220014,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220015,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220016,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220017,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseWhenFight": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220018,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenCurrentAvatarDead": true,
+        "canUseInLimitRegion": true,
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInAvatarFocus": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220019,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenCurrentAvatarDead": true,
+        "canUseInLimitRegion": true,
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInAvatarFocus": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220020,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenCurrentAvatarDead": true,
+        "canUseInLimitRegion": true,
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInAvatarFocus": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220021,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220022,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220023,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220024,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [
+            22
+        ],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220025,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220026,
+        "bLEPHFCELAP": [],
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220027,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220028,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "kBDEAGJLPNC": "VEHICLE_LIMIT_ONLY_VEHICLE",
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220029,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220030,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220031,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220032,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220033,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220034,
+        "bLEPHFCELAP": [
+            7
+        ],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220035,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [
+            22
+        ],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220036,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220037,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220038,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220039,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220040,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220042,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220043,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220044,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220045,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInLimitRegion": true,
+        "canUseInDungeon": true,
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220046,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220047,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220048,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInDungeon": true,
+        "forbiddenDungeonList": [
+            22
+        ],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220049,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "canUseInAvatarFocus": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220050,
+        "canUseInOtherWorld": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220051,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    },
+    {
+        "materialID": 220052,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "bLEPHFCELAP": [],
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "forbiddenDungeonList": [],
+        "dCEECKHAHEI": []
+    }
+]

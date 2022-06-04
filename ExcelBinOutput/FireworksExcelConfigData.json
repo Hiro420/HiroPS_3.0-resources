@@ -1,0 +1,602 @@
+[
+    {
+        "materialID": 223001,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 230,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    410
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_01",
+        "fCCPFGPEOCH": 860837618
+    },
+    {
+        "materialID": 223002,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 269,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    89,
+                    449
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_02",
+        "fCCPFGPEOCH": 1654748746
+    },
+    {
+        "materialID": 223003,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 200,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    20,
+                    380
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_03",
+        "fCCPFGPEOCH": 414667370
+    },
+    {
+        "materialID": 223004,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 380,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    200,
+                    560
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_04",
+        "fCCPFGPEOCH": 188220194
+    },
+    {
+        "materialID": 223005,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 380,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    200,
+                    560
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_05",
+        "fCCPFGPEOCH": 1680932714
+    },
+    {
+        "materialID": 223006,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 380,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    200,
+                    560
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "gJJFDHNOEEA": []
+            }
+        ],
+        "hBLENLKPNFJ": "SphericalFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_06",
+        "fCCPFGPEOCH": 2645318090
+    },
+    {
+        "materialID": 223007,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 522,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    342,
+                    702
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_01",
+        "fCCPFGPEOCH": 1916046458
+    },
+    {
+        "materialID": 223008,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 318,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    138,
+                    498
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_02",
+        "fCCPFGPEOCH": 3178253162
+    },
+    {
+        "materialID": 223009,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 400,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    220,
+                    580
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_03",
+        "fCCPFGPEOCH": 2544560218
+    },
+    {
+        "materialID": 223010,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 380,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    200,
+                    560
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_04",
+        "fCCPFGPEOCH": 3374634530
+    },
+    {
+        "materialID": 223011,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 318,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    138,
+                    498
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_05",
+        "fCCPFGPEOCH": 1269098234
+    },
+    {
+        "materialID": 223012,
+        "hBKKDGCGOIO": [
+            {
+                "type": "FIREWORKS_REFORM_PARAM_COLOR",
+                "kHJKBJIDLCL": 380,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    200,
+                    560
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_SIZE",
+                "kHJKBJIDLCL": 100,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    50,
+                    150
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+                "kHJKBJIDLCL": 14,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    8,
+                    30
+                ]
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+                "kHJKBJIDLCL": 100,
+                "gJJFDHNOEEA": []
+            },
+            {
+                "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+                "kHJKBJIDLCL": 360,
+                "kDLHOELDEIF": true,
+                "gJJFDHNOEEA": [
+                    180,
+                    540
+                ]
+            }
+        ],
+        "hBLENLKPNFJ": "PatternShapeFireworks",
+        "eMJJHHCCINE": "Eff_SceneObj_Fireworks_Bullet",
+        "kCIIHKGCFOH": "Eff_SceneObj_Fireworks_Shape_06",
+        "fCCPFGPEOCH": 2726657050
+    }
+]

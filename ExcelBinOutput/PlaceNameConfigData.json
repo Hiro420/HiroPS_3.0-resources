@@ -1,0 +1,130 @@
+[
+    {
+        "bPMJNPJBACC": "Abyssalisle",
+        "pBJIDLDHKJN": "200_6",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "16",
+        "oCBOAEKFEJG": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "Abyssalisle",
+        "pBJIDLDHKJN": "200_7",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "16",
+        "oCBOAEKFEJG": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "Abyssalisle",
+        "pBJIDLDHKJN": "200_8",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "16",
+        "oCBOAEKFEJG": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_1",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "10",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_2",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "11",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_3",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "12",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_4",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "13",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_5",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "14",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "MichiaeMatsuri",
+        "pBJIDLDHKJN": "210_6",
+        "conditionType": "ErosionArea",
+        "nDMDCKPJBBK": "15",
+        "oCBOAEKFEJG": "",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_1",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "18",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_2",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "18",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_3",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "22",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_4",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "20",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_5",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "21",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_6",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "23",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "bPMJNPJBACC": "TheChasm",
+        "pBJIDLDHKJN": "300_7",
+        "conditionType": "MapArea",
+        "nDMDCKPJBBK": "22",
+        "oCBOAEKFEJG": "迷雾开启",
+        "actionType": "Close"
+    }
+]

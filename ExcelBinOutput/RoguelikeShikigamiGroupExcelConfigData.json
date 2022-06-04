@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_ADD_CARD_TYPE_WEIGHT",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "SR,2"
+        }
+    },
+    {
+        "id": 2,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "增益球,3"
+        }
+    },
+    {
+        "id": 3,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "破碎物,10"
+        }
+    },
+    {
+        "id": 4,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "爆炸物,5"
+        }
+    },
+    {
+        "id": 5,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_ADD_RUNE_MAX_COUNT",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "1"
+        }
+    },
+    {
+        "id": 6,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_SUB_CURSE_PROB",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "4"
+        }
+    },
+    {
+        "id": 7,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_PROB_FREE_REFRESH_CARD",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "100,2"
+        }
+    },
+    {
+        "id": 8,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_ADD_CARD_TYPE_WEIGHT_ROOM_FIRST",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "SSR,20"
+        }
+    },
+    {
+        "id": 9,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_AT_MOST_TRAP_COUNT",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "5"
+        }
+    },
+    {
+        "id": 10,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_SPRING_AND_BOSS",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": ""
+        }
+    },
+    {
+        "id": 11,
+        "gINDIBDOJLN": {
+            "effectType": "ROGUELIKE_EFFECT_AT_LEAST_STORE_COUNT",
+            "nJKCAPLEHDB": "",
+            "mHDOGGAPKIC": "3"
+        }
+    }
+]

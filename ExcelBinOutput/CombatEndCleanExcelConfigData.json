@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "lAJHAOOOIDH": "COMBAT_END_TOWER_HALF_LEVEL_END",
+        "hFBALDBFOOH": [
+            "Corruption",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 2,
+        "lAJHAOOOIDH": "COMBAT_END_TOWER_LEVEL_END",
+        "hFBALDBFOOH": [
+            "Corruption",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 3,
+        "lAJHAOOOIDH": "COMBAT_END_DUNGEON_SETTLE",
+        "hFBALDBFOOH": [
+            "Corruption",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 4,
+        "lAJHAOOOIDH": "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END",
+        "hFBALDBFOOH": [
+            "Corruption",
+            "None",
+            "None"
+        ]
+    }
+]

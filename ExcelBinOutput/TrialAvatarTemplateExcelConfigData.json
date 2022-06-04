@@ -1,0 +1,119 @@
+[
+    {
+        "trialAvatarLevel": 1,
+        "trialReliquaryList": [
+            1,
+            2
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 1
+    },
+    {
+        "trialAvatarLevel": 10,
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 1
+    },
+    {
+        "trialAvatarLevel": 20,
+        "trialReliquaryList": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 1
+    },
+    {
+        "trialAvatarLevel": 30,
+        "trialReliquaryList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 1
+    },
+    {
+        "trialAvatarLevel": 40,
+        "trialReliquaryList": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 1
+    },
+    {
+        "trialAvatarLevel": 45,
+        "trialReliquaryList": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 2
+    },
+    {
+        "trialAvatarLevel": 55,
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 4
+    },
+    {
+        "trialAvatarLevel": 65,
+        "trialReliquaryList": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 5
+    },
+    {
+        "trialAvatarLevel": 75,
+        "trialReliquaryList": [
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 6
+    },
+    {
+        "trialAvatarLevel": 85,
+        "trialReliquaryList": [
+            91,
+            92,
+            93,
+            94,
+            95
+        ],
+        "trialTalentList": [],
+        "trialAvatarSkillLevel": 8
+    }
+]

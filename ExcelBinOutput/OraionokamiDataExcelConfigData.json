@@ -1,0 +1,227 @@
+[
+    {
+        "configId": 1,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 1,
+        "serverBuffId": 500301,
+        "nLABLBEJBJE": [
+            1000021
+        ],
+        "iADHCMGHDMD": 2271439969,
+        "hAIAMDCKNOF": 3599237299,
+        "mFABKGDCCEI": 1068994669,
+        "groupId": 1,
+        "jDOEOJDKGAG": 1,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 2,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 2,
+        "serverBuffId": 500302,
+        "nLABLBEJBJE": [
+            1000022
+        ],
+        "iADHCMGHDMD": 2707465369,
+        "hAIAMDCKNOF": 556464043,
+        "mFABKGDCCEI": 245718989,
+        "groupId": 2,
+        "jDOEOJDKGAG": 1,
+        "iconPath": "UI_Skill_OR_Icon3"
+    },
+    {
+        "configId": 3,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 3,
+        "serverBuffId": 500303,
+        "nLABLBEJBJE": [
+            1000023
+        ],
+        "iADHCMGHDMD": 3352197417,
+        "hAIAMDCKNOF": 2507971243,
+        "mFABKGDCCEI": 906778093,
+        "groupId": 1,
+        "jDOEOJDKGAG": 1,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 4,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 4,
+        "serverBuffId": 500304,
+        "nLABLBEJBJE": [
+            1000024
+        ],
+        "iADHCMGHDMD": 1597063017,
+        "hAIAMDCKNOF": 3677334179,
+        "mFABKGDCCEI": 2381920869,
+        "groupId": 3,
+        "jDOEOJDKGAG": 1,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 5,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 5,
+        "serverBuffId": 500305,
+        "nLABLBEJBJE": [
+            1000025
+        ],
+        "iADHCMGHDMD": 3628282641,
+        "hAIAMDCKNOF": 4190599131,
+        "mFABKGDCCEI": 864689101,
+        "groupId": 1,
+        "jDOEOJDKGAG": 1,
+        "iconPath": "UI_Skill_OR_Icon2"
+    },
+    {
+        "configId": 6,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 6,
+        "serverBuffId": 500307,
+        "nLABLBEJBJE": [
+            1000027
+        ],
+        "iADHCMGHDMD": 2890502785,
+        "hAIAMDCKNOF": 908945867,
+        "mFABKGDCCEI": 2736983877,
+        "groupId": 1,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 7,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 7,
+        "serverBuffId": 500306,
+        "nLABLBEJBJE": [
+            1000026
+        ],
+        "iADHCMGHDMD": 1771758561,
+        "hAIAMDCKNOF": 2285319083,
+        "mFABKGDCCEI": 3653891109,
+        "groupId": 3,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 8,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 8,
+        "serverBuffId": 500308,
+        "nLABLBEJBJE": [
+            1000028
+        ],
+        "iADHCMGHDMD": 1686237393,
+        "hAIAMDCKNOF": 2369553707,
+        "mFABKGDCCEI": 3744532773,
+        "groupId": 1,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 9,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 9,
+        "serverBuffId": 500309,
+        "nLABLBEJBJE": [
+            1000029
+        ],
+        "iADHCMGHDMD": 858829921,
+        "hAIAMDCKNOF": 2834402475,
+        "mFABKGDCCEI": 4048653405,
+        "groupId": 3,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 10,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 10,
+        "serverBuffId": 500310,
+        "nLABLBEJBJE": [
+            1000030
+        ],
+        "iADHCMGHDMD": 1164351753,
+        "hAIAMDCKNOF": 3098750811,
+        "mFABKGDCCEI": 3494132189,
+        "groupId": 4,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon5"
+    },
+    {
+        "configId": 11,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 11,
+        "serverBuffId": 500311,
+        "nLABLBEJBJE": [
+            1000031
+        ],
+        "iADHCMGHDMD": 3286669585,
+        "hAIAMDCKNOF": 1363894547,
+        "mFABKGDCCEI": 2619193701,
+        "groupId": 1,
+        "jDOEOJDKGAG": 2,
+        "iconPath": "UI_Skill_OR_Icon2"
+    },
+    {
+        "configId": 12,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 12,
+        "serverBuffId": 500313,
+        "nLABLBEJBJE": [
+            1000033
+        ],
+        "iADHCMGHDMD": 1836840201,
+        "hAIAMDCKNOF": 58250851,
+        "mFABKGDCCEI": 1563220285,
+        "groupId": 1,
+        "jDOEOJDKGAG": 3,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 13,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 13,
+        "serverBuffId": 500312,
+        "nLABLBEJBJE": [
+            1000032
+        ],
+        "iADHCMGHDMD": 3039576801,
+        "hAIAMDCKNOF": 949609747,
+        "mFABKGDCCEI": 485036565,
+        "groupId": 4,
+        "jDOEOJDKGAG": 3,
+        "iconPath": "UI_Skill_OR_Icon5"
+    },
+    {
+        "configId": 14,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 14,
+        "serverBuffId": 500314,
+        "nLABLBEJBJE": [
+            1000034
+        ],
+        "iADHCMGHDMD": 3038389553,
+        "hAIAMDCKNOF": 3970354419,
+        "mFABKGDCCEI": 3831392637,
+        "groupId": 1,
+        "jDOEOJDKGAG": 3,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 15,
+        "lKLPPCFJLPA": 100002,
+        "kDMAJPOEMOP": 15,
+        "serverBuffId": 500315,
+        "nLABLBEJBJE": [
+            1000035
+        ],
+        "iADHCMGHDMD": 1213329721,
+        "hAIAMDCKNOF": 572095083,
+        "mFABKGDCCEI": 3129295333,
+        "groupId": 4,
+        "jDOEOJDKGAG": 3,
+        "iconPath": "UI_Skill_OR_Icon5"
+    }
+]

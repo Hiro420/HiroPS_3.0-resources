@@ -1,0 +1,1524 @@
+[
+    {
+        "id": 1,
+        "monsterId": 28040201,
+        "itemId": 131000,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2010
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242001,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1013
+    },
+    {
+        "id": 2,
+        "monsterId": 28040202,
+        "itemId": 131001,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2010
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242002,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1014
+    },
+    {
+        "id": 3,
+        "monsterId": 28040203,
+        "itemId": 131002,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2010
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242003,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1015
+    },
+    {
+        "id": 4,
+        "monsterId": 28040204,
+        "itemId": 131003,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2010
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242004,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1016
+    },
+    {
+        "id": 5,
+        "monsterId": 28040205,
+        "itemId": 131004,
+        "hp": 96,
+        "aJGNCEFEOEI": [
+            2011
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242005,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1017
+    },
+    {
+        "id": 6,
+        "monsterId": 28040206,
+        "itemId": 131005,
+        "hp": 96,
+        "aJGNCEFEOEI": [
+            2011
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242006,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1018
+    },
+    {
+        "id": 7,
+        "monsterId": 28040301,
+        "itemId": 131006,
+        "hp": 60,
+        "aJGNCEFEOEI": [
+            2012
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242007,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 3,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1019
+    },
+    {
+        "id": 8,
+        "monsterId": 28040302,
+        "itemId": 131007,
+        "hp": 60,
+        "aJGNCEFEOEI": [
+            2012
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242008,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 3,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1020
+    },
+    {
+        "id": 9,
+        "monsterId": 28040303,
+        "itemId": 131008,
+        "hp": 60,
+        "aJGNCEFEOEI": [
+            2012
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242009,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 3,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1021
+    },
+    {
+        "id": 10,
+        "monsterId": 28040304,
+        "itemId": 131009,
+        "hp": 112,
+        "aJGNCEFEOEI": [
+            2013
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.5,
+        "rewardId": 242010,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1022
+    },
+    {
+        "id": 11,
+        "monsterId": 28040305,
+        "itemId": 131010,
+        "hp": 140,
+        "aJGNCEFEOEI": [
+            2014,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.5,
+        "rewardId": 242011,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1023
+    },
+    {
+        "id": 12,
+        "monsterId": 28040401,
+        "itemId": 131011,
+        "hp": 126,
+        "aJGNCEFEOEI": [
+            2015
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            40.0,
+            50.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242012,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1024
+    },
+    {
+        "id": 13,
+        "monsterId": 28040402,
+        "itemId": 131012,
+        "hp": 126,
+        "aJGNCEFEOEI": [
+            2015
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            40.0,
+            50.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242013,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1025
+    },
+    {
+        "id": 14,
+        "monsterId": 28040501,
+        "itemId": 131013,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2016
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242014,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1026
+    },
+    {
+        "id": 15,
+        "monsterId": 28040502,
+        "itemId": 131014,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2016
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242015,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1027
+    },
+    {
+        "id": 16,
+        "monsterId": 28040503,
+        "itemId": 131015,
+        "hp": 40,
+        "aJGNCEFEOEI": [
+            2016
+        ],
+        "nDIFDJJKOCK": 36,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            1.0,
+            1.5
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242016,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 5,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1028
+    },
+    {
+        "id": 17,
+        "monsterId": 28040504,
+        "itemId": 131016,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2017,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 242017,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1029
+    },
+    {
+        "id": 18,
+        "monsterId": 28040505,
+        "itemId": 131017,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2017,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            3.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 242018,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1030
+    },
+    {
+        "id": 20,
+        "monsterId": 28040601,
+        "itemId": 131019,
+        "hp": 170,
+        "aJGNCEFEOEI": [
+            2019
+        ],
+        "nDIFDJJKOCK": 30,
+        "nLFBANAMGGE": [
+            0.0,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            80
+        ],
+        "iPLOOONPOCC": [
+            5.0,
+            10.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242020,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1031
+    },
+    {
+        "id": 21,
+        "monsterId": 28040602,
+        "itemId": 131020,
+        "hp": 170,
+        "aJGNCEFEOEI": [
+            2019
+        ],
+        "nDIFDJJKOCK": 30,
+        "nLFBANAMGGE": [
+            0.0,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            80
+        ],
+        "iPLOOONPOCC": [
+            5.0,
+            10.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242021,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1032
+    },
+    {
+        "id": 22,
+        "monsterId": 28040701,
+        "itemId": 131021,
+        "hp": 97,
+        "aJGNCEFEOEI": [
+            2030,
+            1001
+        ],
+        "nDIFDJJKOCK": 30,
+        "nLFBANAMGGE": [
+            0.0,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242022,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1033
+    },
+    {
+        "id": 23,
+        "monsterId": 28040702,
+        "itemId": 131022,
+        "hp": 110,
+        "aJGNCEFEOEI": [
+            2030,
+            1001
+        ],
+        "nDIFDJJKOCK": 30,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            3.0,
+            5.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 242023,
+        "iPDJPAJFKMN": [],
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 1,
+        "oJHFLDAFGME": 1034
+    },
+    {
+        "id": 1001,
+        "monsterId": 28040201,
+        "itemId": 379001,
+        "hp": 120,
+        "aJGNCEFEOEI": [
+            2020
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243001,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 1,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1013
+    },
+    {
+        "id": 1002,
+        "monsterId": 28040202,
+        "itemId": 379002,
+        "hp": 120,
+        "aJGNCEFEOEI": [
+            2020
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243002,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 2,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1014
+    },
+    {
+        "id": 1003,
+        "monsterId": 28040203,
+        "itemId": 379003,
+        "hp": 120,
+        "aJGNCEFEOEI": [
+            2020
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243003,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 3,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1015
+    },
+    {
+        "id": 1004,
+        "monsterId": 28040204,
+        "itemId": 379004,
+        "hp": 120,
+        "aJGNCEFEOEI": [
+            2020
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243004,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 4,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1016
+    },
+    {
+        "id": 1005,
+        "monsterId": 28040205,
+        "itemId": 379005,
+        "hp": 180,
+        "aJGNCEFEOEI": [
+            2021
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243005,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 5,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1017
+    },
+    {
+        "id": 1006,
+        "monsterId": 28040206,
+        "itemId": 379006,
+        "hp": 180,
+        "aJGNCEFEOEI": [
+            2021
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            10,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243006,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 6,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1018
+    },
+    {
+        "id": 1007,
+        "monsterId": 28040301,
+        "itemId": 379007,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2022
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243007,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 7,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1019
+    },
+    {
+        "id": 1008,
+        "monsterId": 28040302,
+        "itemId": 379008,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2022
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243008,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 8,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1020
+    },
+    {
+        "id": 1009,
+        "monsterId": 28040303,
+        "itemId": 379009,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2022
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243009,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 9,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1021
+    },
+    {
+        "id": 1010,
+        "monsterId": 28040304,
+        "itemId": 379010,
+        "hp": 196,
+        "aJGNCEFEOEI": [
+            2023
+        ],
+        "nDIFDJJKOCK": 24,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.5,
+        "rewardId": 243010,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 10,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1022
+    },
+    {
+        "id": 1011,
+        "monsterId": 28040305,
+        "itemId": 379011,
+        "hp": 175,
+        "aJGNCEFEOEI": [
+            2024,
+            2001,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.5,
+        "rewardId": 243011,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 11,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1023
+    },
+    {
+        "id": 1012,
+        "monsterId": 28040401,
+        "itemId": 379012,
+        "hp": 180,
+        "aJGNCEFEOEI": [
+            2025
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            40.0,
+            50.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243012,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 12,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1024
+    },
+    {
+        "id": 1013,
+        "monsterId": 28040402,
+        "itemId": 379013,
+        "hp": 180,
+        "aJGNCEFEOEI": [
+            2025
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            40.0,
+            50.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243013,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 13,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1025
+    },
+    {
+        "id": 1014,
+        "monsterId": 28040501,
+        "itemId": 379014,
+        "hp": 140,
+        "aJGNCEFEOEI": [
+            2026
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243014,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 14,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1026
+    },
+    {
+        "id": 1015,
+        "monsterId": 28040502,
+        "itemId": 379015,
+        "hp": 140,
+        "aJGNCEFEOEI": [
+            2026
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.4000000953674316,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243015,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 15,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1027
+    },
+    {
+        "id": 1016,
+        "monsterId": 28040503,
+        "itemId": 379016,
+        "hp": 140,
+        "aJGNCEFEOEI": [
+            2026
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            10.0,
+            20.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243016,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 16,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1028
+    },
+    {
+        "id": 1017,
+        "monsterId": 28040504,
+        "itemId": 379017,
+        "hp": 88,
+        "aJGNCEFEOEI": [
+            2027,
+            2002,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.0,
+        "rewardId": 243017,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 17,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1029
+    },
+    {
+        "id": 1018,
+        "monsterId": 28040505,
+        "itemId": 379018,
+        "hp": 88,
+        "aJGNCEFEOEI": [
+            2027,
+            2002,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243018,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 18,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1030
+    },
+    {
+        "id": 1019,
+        "monsterId": 28040506,
+        "itemId": 379019,
+        "hp": 88,
+        "aJGNCEFEOEI": [
+            2028,
+            2000,
+            1000
+        ],
+        "nDIFDJJKOCK": 20,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            15,
+            30
+        ],
+        "iPLOOONPOCC": [
+            25.0,
+            40.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 2.0,
+        "lHHEDIFKJBA": 1.2000000476837158,
+        "rewardId": 243019,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 19,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2
+    },
+    {
+        "id": 1020,
+        "monsterId": 28040601,
+        "itemId": 379020,
+        "hp": 255,
+        "aJGNCEFEOEI": [
+            2029
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            0.0,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            80
+        ],
+        "iPLOOONPOCC": [
+            5.0,
+            10.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243020,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 20,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1031
+    },
+    {
+        "id": 1021,
+        "monsterId": 28040602,
+        "itemId": 379021,
+        "hp": 255,
+        "aJGNCEFEOEI": [
+            2029
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            0.0,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            80
+        ],
+        "iPLOOONPOCC": [
+            5.0,
+            10.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243021,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 21,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1032
+    },
+    {
+        "id": 1022,
+        "monsterId": 28040701,
+        "itemId": 379022,
+        "hp": 110,
+        "aJGNCEFEOEI": [
+            2031,
+            1002
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243022,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 22,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1033
+    },
+    {
+        "id": 1023,
+        "monsterId": 28040702,
+        "itemId": 379023,
+        "hp": 125,
+        "aJGNCEFEOEI": [
+            2031,
+            1002
+        ],
+        "nDIFDJJKOCK": 28,
+        "nLFBANAMGGE": [
+            1.0,
+            2.0
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            20.0,
+            30.0
+        ],
+        "oFBCHGIEOLK": [
+            2.0,
+            8.0
+        ],
+        "eJEGHIHFPMA": 3.0,
+        "lHHEDIFKJBA": 1.7000000476837158,
+        "rewardId": 243023,
+        "iPDJPAJFKMN": [],
+        "jGEDJIOLJPM": 23,
+        "nMNLJOJHDNJ": 1,
+        "bNMBCECAPBM": 2,
+        "oJHFLDAFGME": 1034
+    }
+]

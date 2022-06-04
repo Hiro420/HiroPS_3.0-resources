@@ -1,0 +1,4591 @@
+[
+    {
+        "id": 100201,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100202,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 100203,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100204,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "Icespine",
+            "Icespine_Out"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100205,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "FrozenWindmill",
+            "FrozenWindmill_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100206,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100207,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100208,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "LiquidStrike_BS_0",
+            "LiquidStrike_BS",
+            "LiquidStrike_BS1",
+            "LiquidStrike_Move",
+            "LiquidStrike_AS",
+            "LiquidStrike_MoveStandby",
+            "LiquidStrike_AS_OnWater",
+            "LiquidStrike_FatalMove",
+            "LiquidStrike_FatalStandby",
+            "LiquidStrike_Strike"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100209,
+        "nMJFIKBGPGG": 10000002,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100301,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100302,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 100303,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100304,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [
+            "VortexSmash_BS",
+            "VortexSmash_Strike",
+            "VortexSmash_Charge_01",
+            "VortexSmash_Strike_01",
+            "VortexSmash_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100305,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [
+            "DandelionWind",
+            "DandelionWind_Out"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100306,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100307,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100308,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 100309,
+        "nMJFIKBGPGG": 10000003,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100501,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100502,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 100503,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100504,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "UziExplode_BS",
+            "UziExplode_BS_1",
+            "UziExplode_Charge_01",
+            "UziExplode_Charge_02",
+            "UziExplode_Strike_01",
+            "UziExplode_Strike_02",
+            "UziExplode_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100505,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "WindBreathe",
+            "WindBreathe_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100506,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "Hogyoku_BS",
+            "Hogyoku_Charge",
+            "Hogyoku_Charge_2",
+            "Hogyoku_Charge_AS",
+            "Hogyoku",
+            "Hogyoku_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100507,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "RockTide",
+            "RockTide_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100508,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "Player_Electric_ElementalArt",
+            "Player_Electric_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100509,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "Player_Electric_ElementalBurst",
+            "Player_Electric_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100510,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100511,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100512,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 100513,
+        "nMJFIKBGPGG": 10000005,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100601,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100602,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 100603,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100604,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [
+            "Lisa_FlickerWave_BS",
+            "Lisa_FlickerWave",
+            "Lisa_FlickerWave_AS",
+            "Lisa_ThunderFall_Charge",
+            "Lisa_ThunderFall_Ready",
+            "Lisa_ThunderFall_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100605,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [
+            "PierceLightning",
+            "PierceLightning_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100606,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100607,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100608,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 100609,
+        "nMJFIKBGPGG": 10000006,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100701,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100702,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 100703,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100704,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "UziExplode_BS",
+            "UziExplode_BS_1",
+            "UziExplode_Charge_01",
+            "UziExplode_Charge_02",
+            "UziExplode_Strike_01",
+            "UziExplode_Strike_02",
+            "UziExplode_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100705,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "WindBreathe",
+            "WindBreathe_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100706,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "Hogyoku_BS",
+            "Hogyoku_Charge",
+            "Hogyoku_Charge_2",
+            "Hogyoku_Charge_AS",
+            "Hogyoku",
+            "Hogyoku_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100707,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "RockTide",
+            "RockTide_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100708,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "Player_Electric_ElementalArt",
+            "Player_Electric_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100709,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "Player_Electric_ElementalBurst",
+            "Player_Electric_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 100710,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100711,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 100712,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 100713,
+        "nMJFIKBGPGG": 10000007,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101401,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101402,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 101403,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101404,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [
+            "Barbara_WetShiled_BS",
+            "Barbara_WetShiled"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101405,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [
+            "Barbara_IdolHeal_BS",
+            "Barbara_IdolHeal"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101406,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101407,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101408,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 101409,
+        "nMJFIKBGPGG": 10000014,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101501,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101502,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 101503,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101504,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [
+            "IceShield",
+            "IceShield_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101505,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [
+            "FrozenTrap",
+            "FrozenTrap_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101506,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101507,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101508,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 101509,
+        "nMJFIKBGPGG": 10000015,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101601,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack01_BS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101602,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 101603,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101604,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [
+            "FireBlade1",
+            "FireBlade1A",
+            "FireBlade2",
+            "FireBlade2A",
+            "FireBlade3",
+            "FireBlade3A"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101605,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [
+            "FireCross",
+            "FireCross_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 101606,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101607,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 101608,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 101609,
+        "nMJFIKBGPGG": 10000016,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102001,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [
+            "Attack01_BS",
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102002,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102003,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102004,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [
+            "Razor_ClawMark_BS",
+            "Razor_ClawMark_Charge",
+            "Razor_ClawMark_Burst",
+            "Razor_ClawMark_Burst_AS",
+            "Razor_ClawMark_Click",
+            "Razor_ClawMark_Click_AS",
+            "Razor_ClawMark_Click_Lycan",
+            "Razor_ClawMark_Click_Lycan_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102005,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [
+            "Razor_LycanMode",
+            "Razor_LycanMode_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102006,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102007,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102008,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102009,
+        "nMJFIKBGPGG": 10000020,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102101,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102102,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102103,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102104,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [
+            "Dummy_PreForRun",
+            "Dummy_PreForWalk",
+            "Dummy_Holdup",
+            "Dummy_Short",
+            "Dummy_Short_AS",
+            "Dummy_Loop",
+            "Dummy_4M",
+            "Dummy_4M_AS",
+            "Dummy_7M",
+            "Dummy_7M_AS",
+            "Dummy_10M",
+            "Dummy_10M_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102105,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [
+            "ArrowRain"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102106,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102107,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102108,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102109,
+        "nMJFIKBGPGG": 10000021,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102201,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102202,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102203,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102204,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [
+            "WindBlade_Rise_BS",
+            "WindBlade_Land",
+            "WindBlade_Rise_Charge",
+            "WindBlade_Rise_Charge_1",
+            "WindBlade",
+            "WindBlade_RiseUp",
+            "WindBlade_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102205,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [
+            "Hurricane_BS",
+            "Hurricane",
+            "Hurricane_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102206,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102207,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102208,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102209,
+        "nMJFIKBGPGG": 10000022,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102301,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102302,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102303,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102304,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [
+            "PandaFire_Stand",
+            "PandaFire_Run",
+            "PandaFire_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102305,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [
+            "FireCircle",
+            "FireCircle_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102306,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102307,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102308,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102309,
+        "nMJFIKBGPGG": 10000023,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102401,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [
+            "Attack01_BS",
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102402,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102403,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102404,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [
+            "ThunderCounter_BS",
+            "ThunderCounter_Loop1",
+            "ThunderCounter_Loop2",
+            "ThunderCounter_Loop3",
+            "ThunderCounter_Cast_Stage1",
+            "ThunderCounter_Cast_Stage2",
+            "ThunderCounter_Cast_Stage3",
+            "ThunderCounter_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102405,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [
+            "ThunderShield",
+            "ThunderShield_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102406,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102407,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102408,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102409,
+        "nMJFIKBGPGG": 10000024,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102501,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102502,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102503,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102504,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [
+            "Spoondrift",
+            "Spoondrift_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102505,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [
+            "Minazuki",
+            "Minazuki_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102506,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102507,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102508,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102509,
+        "nMJFIKBGPGG": 10000025,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102601,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102602,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102603,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_AS",
+            "ExtraAttack",
+            "ExtraAttack_BS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102604,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [
+            "DevilDash",
+            "DevilDash_AS",
+            "DevilDashAir",
+            "DevilDashAir_AS_High",
+            "DevilDashAir_AS_Low"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102605,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [
+            "Xiao_HowlingSoul",
+            "Xiao_HowlingSoul_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102606,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102607,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102608,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102609,
+        "nMJFIKBGPGG": 10000026,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102701,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102702,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102703,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102704,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [
+            "ServantStone_BS",
+            "ServantStone"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102705,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [
+            "GemStone_Impact",
+            "GemStone_Impact_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102706,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102707,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102708,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102709,
+        "nMJFIKBGPGG": 10000027,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102901,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102902,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 102903,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102904,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [
+            "Klee_ElementalArt",
+            "Klee_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102905,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [
+            "Klee_ElementalBurst",
+            "Klee_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 102906,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102907,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 102908,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 102909,
+        "nMJFIKBGPGG": 10000029,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103001,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103002,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103003,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103004,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [
+            "PillarOrShield_BS",
+            "PillarOrShield_Charge",
+            "PrimoPillar",
+            "PrimoPillar_AS",
+            "RockShield",
+            "RockShield_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103005,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [
+            "GeoOrder",
+            "GeoOrder_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103006,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103007,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103008,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103009,
+        "nMJFIKBGPGG": 10000030,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103101,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103102,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103103,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103104,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [
+            "SummonCrow_BS",
+            "SummonCrow",
+            "SummonCrow_AS",
+            "SummonCrow_Charge",
+            "SummonCrow_Charge_Loop",
+            "SummonCrow_Charge_2",
+            "SummonCrow_Charge_AS",
+            "ControlCrow",
+            "ControlCrow_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103105,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [
+            "CrowQueen_BS",
+            "CrowQueen",
+            "CrowQueen_Move",
+            "CrowQueen_MoveStandby",
+            "CrowQueen_AS",
+            "CrowQueen_AS_OnWeater"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103106,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103107,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103108,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103109,
+        "nMJFIKBGPGG": 10000031,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103201,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103202,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103203,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103204,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [
+            "BennettElementalArt_BS",
+            "BennettElementalArt_01",
+            "BennettElementalArt_Strike01",
+            "BennettElementalArt_Strike01_As",
+            "BennettElementalArt_02",
+            "BennettElementalArt_Strike02",
+            "BennettElementalArt_Strike02_00",
+            "BennettElementalArt_Strike02_00_AS",
+            "BennettElementalArt_Strike02_01",
+            "BennettElementalArt_Strike02_01_AS",
+            "BennettElementalArt_03",
+            "BennettElementalArt_Strike03",
+            "BennettElementalArt_Strike03_01",
+            "BennettElementalArt_Strike03_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103205,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103206,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103207,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103208,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103209,
+        "nMJFIKBGPGG": 10000032,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103301,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [
+            "Tartaglia_Attack01",
+            "Tartaglia_Attack02",
+            "Tartaglia_Attack03",
+            "Tartaglia_Attack04",
+            "Tartaglia_Attack05",
+            "Tartaglia_Attack06",
+            "Gandalfr_Attack01",
+            "Gandalfr_Attack02",
+            "Gandalfr_Attack03",
+            "Gandalfr_Attack04",
+            "Gandalfr_Attack05",
+            "Gandalfr_Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103302,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103303,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop",
+            "Gandalfr_ExtraAttack",
+            "Gandalfr_ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103304,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [
+            "Gandalfr_Start",
+            "Gandalfr_Start_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103305,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [
+            "AquariaBlade_Melee",
+            "AquariaBlade_Melee_AS",
+            "AquariaBlade_Range",
+            "AquariaBlade_Range_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103306,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103307,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103308,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103309,
+        "nMJFIKBGPGG": 10000033,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103401,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103402,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103403,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103404,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [
+            "Noel_Skill_S_BS",
+            "Noel_Skill_S",
+            "Noel_Skill_S_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103405,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [
+            "Noel_Skill_E",
+            "Noel_Skill_E_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103406,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103407,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103408,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103409,
+        "nMJFIKBGPGG": 10000034,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103501,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103502,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103503,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103504,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [
+            "Qiqi_ElementalArt",
+            "Qiqi_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103505,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [
+            "Qiqi_ElementalBurst",
+            "Qiqi_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103506,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103507,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103508,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103509,
+        "nMJFIKBGPGG": 10000035,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103601,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103602,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103603,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103604,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [
+            "Chongyun_SoulBlade",
+            "Chongyun_SoulBlade_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103605,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [
+            "Chongyun_SoulUnleash",
+            "Chongyun_SoulUnleash_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103606,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103607,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103608,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103609,
+        "nMJFIKBGPGG": 10000036,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103701,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103702,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103703,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103704,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [
+            "IceBreaker_BS",
+            "IceBreaker",
+            "IceBreaker_Release_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103705,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [
+            "UnbreakableIce",
+            "UnbreakableIce_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103706,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103707,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103708,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103709,
+        "nMJFIKBGPGG": 10000037,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103801,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103802,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103803,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103804,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [
+            "FullRockAlchemist_BS",
+            "FullRockAlchemist",
+            "FullRockAlchemist_AS",
+            "FullRockAlchemist_Charge",
+            "FullRockAlchemist_Custom",
+            "FullRockAlchemist_Custom_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103805,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [
+            "AlchemicalBreakOut",
+            "AlchemicalBreakOut_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103806,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103807,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103808,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103809,
+        "nMJFIKBGPGG": 10000038,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103901,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103902,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 103903,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103904,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [
+            "Flask_BS",
+            "Flask_Short",
+            "Flask_Short_AS",
+            "Flask_Charge",
+            "Flask_Long_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103905,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [
+            "DionaElementalBurst",
+            "DionaElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 103906,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103907,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 103908,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 103909,
+        "nMJFIKBGPGG": 10000039,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104101,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack03_Back",
+            "Attack03_Forward",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104102,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104103,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104104,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "Mona_Phantom_CheckIsBlink",
+            "Mona_Phantom_BS",
+            "Mona_Phantom",
+            "Mona_Phantom_AS",
+            "Mona_Phantom_Blink_BS",
+            "Mona_Phantom_Blink",
+            "Mona_Phantom_Blink_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104105,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "Mona_StarChart",
+            "Mona_StarChart_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104106,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104107,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104108,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "LiquidStrike_BS_0",
+            "LiquidStrike_BS",
+            "LiquidStrike_BS1",
+            "LiquidStrike_Move",
+            "LiquidStrike_AS",
+            "LiquidStrike_MoveStandby",
+            "LiquidStrike_AS_OnWater"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104109,
+        "nMJFIKBGPGG": 10000041,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104201,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104202,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104203,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104204,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [
+            "Electrans_BS",
+            "Electrans",
+            "Electrans_AS",
+            "Electrans_Charge_Loop",
+            "Electrans_Charge_Cast",
+            "Electrans_Charge_AS",
+            "Electrans_FlyAir",
+            "Electrans_FlyAir_AS",
+            "Electrans_Fly",
+            "Electrans_Fly_AS",
+            "Electrans_Ground",
+            "Electrans_Ground_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104205,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [
+            "ElementalBurst_BS",
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104206,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104207,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104208,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104209,
+        "nMJFIKBGPGG": 10000042,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104301,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104302,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104303,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104304,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [
+            "Sucrose_WindBlackHole",
+            "Sucrose_WindBlackHole_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104305,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [
+            "Sucrose_DemiHurricane",
+            "Sucrose_DemiHurricane_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104306,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104307,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104308,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104309,
+        "nMJFIKBGPGG": 10000043,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104401,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104402,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104403,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104404,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [
+            "Xinyan_ElementalArt",
+            "Xinyan_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104405,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [
+            "Xinyan_ElementalBurst",
+            "Xinyan_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104406,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104407,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104408,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104409,
+        "nMJFIKBGPGG": 10000044,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104501,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104502,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104503,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104504,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [
+            "Rosaria_ElementalArt_BS",
+            "Rosaria_ElementalArt_HasTarget",
+            "Rosaria_ElementalArt_NoTarget",
+            "Rosaria_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104505,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [
+            "Rosaria_ElementalBurst_01",
+            "Rosaria_ElementalBurst_02",
+            "Rosaria_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104506,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104507,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104508,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104509,
+        "nMJFIKBGPGG": 10000045,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104601,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Attack06"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104602,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104603,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS",
+            "CrimsonPlum_ExtraAttack",
+            "CrimsonPlum_ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104604,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [
+            "CrimsonPlum",
+            "CrimsonPlum_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104605,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [
+            "VermilionBite",
+            "VermilionBite_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104606,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104607,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104608,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104609,
+        "nMJFIKBGPGG": 10000046,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104701,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104702,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104703,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104704,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [
+            "Kazuha_ElementalArt_BS",
+            "Kazuha_ElementalArt_Landed",
+            "Kazuha_ElementalArt_Air",
+            "Kazuha_ElementalArt_Charge",
+            "Kazuha_ElementalArt_Hold",
+            "Kazuha_ElementalArt_Hold_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104705,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [
+            "Kazuha_ElementalBurst",
+            "Kazuha_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104706,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104707,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104708,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104709,
+        "nMJFIKBGPGG": 10000047,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104801,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104802,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104803,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104804,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [
+            "ElementalArt_BS",
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104805,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [
+            "ElementalBurst_BS",
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104806,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104807,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104808,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104809,
+        "nMJFIKBGPGG": 10000048,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104901,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104902,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 104903,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104904,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104905,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [
+            "ElementalBurst",
+            "ElementalBurst_AS_Begin",
+            "ElementalBurst_AS_Loop",
+            "ElementalBurst_AS_END"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 104906,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104907,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 104908,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 104909,
+        "nMJFIKBGPGG": 10000049,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105001,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105002,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105003,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105004,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105005,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105006,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105007,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105008,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105009,
+        "nMJFIKBGPGG": 10000050,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105101,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105102,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105103,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105104,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [
+            "Eula_ElementalArt_BS",
+            "Eula_ElementalArt_Click",
+            "Eula_ElementalArt_Click_AS",
+            "Eula_ElementalArt_Burst",
+            "Eula_ElementalArt_Burst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105105,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [
+            "Eula_ElementalBurst",
+            "Eula_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105106,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105107,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105108,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105109,
+        "nMJFIKBGPGG": 10000051,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105201,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Katana_Attack01",
+            "Katana_Attack02",
+            "Katana_Attack03",
+            "Katana_Attack04",
+            "Katana_Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105202,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105203,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS",
+            "Katana_ExtraAttack",
+            "Katana_ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105204,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [
+            "Shougun_ElementalArt",
+            "Shougun_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105205,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [
+            "Shougun_ElementalBurst",
+            "Shougun_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105206,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105207,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105208,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105209,
+        "nMJFIKBGPGG": 10000052,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105301,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105302,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105303,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105304,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [
+            "Sayu_ElementalArt_BS",
+            "Sayu_ElementalArt_Charge",
+            "Sayu_ElementalArt_Roll",
+            "Sayu_ElementalArt_Hold_Roll",
+            "Sayu_ElementalArt_Strike",
+            "Sayu_ElementalArt_Hold_Strike",
+            "Sayu_ElementalArt_AS",
+            "Sayu_ElementalArt_Hold_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105305,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [
+            "Sayu_ElementalBurst",
+            "Sayu_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105306,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105307,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105308,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105309,
+        "nMJFIKBGPGG": 10000053,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105401,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105402,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105403,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105404,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [
+            "Kokomi_ElementalArt",
+            "Kokomi_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105405,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [
+            "Kokomi_ElementalBurst",
+            "Kokomi_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105406,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105407,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105408,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105409,
+        "nMJFIKBGPGG": 10000054,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105501,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105502,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105503,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105504,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [
+            "Gorou_ElementalArt_BS",
+            "Gorou_ElementalArt",
+            "Gorou_ElementalArt_AS",
+            "Gorou_ElementalArt_Charge",
+            "Gorou_ElementalArt_Custom",
+            "Gorou_ElementalArt_Custom_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105505,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [
+            "Gorou_ElementalBurst",
+            "Gorou_Elemental_AS_Before",
+            "Gorou_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105506,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105507,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105508,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105509,
+        "nMJFIKBGPGG": 10000055,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105601,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105602,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105603,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105604,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [
+            "Sara_ElementalArt_BS",
+            "Sara_ElementalArt",
+            "Sara_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105605,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [
+            "Sara_ElementalBurst",
+            "Sara_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105606,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105607,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105608,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105609,
+        "nMJFIKBGPGG": 10000056,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105701,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105702,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105703,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS",
+            "ExtraAttack_BS",
+            "ExtraAttack1",
+            "ExtraAttack2",
+            "ExtraAttack3"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105704,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [
+            "Itto_ElementalArt_BS",
+            "Itto_ElementalArt",
+            "Itto_ElementalArt_Loop",
+            "Itto_ElementalArt_Hold",
+            "Itto_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105705,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [
+            "Itto_ElementalBurst",
+            "Itto_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105706,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105707,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105708,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105709,
+        "nMJFIKBGPGG": 10000057,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105801,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105802,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 105803,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_Charge",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105804,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [
+            "ElementalArt_Retreat",
+            "ElementalArt_Retreat_AS",
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105805,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 105806,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105807,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 105808,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 105809,
+        "nMJFIKBGPGG": 10000058,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106201,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106202,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 106203,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [
+            "FastAimLoop",
+            "AimLoop"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106204,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [
+            "ElementalArt_BS",
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106205,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106206,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106207,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106208,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 106209,
+        "nMJFIKBGPGG": 10000062,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106301,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106302,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 106303,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106304,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [
+            "Shenhe_ElementalArt_BS",
+            "Shenhe_ElementalArt_L",
+            "Shenhe_ElementalArt_AS",
+            "Shenhe_ElementalArt_H",
+            "Shenhe_ElementalArt_H_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106305,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [
+            "Shenhe_ElementalBurst",
+            "Shenhe_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106306,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106307,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106308,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 106309,
+        "nMJFIKBGPGG": 10000063,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106401,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106402,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 106403,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [
+            "ExtraAttack_BS",
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106404,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [
+            "Yunjin_ElementalArt_BS",
+            "Yunjin_ElementalArt_Loop_1",
+            "Yunjin_ElementalArt_Loop_2",
+            "Yunjin_ElementalArt_Loop_3",
+            "Yunjin_ElementalArt_Cast",
+            "Yunjin_ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106405,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [
+            "Yunjin_ElementalBurst",
+            "Yunjin_ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106406,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106407,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106408,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 106409,
+        "nMJFIKBGPGG": 10000064,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106601,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [
+            "Attack01",
+            "Attack02",
+            "Attack03",
+            "Attack04",
+            "Attack05",
+            "Katana_Attack01",
+            "Katana_Attack02",
+            "Katana_Attack03"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106602,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_JUMP",
+            "AVATAR_SWIM_JUMP",
+            "AVATAR_SWIM_JUMP_DROP",
+            "AVATAR_SWIM_JUMP_TO_WATER"
+        ]
+    },
+    {
+        "id": 106603,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [
+            "ExtraAttack",
+            "ExtraAttack_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106604,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [
+            "ElementalArt_bak",
+            "ElementalArt_AS_bak",
+            "ElementalArt_Retreat",
+            "ElementalArt_Retreat_AS",
+            "ElementalArt",
+            "ElementalArt_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106605,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [
+            "ElementalBurst",
+            "ElementalBurst_AS"
+        ],
+        "mPMILDOPBCN": []
+    },
+    {
+        "id": 106606,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_WALK",
+            "AVATAR_WALK_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106607,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_RUN",
+            "AVATAR_RUN_TO_IDLE"
+        ]
+    },
+    {
+        "id": 106608,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [],
+        "mPMILDOPBCN": [
+            "AVATAR_SPRINT",
+            "AVATAR_RUN_TO_SPRINT",
+            "AVATAR_SPRINT_TO_IDLE",
+            "AVATAR_SPRINT_TO_RUN"
+        ]
+    },
+    {
+        "id": 106609,
+        "nMJFIKBGPGG": 10000066,
+        "mOKEKBFHPPP": [
+            "StandbyShow_01",
+            "StandbyShow_02"
+        ],
+        "mPMILDOPBCN": []
+    }
+]

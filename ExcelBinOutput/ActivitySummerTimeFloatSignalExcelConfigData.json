@@ -1,0 +1,485 @@
+[
+    {
+        "id": 1,
+        "groupId": 144004071,
+        "configId": 71001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 71005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 2,
+        "groupId": 144004072,
+        "configId": 72001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 72005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 3,
+        "groupId": 144004073,
+        "configId": 73001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 73005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 4,
+        "groupId": 144004074,
+        "configId": 74001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 74005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 5,
+        "groupId": 144004075,
+        "configId": 75001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 75005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 6,
+        "groupId": 144004076,
+        "configId": 76001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 76005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 7,
+        "groupId": 144002071,
+        "configId": 71001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 71005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 8,
+        "groupId": 144002072,
+        "configId": 72001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 72005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 9,
+        "groupId": 144002074,
+        "configId": 74001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 74005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 10,
+        "groupId": 144002075,
+        "configId": 75001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 75005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 11,
+        "groupId": 144001132,
+        "configId": 132001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 132005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 12,
+        "groupId": 144001133,
+        "configId": 133001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 133005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 13,
+        "groupId": 144001134,
+        "configId": 134001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 134005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 14,
+        "groupId": 144001135,
+        "configId": 135001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 135005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 15,
+        "groupId": 144001136,
+        "configId": 136001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 136005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 16,
+        "groupId": 144001137,
+        "configId": 137001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 137005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 17,
+        "groupId": 144001138,
+        "configId": 138001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 138005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 18,
+        "groupId": 144003034,
+        "configId": 34001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 34005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 19,
+        "groupId": 144003035,
+        "configId": 35001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 35005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 20,
+        "groupId": 144003036,
+        "configId": 36001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 36005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 21,
+        "groupId": 144003037,
+        "configId": 37001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 37005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 22,
+        "groupId": 144003038,
+        "configId": 38001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 38005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 23,
+        "groupId": 144003039,
+        "configId": 39001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 39005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 24,
+        "groupId": 144003040,
+        "configId": 40001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 40005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 25,
+        "groupId": 144003041,
+        "configId": 41001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 41005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 26,
+        "groupId": 144003042,
+        "configId": 42001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 42005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 27,
+        "groupId": 144003043,
+        "configId": 43001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 43005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 28,
+        "groupId": 144003044,
+        "configId": 44001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 44005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 29,
+        "groupId": 144003045,
+        "configId": 45001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 45005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 30,
+        "groupId": 144003046,
+        "configId": 46001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 46005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 31,
+        "groupId": 144002093,
+        "configId": 93001,
+        "mLMOFKCGLAA": 1,
+        "oMLBBKFBIIP": true,
+        "hPDOMEOIECO": 93004,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 32,
+        "groupId": 144001042,
+        "configId": 42001,
+        "mLMOFKCGLAA": 2,
+        "oMLBBKFBIIP": true,
+        "hPDOMEOIECO": 42004,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 33,
+        "groupId": 144003059,
+        "configId": 59001,
+        "mLMOFKCGLAA": 3,
+        "oMLBBKFBIIP": true,
+        "hPDOMEOIECO": 59004,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 34,
+        "groupId": 144004098,
+        "configId": 98001,
+        "oMLBBKFBIIP": true,
+        "hPDOMEOIECO": 98004,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 35,
+        "groupId": 144004070,
+        "configId": 70001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 70005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 36,
+        "groupId": 144004069,
+        "configId": 69001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 69005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 37,
+        "groupId": 144004068,
+        "configId": 68001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 68005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 38,
+        "groupId": 144004067,
+        "configId": 67001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 67005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 39,
+        "groupId": 144003047,
+        "configId": 47001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 47005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 40,
+        "groupId": 144004120,
+        "configId": 120001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 120005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 41,
+        "groupId": 144004121,
+        "configId": 121001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 121005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 42,
+        "groupId": 144004122,
+        "configId": 122001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 122005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 43,
+        "groupId": 144004123,
+        "configId": 123001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 123005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 44,
+        "groupId": 144004124,
+        "configId": 124001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 124005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 45,
+        "groupId": 144004125,
+        "configId": 125001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 125005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 46,
+        "groupId": 144004126,
+        "configId": 126001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 126005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 47,
+        "groupId": 144004127,
+        "configId": 127001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 127005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 48,
+        "groupId": 144004128,
+        "configId": 128001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 128005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 49,
+        "groupId": 144001189,
+        "configId": 189001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 189005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 50,
+        "groupId": 144001139,
+        "configId": 139001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 139005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 51,
+        "groupId": 144001140,
+        "configId": 140001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 140005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 52,
+        "groupId": 144003061,
+        "configId": 61001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 61005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 53,
+        "groupId": 144003062,
+        "configId": 62001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 62005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 54,
+        "groupId": 144003063,
+        "configId": 63001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 63005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 55,
+        "groupId": 144003064,
+        "configId": 64001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 64005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 56,
+        "groupId": 144003065,
+        "configId": 65001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 65005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 57,
+        "groupId": 144003066,
+        "configId": 66001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 66005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 58,
+        "groupId": 144003067,
+        "configId": 67001,
+        "mLMOFKCGLAA": 3,
+        "hPDOMEOIECO": 67005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 59,
+        "groupId": 144002073,
+        "configId": 73001,
+        "mLMOFKCGLAA": 1,
+        "hPDOMEOIECO": 73005,
+        "kOBELGBNDGH": 45001001
+    },
+    {
+        "id": 60,
+        "groupId": 144002076,
+        "configId": 76001,
+        "mLMOFKCGLAA": 2,
+        "hPDOMEOIECO": 76005,
+        "kOBELGBNDGH": 45001001
+    }
+]

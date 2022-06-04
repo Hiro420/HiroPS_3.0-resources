@@ -1,0 +1,108 @@
+[
+    {
+        "id": 2,
+        "type": "HomeWorld",
+        "nameTextMapHash": 3071628724,
+        "mGNNBLEPDIF": 2904399338,
+        "oJNMBLGAKHE": 10,
+        "icon": "UI_MarkSwitch_Homeworld",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            2001,
+            2002,
+            2003
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Islands",
+        "nameTextMapHash": 2157852924,
+        "mGNNBLEPDIF": 4231616786,
+        "oJNMBLGAKHE": 20,
+        "icon": "UI_MarkSwitch_GoldenAppleIsles",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            4
+        ],
+        "nIHBLPCCABC": -335.3139953613281,
+        "gDGJMNADEGA": -655.7260131835938
+    },
+    {
+        "id": 4,
+        "nameTextMapHash": 706446876,
+        "mGNNBLEPDIF": 49482922,
+        "oJNMBLGAKHE": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "unlockByDefault": true,
+        "cityID": 1,
+        "fPPJOLMGOKE": 10,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 5,
+        "nameTextMapHash": 1982412604,
+        "mGNNBLEPDIF": 1428887970,
+        "oJNMBLGAKHE": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 2,
+        "fPPJOLMGOKE": 128,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 6,
+        "nameTextMapHash": 869248244,
+        "mGNNBLEPDIF": 853904250,
+        "oJNMBLGAKHE": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 3,
+        "fPPJOLMGOKE": 242,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Abyssalisle",
+        "nameTextMapHash": 1862653596,
+        "mGNNBLEPDIF": 1002315562,
+        "oJNMBLGAKHE": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "fPPJOLMGOKE": 31,
+        "sceneIdList": [
+            5
+        ]
+    },
+    {
+        "id": 8,
+        "type": "MichiaeMatsuri",
+        "nameTextMapHash": 2887066388,
+        "mGNNBLEPDIF": 2106142714,
+        "oJNMBLGAKHE": 20,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "fPPJOLMGOKE": 2,
+        "sceneIdList": [
+            7
+        ]
+    },
+    {
+        "id": 9,
+        "type": "TheChasm",
+        "nameTextMapHash": 297471884,
+        "mGNNBLEPDIF": 3468523274,
+        "oJNMBLGAKHE": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "fPPJOLMGOKE": 1,
+        "sceneIdList": [
+            6
+        ]
+    }
+]

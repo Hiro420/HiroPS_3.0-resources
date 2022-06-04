@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "iPCDNPACHID": "<color=#00E1FFFF>{0}</color>"
+    },
+    {
+        "id": 2,
+        "iPCDNPACHID": "<color=#37FFFF>{0}</color>"
+    },
+    {
+        "id": 3,
+        "iPCDNPACHID": "<color=#FFCC33FF>{0}</color>"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "cMKJPKNFDNC": 1,
+        "kMDPCLDEMKI": 3,
+        "gLJPIBAKODN": [
+            100032,
+            100016,
+            100077
+        ],
+        "fBBDJKJAMKJ": [
+            1,
+            1,
+            1
+        ],
+        "bNJHGMEHDEK": [
+            100016,
+            100077,
+            100032
+        ],
+        "nameTextMapHash": 3525292987,
+        "descTextMapHash": 1870420608,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 2,
+        "pNEDAJNFGMF": [
+            110,
+            130
+        ],
+        "watcherId": 15066011
+    },
+    {
+        "id": 2,
+        "cMKJPKNFDNC": 2,
+        "kMDPCLDEMKI": 6,
+        "gLJPIBAKODN": [
+            100020,
+            100026,
+            100016
+        ],
+        "fBBDJKJAMKJ": [
+            2,
+            1,
+            1
+        ],
+        "bNJHGMEHDEK": [
+            100016,
+            100020,
+            100026,
+            100020
+        ],
+        "nameTextMapHash": 3673086795,
+        "descTextMapHash": 298304280,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 2,
+        "pNEDAJNFGMF": [
+            110,
+            130
+        ],
+        "watcherId": 15066012
+    },
+    {
+        "id": 3,
+        "cMKJPKNFDNC": 3,
+        "kMDPCLDEMKI": 9,
+        "gLJPIBAKODN": [
+            100015,
+            100016,
+            100075
+        ],
+        "fBBDJKJAMKJ": [
+            1,
+            2,
+            1
+        ],
+        "bNJHGMEHDEK": [
+            100016,
+            100075,
+            100015,
+            100016
+        ],
+        "nameTextMapHash": 545802003,
+        "descTextMapHash": 467760952,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 3,
+        "pNEDAJNFGMF": [
+            100,
+            120
+        ],
+        "watcherId": 15066013
+    },
+    {
+        "id": 4,
+        "cMKJPKNFDNC": 4,
+        "kMDPCLDEMKI": 12,
+        "gLJPIBAKODN": [
+            100034,
+            100020,
+            100016
+        ],
+        "fBBDJKJAMKJ": [
+            1,
+            2,
+            2
+        ],
+        "bNJHGMEHDEK": [
+            100016,
+            100020,
+            100020,
+            100016,
+            100034
+        ],
+        "nameTextMapHash": 232739563,
+        "descTextMapHash": 2310127776,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 3,
+        "pNEDAJNFGMF": [
+            100,
+            120
+        ],
+        "watcherId": 15066014
+    },
+    {
+        "id": 5,
+        "cMKJPKNFDNC": 5,
+        "kMDPCLDEMKI": 15,
+        "gLJPIBAKODN": [
+            100026,
+            100075,
+            100077
+        ],
+        "fBBDJKJAMKJ": [
+            2,
+            1,
+            2
+        ],
+        "bNJHGMEHDEK": [
+            100077,
+            100077,
+            100026,
+            100075,
+            100026
+        ],
+        "nameTextMapHash": 2382072091,
+        "descTextMapHash": 3782867624,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 4,
+        "pNEDAJNFGMF": [
+            90,
+            110
+        ],
+        "watcherId": 15066015
+    },
+    {
+        "id": 6,
+        "cMKJPKNFDNC": 6,
+        "kMDPCLDEMKI": 18,
+        "gLJPIBAKODN": [
+            100015,
+            100020,
+            100075
+        ],
+        "fBBDJKJAMKJ": [
+            2,
+            2,
+            2
+        ],
+        "bNJHGMEHDEK": [
+            100020,
+            100015,
+            100020,
+            100075,
+            100015,
+            100075
+        ],
+        "nameTextMapHash": 2491925251,
+        "descTextMapHash": 1800552600,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 4,
+        "pNEDAJNFGMF": [
+            90,
+            110
+        ],
+        "watcherId": 15066016
+    },
+    {
+        "id": 7,
+        "cMKJPKNFDNC": 7,
+        "kMDPCLDEMKI": 21,
+        "gLJPIBAKODN": [
+            100034,
+            100032,
+            100026
+        ],
+        "fBBDJKJAMKJ": [
+            1,
+            1,
+            4
+        ],
+        "bNJHGMEHDEK": [
+            100026,
+            100032,
+            100026,
+            100026,
+            100034,
+            100026
+        ],
+        "nameTextMapHash": 2380693731,
+        "descTextMapHash": 3741042336,
+        "fMMJLOCHHLM": 400.0,
+        "times": 7,
+        "aDLDNGKKOHI": 4,
+        "pNEDAJNFGMF": [
+            80,
+            100
+        ],
+        "watcherId": 15066017
+    }
+]

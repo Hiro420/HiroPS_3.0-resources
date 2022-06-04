@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "gDAMJKFLGID": 90
+    },
+    {
+        "id": 2,
+        "lOHGNIEMOCB": "ROGUE_GADGET_ROT_DOWN",
+        "gDAMJKFLGID": 270
+    },
+    {
+        "id": 3,
+        "lOHGNIEMOCB": "ROGUE_GADGET_ROT_LEFT"
+    },
+    {
+        "id": 4,
+        "lOHGNIEMOCB": "ROGUE_GADGET_ROT_RIGHT",
+        "gDAMJKFLGID": 180
+    }
+]

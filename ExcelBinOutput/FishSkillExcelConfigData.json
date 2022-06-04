@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1000,
+        "skillCategory": "FISH_SKILL_CATEGORY_FORCE",
+        "nLCDEFKJBLO": "FISH_SKILL_HP",
+        "param": [
+            0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "nDGDCMPOPNB": 1.5,
+        "cOFODINCGKP": [
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            0.0
+        ],
+        "kGCLPNCPBLC": [
+            0
+        ],
+        "iPLOOONPOCC": [
+            0.0
+        ],
+        "duration": 10.0,
+        "priority": 60
+    },
+    {
+        "id": 1001,
+        "skillCategory": "FISH_SKILL_CATEGORY_FORCE",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "nDGDCMPOPNB": 3.0,
+        "cOFODINCGKP": [
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            0.0
+        ],
+        "kGCLPNCPBLC": [
+            0
+        ],
+        "iPLOOONPOCC": [
+            0.0
+        ],
+        "duration": 3.0,
+        "priority": 100
+    },
+    {
+        "id": 1002,
+        "skillCategory": "FISH_SKILL_CATEGORY_FORCE",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "nDGDCMPOPNB": 3.0,
+        "cOFODINCGKP": [
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            0.0
+        ],
+        "kGCLPNCPBLC": [
+            0
+        ],
+        "iPLOOONPOCC": [
+            0.0
+        ],
+        "duration": 3.0,
+        "priority": 100
+    },
+    {
+        "id": 2000,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_HP",
+        "param": [
+            0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 10.0,
+        "priority": 100
+    },
+    {
+        "id": 2001,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_HP",
+        "param": [
+            0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 10.0,
+        "priority": 100
+    },
+    {
+        "id": 2002,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_HP",
+        "param": [
+            0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 10.0,
+        "priority": 100
+    },
+    {
+        "id": 2010,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            3.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 1,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            0.0,
+            0.25
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 60
+    },
+    {
+        "id": 2011,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.0,
+            0.25
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2012,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2013,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2014,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            2.0,
+            2.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2015,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            30.0,
+            45.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2016,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            3.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 1,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            60
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2017,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2018,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            2.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2019,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            3.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 60
+    },
+    {
+        "id": 2020,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            2.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 1,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            0.0,
+            0.25
+        ],
+        "kGCLPNCPBLC": [
+            20,
+            40
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 60
+    },
+    {
+        "id": 2021,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.0,
+            0.25
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2022,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            2.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2023,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2024,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            70,
+            90
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2025,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            30.0,
+            45.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2026,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            2.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 1,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            1.0
+        ],
+        "kGCLPNCPBLC": [
+            50,
+            60
+        ],
+        "iPLOOONPOCC": [
+            35.0,
+            40.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2027,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2028,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.5,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2029,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            2.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 3,
+        "cOFODINCGKP": [
+            -0.20000000298023224,
+            -0.20000000298023224
+        ],
+        "nLFBANAMGGE": [
+            0.5,
+            0.5
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            60.0,
+            65.0
+        ],
+        "duration": 5.0,
+        "priority": 60
+    },
+    {
+        "id": 2030,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            3.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            30.0,
+            45.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    },
+    {
+        "id": 2031,
+        "skillCategory": "FISH_SKILL_CATEGORY_BONUS",
+        "nLCDEFKJBLO": "FISH_SKILL_TIME",
+        "param": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "bPCJIDAJENG": 2,
+        "cOFODINCGKP": [
+            0.0,
+            0.0
+        ],
+        "nLFBANAMGGE": [
+            2.0,
+            3.0
+        ],
+        "kGCLPNCPBLC": [
+            30,
+            50
+        ],
+        "iPLOOONPOCC": [
+            30.0,
+            45.0
+        ],
+        "duration": 5.0,
+        "priority": 20
+    }
+]
