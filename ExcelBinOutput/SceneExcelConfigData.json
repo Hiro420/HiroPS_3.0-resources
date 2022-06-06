@@ -9,6 +9,52 @@
         "comment": "\u6d4b\u8bd5"
     },
     {
+        "id": 20142,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+    {
+        "id": 20140,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+    {
+        "id": 20133,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+    {
+        "id": 20139,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+    {
+        "id": 20135,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+
+    {
         "id": 1002,
         "type": "SCENE_WORLD",
         "scriptData": "ClimbTest2",
@@ -28,6 +74,16 @@
     },
     {
         "id": 1004,
+        "type": "SCENE_ROOM",
+        "PPMDAJPKJKB": true,
+        "scriptData": "Knight_Inside_Test",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
+    },
+    {
+        "id": 20136,
         "type": "SCENE_ROOM",
         "PPMDAJPKJKB": true,
         "scriptData": "Knight_Inside_Test",
@@ -516,6 +572,17 @@
         "OFKOEFODNID": true
     },
     {
+        "id": 9,
+        "type": "SCENE_WORLD",
+        "scriptData": "DreamIsland_LevelStreaming",
+        "overrideDefaultProfile": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_LP_General",
+        "levelEntityConfig": "Level_BigWorld",
+        "specifiedAvatarList": [],
+        "comment": "\u6b63\u5f0f",
+        "CGPKIKDJOHP": 1,
+        "JJCPLBLPGAH": true
+    },
+    {
         "id": 5,
         "type": "SCENE_WORLD",
         "scriptData": "AbyssalPalace_LevelStreaming",
@@ -549,6 +616,27 @@
         "CGPKIKDJOHP": 2,
         "JJCPLBLPGAH": true,
         "OFKOEFODNID": true
+    },
+    {
+        "id": 8,
+        "type": "SCENE_WORLD",
+        "scriptData": "LostParadise_LevelStreaming",
+        "overrideDefaultProfile": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_LP_General",
+        "levelEntityConfig": "Level_BigWorld",
+        "specifiedAvatarList": [],
+        "comment": "\u6b63\u5f0f",
+        "CGPKIKDJOHP": 1,
+        "JJCPLBLPGAH": true,
+        "OFKOEFODNID": true
+    },
+    {
+        "id": 20134,
+        "type": "SCENE_WORLD",
+        "scriptData": "Level_Gameplay_Test",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6d4b\u8bd5"
     },
     {
         "id": 20000,
@@ -1095,6 +1183,15 @@
     },
     {
         "id": 20130,
+        "type": "SCENE_ROOM",
+        "scriptData": "IndoorScene_Ly_CyRoom",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "\u6b63\u5f0f"
+    },
+    {
+        "id": 20132,
         "type": "SCENE_ROOM",
         "scriptData": "IndoorScene_Ly_CyRoom",
         "overrideDefaultProfile": "",
