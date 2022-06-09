@@ -5052,7 +5052,7 @@
         "skillIcon": "Skill_E_Heizo_01",
         "cdTime": 20.0,
         "costElemType": "Wind",
-        "costElemVal": 80.0,
+        "costElemVal": 40.0,
         "maxChargeNum": 1,
         "triggerID": 5,
         "lockShape": "CircleLockEnemyR15H10HC",
