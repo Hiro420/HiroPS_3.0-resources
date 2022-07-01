@@ -54,6 +54,24 @@
         "comment": "测试"
     },
     {
+        "id": 20137,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "测试"
+    },
+    {
+        "id": 20138,
+        "type": "SCENE_DUNGEON",
+        "scriptData": "ClimbTest1",
+        "overrideDefaultProfile": "",
+        "levelEntityConfig": "",
+        "specifiedAvatarList": [],
+        "comment": "测试"
+    },
+    {
         "id": 20139,
         "type": "SCENE_DUNGEON",
         "scriptData": "ClimbTest1",
